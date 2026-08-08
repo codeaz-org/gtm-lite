@@ -1,0 +1,43 @@
+name: Push approved drafts to Gmail
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/approved/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gmail-drafts
+  cancel-in-progress: false
+
+jobs:
+  push-drafts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci || npm install
+
+      - name: Create Gmail drafts
+        env:
+          GMAIL_CLIENT_ID: ${{ secrets.GMAIL_CLIENT_ID }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+        run: node scripts/push_gmail_drafts.mjs
+
+      - name: Commit moved records
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then exit 0; fi
+          git config user.name  "gtm-bot"
+          git config user.email "gtm-bot@users.noreply.github.com"
+          git add data/
+          git commit -m "Queued approved drafts to Gmail"
+          git push

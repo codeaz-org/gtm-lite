@@ -1,0 +1,69 @@
+name: Daily GTM pipeline
+
+on:
+  schedule:
+    - cron: "0 13 * * 1-5"   # weekdays 13:00 UTC — adjust per project
+  workflow_dispatch: {}       # "Run now" button
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: gtm-pipeline
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci || npm install
+
+      - name: Discover leads (Exa)
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: node scripts/discover.mjs
+
+      - name: Enrich + score
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: node scripts/enrich.mjs
+
+      - name: Find lead emails (scrape + optional Hunter free tier)
+        env:
+          HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
+        run: node scripts/find_email.mjs
+
+      - name: Draft emails
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: node scripts/draft.mjs
+
+      - name: Open review PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet && [ -z "$(git status --porcelain data/)" ]; then
+            echo "Nothing new today."; exit 0
+          fi
+          BRANCH="gtm/run-$(date +%Y-%m-%d-%H%M)"
+          git config user.name  "gtm-bot"
+          git config user.email "gtm-bot@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/
+          git commit -m "GTM run $(date +%Y-%m-%d): new leads & drafts"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "GTM review: $(date +%Y-%m-%d)" \
+            --body "New drafts in \`data/drafts/\`. To queue one for Gmail: fill in the \`to:\` field and move the file to \`data/approved/\`, then merge." \
+            --base main --head "$BRANCH"

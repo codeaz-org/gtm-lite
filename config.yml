@@ -1,0 +1,71 @@
+# ─────────────────────────────────────────────────────────────
+# GTM-Lite project config — the ONE file you edit per project.
+# Everything else (workflows, scripts, knowledge) is shared template.
+# ─────────────────────────────────────────────────────────────
+
+project:
+  name: "Ochi pe Șantier"
+  website: "https://ochipesantier.ro"
+  sender_name: "Anton Zaharia"
+  # Must match the Gmail account you authorize (see README).
+  sender_email: "you@gmail.com"
+
+# One tight paragraph. The AI searches broadly off this.
+company_profile: |
+  Ochi pe Șantier is a drone-based construction-site monitoring service
+  for the Romanian diaspora building a house back home. A local pilot
+  flies the client's site every 1–2 weeks and publishes a dated photo
+  report (stage, progress %, comparison with previous visit) to the
+  client's private dashboard. Typical customer: a Romanian working in
+  Germany, Italy, Spain, UK or Ireland who is paying a contractor to
+  build a house in Romania and cannot verify progress in person.
+  Alternative today: relatives sending WhatsApp photos, unannounced
+  trips home, or blind trust — all of which lead to delays, disputes,
+  and cost overruns.
+
+# Who is a great-fit lead? Be concrete: role, company type, signals.
+icp: |
+  Romanians living abroad (DE, IT, ES, UK, IE, FR, BE, NL) who are
+  actively building, renovating, or planning a house in Romania.
+  Signals: posts in Romanian diaspora Facebook groups about
+  construction, forum threads on forumconstructii.ro / romanialibera
+  about șantier progress, YouTube vloggers documenting a diaspora
+  build, real-estate agencies specialising in diaspora clients,
+  construction firms in RO that advertise to diaspora, notaries and
+  architects in mid-size Romanian cities (Galați, Iași, Cluj, Brașov,
+  Timișoara) whose clients are frequently abroad.
+
+# Optional targeted hunts. Each brief becomes its own search angle.
+lead_briefs:
+  - "construction companies in Romania advertising to diaspora clients (case pentru români din străinătate)"
+  - "Romanian architects and design studios with English/German-language sites targeting expat clients"
+  - "notaries and real-estate agencies in Romania publishing content for diaspora buyers"
+  - "YouTube channels or blogs documenting a Romanian diaspora house-build project"
+
+limits:
+  searches_per_run: 3        # Exa queries per daily run (keep free tier happy)
+  results_per_search: 8      # ≤10 keeps page contents bundled (no extra Exa cost)
+  max_new_leads_per_run: 10
+  max_drafts_per_run: 8
+  min_fit_score: 6           # 1-10; below this a lead is auto-rejected
+
+models:
+  # Ordered list of free OpenAI-compatible providers. First one whose api_key_env
+  # is set is tried; on error (rate limit, 5xx, etc.) the next one is tried.
+  # Add/remove/reorder freely.
+  chat:
+    - base_url: "https://openrouter.ai/api/v1"
+      api_key_env: "OPENROUTER_API_KEY"
+      model: "deepseek/deepseek-chat-v3-0324:free"
+    - base_url: "https://integrate.api.nvidia.com/v1"
+      api_key_env: "NVIDIA_API_KEY"
+      model: "meta/llama-3.3-70b-instruct"
+
+email:
+  tone: "warm, direct, Romanian founder-to-founder, zero corporate speak; Romanian language preferred when the lead is clearly RO, English otherwise"
+  max_words: 120
+  # A one-line honest reason you're reaching out, used to ground every draft.
+  why_outreach: "Construiesc un serviciu de monitorizare cu drona pentru românii din diasporă care ridică o casă în țară — caut 3–5 parteneri (constructori, arhitecți, notari) care lucrează des cu clienți din străinătate."
+  # Always give people an easy out. Keep this true.
+  include_optout: true
+  optout_line: "Dacă nu e relevant, spuneți-mi 'nu, mulțumesc' și nu revin."

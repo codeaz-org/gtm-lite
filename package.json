@@ -1,0 +1,17 @@
+{
+  "name": "gtm-lite",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AutoGTM-style outbound pipeline on free GitHub Actions + GitHub Models + Exa free tier + Gmail drafts.",
+  "scripts": {
+    "discover": "node scripts/discover.mjs",
+    "enrich": "node scripts/enrich.mjs",
+    "draft": "node scripts/draft.mjs",
+    "gmail": "node scripts/push_gmail_drafts.mjs"
+  },
+  "dependencies": {
+    "googleapis": "^140.0.0",
+    "js-yaml": "^4.1.0"
+  }
+}
