@@ -5,10 +5,10 @@
 
 project:
   name: "Ochi pe Șantier"
-  website: "https://ochipesantier.ro"
+  website: "https://ochipesantier.vercel.app"
   sender_name: "Anton Zaharia"
   # Must match the Gmail account you authorize (see README).
-  sender_email: "you@gmail.com"
+  sender_email: "ochipesantier@codeaz.org"
 
 # One tight paragraph. The AI searches broadly off this.
 company_profile: |
