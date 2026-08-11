@@ -1,0 +1,20 @@
+{
+  "id": "1b55f436de4f",
+  "url": "https://dprp.gov.ro/web/lucrezi-in-strainatate/cum-se-poate-obtine-cartea-de-identitate-fara-deplasare-in-romania/",
+  "title": "Cum se poate obține cartea de identitate, fără deplasare în România",
+  "snippet": "Cum se poate obține cartea de identitate, fără deplasare în România – DPRP.GOV.RO – Departamentul pentru Românii de Pretutindeni\n[Skip to content](#content)\n[![DPRP.GOV.RO - Departamentul pentru Românii de Pretutindeni](https://dprp.gov.ro/web/wp-content/uploads/2019/12/logo-DPRP-v14.png)](https://dprp.gov.ro/web/)\n* [Lucrezi în străinătate?](https://dprp.gov.ro/web/lucrezi-in-strainatate/)\n# Cum se poate obține cartea de identitate, fără deplasare în România\n31/01/2024\nFără a fi nevoie să vină în ţară, cetățenii români aflaţi în străinătate, care nu deţin o carte de identitate românească valabilă (din cauza expirării, furtului, deteriorării, schimbării numelui sau a domiciliului), pot efectua la un consulat românesc o procură specială de delegare pentru obţinerea unei noi cărţi de identitate, serviciu pentru care nu se percep taxe consulare.\n**Ce trebuie să facă solicitantul:**\nSolicitantul trebuie să facă o procura specială pe numele unei persoane din România, care va face demersurile necesare, în locul său, la Serviciul Public de Evidență a Populației. Procura poate fi autentificată doar de o misiune diplomatică sau oficiu consular al României din țara de reședință a solicitantului.\nÎn momentul în care se face cererea pentru procura specială în vederea eliberării cărții de identitate, solicitantul are obligaţia de a face o programare la oficiul Consular şi de a merge personal la ghișeu, unde trebuie să prezinte următoarele documente:\n* act de identitate românesc valabil (p",
+  "source_query": "inurl:case-pentru-romanii-din-strainatate site:.ro",
+  "discovered_at": "2026-08-11T14:23:25.590Z",
+  "who": "The person is likely a Romanian living abroad, possibly in a country such as Germany, Italy, Spain, UK, or Ireland, who is looking to obtain a Romanian identity card without having to travel back to Romania.",
+  "fit_score": 6,
+  "fit_reason": "The lead is researching how to obtain a Romanian identity card while living abroad, which suggests they may be planning to build or renovate a house in Romania and need to verify their identity. However, the lead source is a government website, which is not a direct indication of their interest in construction or renovation.",
+  "hooks": [
+    "Romanian identity card",
+    "living abroad",
+    "construction or renovation in Romania"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-11T14:37:50.137Z",
+  "email": "bogdan.bobe@dprp.gov.ro",
+  "email_source": "hunter (94% conf)"
+}
