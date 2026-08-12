@@ -1,0 +1,20 @@
+{
+  "id": "cf7123991a02",
+  "url": "https://beletage.ro/en/architect-cluj-napoca",
+  "title": "Architect Cluj — Architecture firm in Cluj-Napoca | BELETAGE",
+  "snippet": "Architect Cluj — Architecture firm in Cluj-Napoca | BELETAGE\n\n# Architecture firm in Cluj-Napoca\n\nBeletage is a Romanian-German architecture firm in Cluj-Napoca, founded in 2012. We design homes, residential buildings and commercial spaces, and we prepare urban planning documentation — from the first sketch all the way to the building permit and construction. If you're looking for an architect in Cluj who will see your project through to the end, not just draw you a façade, you're in the right place.\n\n## Architecture services in Cluj-Napoca\n\n- Residential design — single-family houses, duplexes, apartment buildings. From concept to technical design and construction details.\n- Commercial and office design — workspaces, mixed-use developments, administrative buildings.\n- Urban planning — zonal and detailed urban plans (PUZ / PUD — zonal and detailed urban development plans), for land subdivisions, ensembles and developments.\n- Permitting and approvals — we coordinate the entire process: certificat de urbanism (urban planning certificate), site studies, the building permit design (DTAC — the documentation submitted to obtain a building permit), avize (official approvals from authorities and utilities) and the filing of the dossier.\n- Design and consultancy — from organising the space to choosing the materials.\n\n## Why a local architecture firm, based in Cluj\n\nAn architect from Cluj-Napoca knows the local regulations, the city's urban planning code (PUG — general urban plan) and ",
+  "source_query": "romanian architects english website german clients",
+  "discovered_at": "2026-08-12T14:22:47.999Z",
+  "who": "Beletage, a Romanian-German architecture firm based in Cluj-Napoca, providing design and consultancy services for residential and commercial spaces.",
+  "fit_score": 8,
+  "fit_reason": "The company is an architecture firm in a mid-size Romanian city (Cluj-Napoca), which aligns with the ICP signal of notaries and architects in mid-size Romanian cities whose clients are frequently abroad. Additionally, the firm's services include residential design, which could be of interest to Romanians living abroad who are building or renovating a house in Romania.",
+  "hooks": [
+    "Romanian-German architecture firm",
+    "residential design services",
+    "familiarity with local regulations and urban planning code"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-12T14:47:27.363Z",
+  "email": "office@beletage.ro",
+  "email_source": "scraped https://beletage.ro/en/architect-cluj-napoca"
+}

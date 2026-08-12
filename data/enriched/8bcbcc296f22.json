@@ -1,0 +1,19 @@
+{
+  "id": "8bcbcc296f22",
+  "url": "https://beletage.ro/en/studio",
+  "title": "Studio — The Beletage Architecture Team | BELETAGE",
+  "snippet": "Studio — The Beletage Architecture Team | BELETAGE\n\n> “ Since 2012, Beletage unites the rigor of German design tradition with the creativity and inventiveness of Romanian architecture.”",
+  "source_query": "romanian architects english website german clients",
+  "discovered_at": "2026-08-12T14:22:47.999Z",
+  "who": "Beletage is an architecture team with a mix of German and Romanian design traditions, operating since 2012.",
+  "fit_score": 6,
+  "fit_reason": "Beletage's involvement in Romanian architecture and their international (German) influence suggests they might work with diaspora clients, but their website doesn't explicitly state this, and they don't seem to specialize in construction monitoring or services for remote clients.",
+  "hooks": [
+    "mention of German design tradition",
+    "involvement in Romanian architecture"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-12T14:43:22.988Z",
+  "email": "office@beletage.ro",
+  "email_source": "scraped https://beletage.ro/en/studio"
+}
