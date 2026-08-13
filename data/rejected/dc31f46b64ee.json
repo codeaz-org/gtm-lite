@@ -1,0 +1,14 @@
+{
+  "id": "dc31f46b64ee",
+  "url": "http://www.arhitecti.ro/aov-architecture.html",
+  "title": "AOV architecture",
+  "snippet": "AOV architecture\n\ncatalog arhitecti, firme si cabinete arhitectura.\n\n# AOV architecture\n\nBucuresti\n\nBiroul AOV architecture ofera servicii complete de:\n\n- proiectare arhitectura\n\n- proiectare structuri\n\n- proiectare instalatii\n\n- obtinere avize\n\nProiect complet arhitectura detaliata ( faza DTAC ), structuri detaliate ( faza PT ), scheme instalatii ( faza DTAC ) cu numai 8 E/mp.\n\nVA ASTEPTAM CU O MULTITUDINE DE PROIECTE TIP DIN CARE PUTETI ALEGE ( proiectele se caracterizeaza prin proiecte de case mici si medii, abordate intr-o tehnica standard de constructie, evitandu-se astfel costuri ridicate de constructie )\n\nProiect complet arhitectura detaliata ( faza DTAC ), structuri detaliate ( faza PT ), scheme instalatii ( faza DTAC ) cu numai 8 E/mp.\n\nPrevious post: Vasile Zastavnitchi\n\nNext post: DUBLU V STUDIO\n\nCopyright © 2011 Arhitecti.Ro",
+  "source_query": "site:romanianarchitects.ro OR site:arhitecti.ro \"clienți din străinătate\" \"case pentru români\" \"English\" \"German\" -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-13T14:22:54.823Z",
+  "who": "AOV architecture is an architectural firm based in Bucharest, Romania, offering full architectural, structural, and installation design services, including permit acquisition, targeting clients seeking standard, cost-effective house designs for small to medium homes.",
+  "fit_score": 3,
+  "fit_reason": "The firm serves general architectural clients in Romania with no explicit mention of serving the diaspora, remote clients, or offering progress monitoring. While they design houses (a relevant adjacent service), there is no signal they cater to Romanians abroad who need verification of construction progress — their ICP is local or domestic clients seeking design-only services. Ochi pe Șantier solves a very specific problem (remote progress verification) that this firm does not appear to address or advertise to.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-13T14:28:49.002Z"
+}

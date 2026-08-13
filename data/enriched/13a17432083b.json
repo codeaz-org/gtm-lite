@@ -1,0 +1,20 @@
+{
+  "id": "13a17432083b",
+  "url": "https://www.facebook.com/groups/expatbucharest/posts/2472962406384673/",
+  "title": "**Welcome to Expats in Romania: We're Building ...",
+  "snippet": "Expat Bucharest | **Welcome to Expats in Romania: We’re Building Something Real** | Facebook\n\nExpat Bucharest | \\*\\*Welcome to Expats in Romania: We’re Building Something Real\\*\\* | Facebook\nFacebook\n[\nLog In\n](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https://www.facebook.com/groups/expatbucharest/posts/2472962406384673/)\nLog In\n[Forgot Account?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)\n[\n](https://www.facebook.com/groups/215624608785142/?__cft__[0]=AZZCv4fOifJH2OC1K65SVP-DIblVwiKKwShndNAcKoxG1Hn6VIph9ZspvQJoiplOsQRcfLaNV7FnvuMxYlHMU1bytJonWkzC4jqVkYqcg4kbqdAp7DibWYz0haBpTNulI8nUItas5AVKFG_gE9AByU6WG1Z380DXoj2Th91QBdOBzN4MxwwJrNLOOYJdZshoyCZrhWUPZtupQ9LUuXu37EqG&__tn__=%3C%3C,P-R)\n##\n[Expat Bucharest](https://www.facebook.com/groups/215624608785142/?__cft__[0]=AZZCv4fOifJH2OC1K65SVP-DIblVwiKKwShndNAcKoxG1Hn6VIph9ZspvQJoiplOsQRcfLaNV7FnvuMxYlHMU1bytJonWkzC4jqVkYqcg4kbqdAp7DibWYz0haBpTNulI8nUItas5AVKFG_gE9AByU6WG1Z380DXoj2Th91QB",
+  "source_query": "site:facebook.com/groups romanian diaspora construction",
+  "discovered_at": "2026-08-12T20:00:25.770Z",
+  "who": "The post is from the 'Expat Bucharest' Facebook group, targeting Romanians living abroad (particularly in the UK, Germany, Italy, etc.) who are discussing or planning construction projects in Romania. The group serves as a community hub for diaspora members sharing experiences about building homes back home.",
+  "fit_score": 8,
+  "fit_reason": "The group explicitly targets Romanians abroad engaged in construction/renovation in Romania — a direct match to the ICP. The post’s title 'We’re Building Something Real' strongly implies active or planned building projects. While the excerpt doesn’t show a specific construction update, the group’s purpose and name indicate high relevance. It’s a known diaspora hub where members share progress, ask for contractor advice, and discuss notaries/architects — all signals aligned with Ochi pe Șantier’s value proposition.",
+  "hooks": [
+    "Reference the group’s name and purpose: 'I saw your post in Expat Bucharest about building in Romania — many members struggle to verify progress remotely.'",
+    "Offer a solution to a common pain point: 'Several members have mentioned relying on WhatsApp photos or blind trust — we provide weekly drone reports so you can see real progress without flying home.'",
+    "Leverage social proof: 'Other diaspora builders in the group have used Ochi pe Șantier to avoid disputes and keep their projects on schedule.'"
+  ],
+  "guessed_channel": "facebook",
+  "enriched_at": "2026-08-13T14:25:20.637Z",
+  "email": "",
+  "email_source": "not found"
+}

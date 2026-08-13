@@ -1,0 +1,20 @@
+{
+  "id": "0bc408054267",
+  "url": "http://www.arhitecti.ro/bogdan-parfene.html",
+  "title": "Arhitect Bogdan Parfene",
+  "snippet": "Arhitect Bogdan Parfene\n\ncatalog arhitecti, firme si cabinete arhitectura.\n\n# Bogdan Parfene\n\nErgonomikon SRL – arhitect Bogdan Parfene\n\n“Arhitectura desteapta in oameni stari sufletesti. Datoria arhitectului este aceea de a preciza aceste stari sufletesti…”\n\nAdolf Loos\n\nPROIECTARE ARHITECTURA, locuinte, spatii comerciale, amenajari interioare si exterioare, gradini, peisagistica, design industrial, identitate vizuala, logo design, scenografie, project management, constructii pasive energetic, case ecologice, autonome, proiecte realizate cu fonduri europene.\n\nIasi\n\nPrevious post: Robert Tauwinkl\n\nNext post: Extend 4D Concept\n\nCopyright © 2011 Arhitecti.Ro",
+  "source_query": "site:romanianarchitects.ro OR site:arhitecti.ro \"clienți din străinătate\" \"case pentru români\" \"English\" \"German\" -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-13T14:22:54.823Z",
+  "who": "Bogdan Parfene is an architect based in Iași, Romania, running Ergonomikon SRL, offering architectural design and project management services for residential, commercial, and sustainable buildings, including passive houses and EU-funded projects.",
+  "fit_score": 6,
+  "fit_reason": "Bogdan Parfene is an architect in Iași — a mid-size Romanian city explicitly mentioned in the ICP — and offers project management and construction-related services, which suggests he may work with clients abroad. However, there is no direct evidence in the source that his clients are specifically from the Romanian diaspora (DE, IT, ES, UK, IE, FR, BE, NL) or that he actively serves them. The page is a generic architect profile with no language, client testimonials, or diaspora-focused messaging. While he fits the geographic and professional profile of a potential partner or referral source, his direct relevance to the ICP as a customer is uncertain without clearer signals of diaspora engagement.",
+  "hooks": [
+    "Mention that Ochi pe Șantier helps architects like him provide verified progress reports to clients abroad — reducing disputes and improving trust in long-distance projects.",
+    "Highlight how drone monitoring can complement his project management services by offering objective, frequent updates for clients who can’t visit the site in person (common among diaspora homeowners).",
+    "Note that many of his clients in Iași may have family or ties abroad — positioning Ochi pe Șantier as a value-add to retain and satisfy those remote clients."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-13T14:23:51.832Z",
+  "email": "",
+  "email_source": "not found"
+}

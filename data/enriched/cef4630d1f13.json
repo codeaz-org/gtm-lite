@@ -14,5 +14,7 @@
     "MEP"
   ],
   "guessed_channel": "facebook",
-  "enriched_at": "2026-08-12T20:06:33.066Z"
+  "enriched_at": "2026-08-12T20:06:33.066Z",
+  "email": "",
+  "email_source": "not found"
 }
