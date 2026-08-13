@@ -37,10 +37,10 @@ icp: |
 
 # Optional targeted hunts. Each brief becomes its own search angle.
 lead_briefs:
-  - "construction companies in Romania advertising to diaspora clients (case pentru români din străinătate)"
-  - "Romanian architects and design studios with English/German-language sites targeting expat clients"
-  - "notaries and real-estate agencies in Romania publishing content for diaspora buyers"
-  - "YouTube channels or blogs documenting a Romanian diaspora house-build project"
+  - "construction companies in Romania advertising to diaspora clients (case pentru români din străinătate) — exclude facebook.com, instagram.com, tiktok.com"
+  - "Romanian architects and design studios with English/German-language sites targeting expat clients — exclude facebook.com, instagram.com, tiktok.com"
+  - "notaries and real-estate agencies in Romania publishing content for diaspora buyers — exclude facebook.com, instagram.com, tiktok.com"
+  - "blogs documenting a Romanian diaspora house-build project — exclude facebook.com, instagram.com, tiktok.com, youtube.com"
 
 limits:
   searches_per_run: 3        # Exa queries per daily run (keep free tier happy)
@@ -56,10 +56,13 @@ models:
   chat:
     - base_url: "https://openrouter.ai/api/v1"
       api_key_env: "OPENROUTER_API_KEY"
-      model: "meta-llama/llama-3.3-70b-instruct:free"
+      model: "nvidia/nemotron-3-super-120b-a12b:free"
     - base_url: "https://openrouter.ai/api/v1"
       api_key_env: "OPENROUTER_API_KEY"
-      model: "google/gemini-2.0-flash-exp:free"
+      model: "openai/gpt-oss-20b:free"
+    - base_url: "https://openrouter.ai/api/v1"
+      api_key_env: "OPENROUTER_API_KEY"
+      model: "google/gemma-4-31b-it:free"
     - base_url: "https://integrate.api.nvidia.com/v1"
       api_key_env: "NVIDIA_API_KEY"
       model: "meta/llama-3.3-70b-instruct"
