@@ -4,17 +4,17 @@
   "title": "Lets start an intentional community in Romania",
   "snippet": "Intentional Communities | Lets start an intentional community in Romania",
   "source_query": "site:facebook.com/groups romanian diaspora construction",
-  "discovered_at": "2026-08-12T20:00:25.771Z",
-  "who": "A group of individuals interested in starting an intentional community in Romania, likely Romanians living abroad or individuals with ties to Romania.",
+  "discovered_at": "2026-08-12T20:11:50.864Z",
+  "who": "A group of individuals interested in starting an intentional community in Romania, potentially including Romanians living abroad.",
   "fit_score": 6,
-  "fit_reason": "The post is about starting a community in Romania, which may involve building or renovating a property, aligning with the ICP. However, the focus on intentional communities may not directly relate to individual house building or renovation plans.",
+  "fit_reason": "The post is in a Facebook group about intentional communities and mentions Romania, which aligns with the ICP's geographic focus. However, the context is more about community building rather than individual house construction or renovation, which is the primary focus of Ochi pe Șantier.",
   "hooks": [
     "intentional community",
     "Romania",
     "community building"
   ],
   "guessed_channel": "facebook",
-  "enriched_at": "2026-08-12T20:07:15.329Z",
+  "enriched_at": "2026-08-12T20:53:08.818Z",
   "email": "",
   "email_source": "not found"
 }
