@@ -4,11 +4,11 @@
   "title": "EuroVelo Discussion Group | What is the opinion on cycling on the Bulgarian side of the Danube between the Iron Gates and Ruse versus the Romanian side",
   "snippet": "EuroVelo Discussion Group | What is the opinion on cycling on the Bulgarian side of the Danube between the Iron Gates and Ruse versus the Romanian side | Facebook\n**\nFacebook\n[\nLog In\n](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https://www.facebook.com/groups/2291565217760811/posts/3479249915658996/)\nLog In\n[Forgot Account?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)\n[\n![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/67668713_2347025962044118_3328033053724377088_n.jpg?stp=c304.0.417.417a_cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=33e84f&_nc_ohc=eSy8DBcdBbgQ7kNvwGq-Tsn&_nc_oc=AdlJCwWq_CwbqOghXQe75o2SHec05tpPx1XaJLD8qLMO5bh2NZ2w-Pf1nwBfm4RuTXAQCsE3FN5xclFwoLqD5yc_&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=M81xhRhizfrdJhHKVSbomg&oh=00_AfJrswL9qsm9BLbjHTM_OnINy7zpbTTP8a9obEzcencd4g&oe=68471595)\n## # EuroVelo Discussion Group | What is the opinion on cycling on the Bulgarian side of the Danube between the Iron Gates and ",
   "source_query": "site:facebook.com/groups romanian diaspora construction",
-  "discovered_at": "2026-08-12T20:00:25.772Z",
-  "who": "A Facebook user, likely a Romanian living abroad, who is part of the EuroVelo Discussion Group and is interested in cycling and possibly traveling.",
-  "fit_score": 2,
-  "fit_reason": "The post is not directly related to construction or building a house in Romania, but the user is part of a group that may indicate they are a Romanian living abroad, which is a key characteristic of the ICP. However, the topic of discussion is cycling, not construction, which reduces the fit score.",
+  "discovered_at": "2026-08-12T20:11:50.865Z",
+  "who": "This is a Facebook post from the 'EuroVelo Discussion Group' discussing cycling routes along the Danube River, specifically comparing the Bulgarian and Romanian sides between the Iron Gates and Ruse. The content is focused on cycling infrastructure and tourism, with no indication of construction, housing, or Romanian diaspora activity related to building homes in Romania.",
+  "fit_score": 1,
+  "fit_reason": "The post is entirely unrelated to construction, home building, or the Romanian diaspora. It discusses cycling tourism on the Danube, which falls outside all ICP signals (no mention of Romania-based construction, diaspora groups, forumconstructii.ro, YouTube vlogs, real-estate agencies, or construction firms targeting diaspora). The group and post topic suggest a niche interest in European cycling routes, not homebuilding or property oversight.",
   "hooks": [],
   "guessed_channel": "unknown",
-  "enriched_at": "2026-08-12T20:03:16.875Z"
+  "enriched_at": "2026-08-14T14:18:11.303Z"
 }
