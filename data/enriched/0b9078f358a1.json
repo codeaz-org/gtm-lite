@@ -4,16 +4,18 @@
   "title": "Building My Own | 1 bag of cement molds how many standard 5 inches blocks | Facebook",
   "snippet": "Building My Own | 1 bag of cement molds how many standard 5 inches blocks | Facebook\n**\nFacebook\n[\nLog In\n](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https://www.facebook.com/groups/456467567894267/posts/2392349750972696/)\nLog In\n[Forgot Account?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)\n[\n](https://www.facebook.com/groups/456467567894267/?hoisted_section_header_type=recently_seen&multi_permalinks=2392349750972696&__cft__[0]=AZVoWWPcwXURH6BapDpaz4NA3WhKclEYmiNyIWo4HiH4E_gxUvYQ3H-0LpTU_5FPDbOY8u6SxacVWlKpBrrBW6hWH3lZll86eX0MFlbL5ZWlaqwzsr0JXKI6xPpHeSfpSuOciVmkD_UZHT9UChweWZWlKmp3Y6DJ2PJj5h_bKby_Voof5FfGOkfeKvGhb4S5n99jd-5ae5_YwNDwFZUwQUNQ&__tn__=%3C%3C,P-R)\n## [Building My Own](https://www.facebook.com/groups/456467567894267/?hoisted_section_header_type=recently_seen&multi_permalinks=2392349750972696&__cft__[0]=AZVoWWPcwXURH6BapDpaz4NA3WhKclEYmiNyIWo4HiH4E_gxUvYQ3H-0LpTU_5FPDbOY8u6SxacVWlKpBrrBW6hWH3lZll86eX0MFlbL5ZWlaqwzsr0JXKI",
   "source_query": "site:facebook.com/groups romanian diaspora construction",
-  "discovered_at": "2026-08-12T20:00:25.773Z",
-  "who": "A Romanian individual living abroad, likely in a country such as Germany, Italy, Spain, UK, or Ireland, who is actively building or planning to build a house in Romania.",
-  "fit_score": 8,
-  "fit_reason": "The individual is posting in a Facebook group about construction, specifically asking about the number of standard 5-inch blocks that can be made from one bag of cement, indicating they are involved in a building project and seeking information.",
+  "discovered_at": "2026-08-12T20:11:50.865Z",
+  "who": "A member of a Romanian diaspora Facebook group (likely based in DE, IT, ES, UK, IE, FR, BE, or NL) asking a technical DIY question about cement-to-block ratios for building a house in Romania, indicating active involvement in a self-build or contractor-managed construction project.",
+  "fit_score": 7,
+  "fit_reason": "The user is clearly engaged in a house-building process in Romania (asking about materials for block production), likely as part of a self-build or closely supervised project. The Facebook group context suggests diaspora membership, and the technical nature of the question implies hands-on or decision-making involvement—key signals for our ICP. However, the post lacks explicit confirmation of the user being abroad (though group membership strongly suggests it), and the focus is on DIY masonry rather than hiring contractors, which slightly reduces alignment with our core service (which targets those paying contractors and needing remote verification).",
   "hooks": [
-    "mention of cement and block construction",
-    "Facebook group focused on construction"
+    "The user is actively sourcing materials and calculating ratios for block production—indicating they are in the early/mid stages of construction and likely managing or closely overseeing the build.",
+    "They are participating in a Romanian diaspora Facebook group, which is a prime signal for our target audience; we can reference the group’s purpose (diaspora building homes in Romania) to build rapport.",
+    "The question reveals a need for precision and control over quality/cost—pain points our service solves by providing objective, regular progress verification to prevent contractor disputes or material waste.",
+    "Since they’re doing DIY calculations, they may later hire contractors for specialized work (foundations, roofing, etc.)—a future touchpoint to position Ochi pe Șantier as a risk-mitigation tool even for partial self-builds."
   ],
   "guessed_channel": "facebook",
-  "enriched_at": "2026-08-12T20:03:07.152Z",
+  "enriched_at": "2026-08-14T14:17:31.625Z",
   "email": "",
   "email_source": "not found"
 }
