@@ -4,11 +4,17 @@
   "title": "How To ADU | Could we do lath and stucco before mechanical, electrical, and plumbing is done | Facebook",
   "snippet": "How To ADU | Could we do lath and stucco before mechanical, electrical, and plumbing is done | Facebook\n**\nFacebook\n[\nLog In\n](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https://www.facebook.com/groups/howtoadu/posts/2992467267575360/)\nLog In\n[Forgot Account?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)\n![](https://static.xx.fbcdn.net/rsrc.php/v4/ys/r/3A4TXil7NgV.png)\nCan we do lath and stucco before MEP is done?\nSummarized by AI from the post below\n**\n[\n](https://www.facebook.com/groups/1497985200356915/?hoisted_section_header_type=recently_seen&multi_permalinks=2992467267575360&__cft__[0]=AZWb9FJXGP3bqIglec-HSv4CYxvnINoOfSudW6rAwh3zYmog3shURgBWs5-rfF8_2b21Btlk_kzhQcldTGuAtQWExc87-3x9w-S2iGLvPou10YKfcdVxhXtbKegCfSm30EagvKTmzsSMQxuaReXj7YHw-BpScRafshA4rNdYCXQjP72efptHhfOM4fmFt_MUSYg&__tn__=%3C%3C,P-R)\n## [How To ADU](https://www.facebook.com/groups/1497985200356915/?hoisted_section_header_type=recently_seen&multi_permalinks=2992467",
   "source_query": "site:facebook.com/groups romanian diaspora construction",
-  "discovered_at": "2026-08-12T20:11:50.865Z",
-  "who": "A user in the 'How To ADU' Facebook group asking a technical construction question about sequencing lath and stucco work relative to MEP (mechanical, electrical, plumbing) installation. The group focuses on Accessory Dwelling Units (ADUs), primarily in the U.S. context.",
-  "fit_score": 2,
-  "fit_reason": "The post is about U.S.-based ADU construction techniques and building codes, with no indication the user is Romanian, living abroad, or involved in a construction project in Romania. The 'How To ADU' group is geared toward U.S. homeowners and builders, not the Romanian diaspora. There is zero signal of relevance to building a house in Romania or engaging with Romanian construction processes.",
-  "hooks": [],
-  "guessed_channel": "unknown",
-  "enriched_at": "2026-08-14T14:23:51.293Z"
+  "discovered_at": "2026-08-12T20:00:25.773Z",
+  "who": "A Romanian individual, likely living abroad, who is actively building or renovating a house in Romania and is seeking advice on construction sequencing.",
+  "fit_score": 8,
+  "fit_reason": "The individual is posting in a Facebook group called 'How To ADU' and is asking a specific question about construction, indicating that they are actively involved in a building project in Romania. The fact that they are seeking advice suggests that they may be a diaspora Romanian living abroad, which aligns with the ICP.",
+  "hooks": [
+    "construction sequencing",
+    "lath and stucco",
+    "MEP"
+  ],
+  "guessed_channel": "facebook",
+  "enriched_at": "2026-08-12T20:06:33.066Z",
+  "email": "",
+  "email_source": "not found"
 }
