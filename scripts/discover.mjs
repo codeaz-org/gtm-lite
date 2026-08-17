@@ -5,6 +5,12 @@ import { loadConfig, chat, exaSearch, knownIds, leadId, writeJson } from "./lib.
 const config = loadConfig();
 const seen = knownIds();
 
+// ponytail: walled gardens never expose an email → cut them here, not after 3 LLM calls.
+const UNREACHABLE = /(^|\.)(facebook|instagram|tiktok|youtube|twitter|x|linkedin|reddit|pinterest)\.com$/i;
+function reachable(url) {
+  try { return !UNREACHABLE.test(new URL(url).hostname); } catch { return false; }
+}
+
 const plan = await chat(
   config,
   [
@@ -40,6 +46,7 @@ for (const query of plan.queries.slice(0, config.limits.searches_per_run)) {
   }
   for (const r of results) {
     if (added >= config.limits.max_new_leads_per_run) break;
+    if (!reachable(r.url)) { console.log(`  – skip walled-garden: ${r.url}`); continue; }
     const id = leadId(r.url);
     if (seen.has(id)) continue;
     seen.add(id);

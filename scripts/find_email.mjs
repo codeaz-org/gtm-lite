@@ -6,7 +6,9 @@
 //   3. Optional fallback: Hunter.io domain search (free tier: 25 searches/mo)
 //      if HUNTER_API_KEY secret is set.
 // Result is written into the enriched record as `email` + `email_source`.
-import { listJson, writeJson } from "./lib.mjs";
+import { listJson, writeJson, DATA } from "./lib.mjs";
+import fs from "node:fs";
+import path from "node:path";
 
 const EMAIL_RE = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi;
 const JUNK = /(noreply|no-reply|donotreply|example\.|sentry|wixpress|@.*\.(png|jpg|jpeg|gif|svg|webp|css|js)$|godaddy|cloudflare|schema\.org)/i;
@@ -88,6 +90,13 @@ for (const lead of leads) {
 
   const record = { ...lead, email: email || "", email_source: source || "not found" };
   delete record.file;
-  writeJson("enriched", lead.id, record);
-  console.log(email ? `📧 ${email}  (${source})` : `∅  no email found — ${lead.url}`);
+  if (email) {
+    writeJson("enriched", lead.id, record);
+    console.log(`📧 ${email}  (${source})`);
+  } else {
+    // ponytail: no email = unreachable. Reject now so the queue drains daily.
+    writeJson("rejected", lead.id, record);
+    fs.unlinkSync(path.join(DATA("enriched"), lead.file));
+    console.log(`∅  no email — rejected ${lead.url}`);
+  }
 }

@@ -24,7 +24,9 @@ const gmail = google.gmail({ version: "v1", auth: oauth2 });
 for (const file of files) {
   const { meta, body } = parseFrontmatter(fs.readFileSync(path.join(dir, file), "utf8"));
   if (!meta.to) {
-    console.log(`⏭  ${file}: no "to" address set — skipping (fill it in to queue).`);
+    // ponytail: no address = can't send. Reject so approved/ drains daily.
+    moveRecord("approved", "rejected", file);
+    console.log(`✂  ${file}: no "to" — moved to rejected.`);
     continue;
   }
   const raw = Buffer.from(
