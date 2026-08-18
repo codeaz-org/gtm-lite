@@ -1,0 +1,18 @@
+{
+  "id": "492df8eab6c0",
+  "url": "https://mfinante.gov.ro/despre-minister/-/asset_publisher/uwgr/content/programul-e2-80-9ediaspora-investe-c8-99te-acas-c4-83-ministerul-finan-c8-9belor-aloc-c4-83-100-milioane-euro-pentru-primul-program-care-finan-c8-9beaz-c4-83-afacerile-dezvoltate-de-rom-c3-a2nii-care-aleg-s-c4-83-investeasc-c4-83-c3-aen-rom-c3-a2nia",
+  "title": "Programul „Diaspora Investește Acasă”",
+  "snippet": "Programul „Diaspora Investește Acasă”: Ministerul Finanțelor alocă 100 milioane euro pentru primul program care finanțează afacerile dezvoltate de românii care aleg să investească în România - Acasa - MF\n\n## fidelis august2024\n\n## Comunicate de presă\n\n## Asset Publisher\n\n#### null Programul „Diaspora Investește Acasă”: Ministerul Finanțelor alocă 100 milioane euro pentru primul program care finanțează afacerile dezvoltate de românii care aleg să investească în România\n\n- Ministerul Finanțelor lansează programul „Diaspora Investește Acasă”, cu un buget total de 100 milioane euro;\n- Programul este primul destinat românilor din străinătate care vor să investească în România prin firme nou înființate;\n- Granturile pot acoperi până la 60% din valoarea creditului de investiții, în limita a 200.000 euro pentru fiecare beneficiar eligibil;\n- Creditele de investiții pot avea valori între 5.000 euro și 500.000 euro;\n- Sprijinul va fi acordat în perioada 2026–2029, prin Banca de Investiții și Dezvoltare;\n- Contribuția proprie minimă este de 10%, respectiv 5% pentru antreprenorii sub 35 de ani.\n\nMinisterul Finanțelor pune la dispoziție 100 milioane euro românilor din diaspora care vor să investească în România și să dezvolte afaceri locale. Prin „Diaspora Investește Acasă”, primul program destinat românilor din diaspora, firmele nou înființate de cetățeni români stabiliți în străinătate vor putea primi granturi de până la 200.000 euro prin Banca de Investiții și Dezvoltare, instituția re",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-18T13:42:39.483Z",
+  "who": "Press release from the Romanian Ministry of Finance announcing the \"Diaspora Investește Acasă\" program, which allocates €100 million to finance businesses newly established by Romanians living abroad who want to invest in Romania.",
+  "fit_score": 2,
+  "fit_reason": "The source focuses on diaspora investment in general business ventures (grants for newly founded firms), not on individuals building, renovating, or planning a personal house in Romania. While some diaspora entrepreneurs might eventually construct facilities, the lead does not show a clear signal of residential construction activity, making it a poor match for the ICP.",
+  "hooks": [
+    "Program offers grants up to €200,000 per beneficiary (60% of investment loan)",
+    "Funding available 2026‑2029 via Banca de Investiții și Dezvoltare",
+    "Minimum own contribution 10% (5% for entrepreneurs under 35)"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-18T13:42:57.811Z"
+}

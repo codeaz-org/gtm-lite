@@ -1,0 +1,19 @@
+{
+  "id": "64c817a689e3",
+  "url": "https://diaspora.gov.ro/",
+  "title": "Platforma Românilor de Pretutindeni",
+  "snippet": "Platforma Românilor de Pretutindeni\n\nPlatforma Românilor de Pretutindeni\n\nUltimele articole publicate\n\nMinisterul Finanțelor lansează programul „Diaspora Investește Acasă”\n\nMiercuri, 27 Mai 2026 14:40\n\nRomânii din diaspora care vor să investească în România și să dezvolte afaceri locale vor putea acce...\n\nAlexandra Căpitănescu, reprezentanta României la Eurovision, în această seară în cea de-a doua semifinală a competiției\n\nJoi, 14 Mai 2026 16:07\n\nRomânia va intra în concurs joi, 14 mai, în cea de-a doua semifinală Eurovision 2026, cu numărul de...\n\nAjutor de 200 de euro pentru elevi și studenți în 2026, pentru cumpărarea de calculatoare\n\nMarți, 05 Mai 2026 08:49\n\nMinisterul Educației și Cercetării anunță continuarea Programului guvernamental „Euro 200” prin...\n\nProgramului Oficial de Internship al Guvernului României, ediția a XIII-a, din anul 2026\n\nMarți, 28 Aprilie 2026 11:52\n\nProgramul Oficial de Internship al Guvernului României continuă și 2026, anunță Secretariatul G...\n\nDepartamentul pentru Românii de Pretutindeni lansează Sesiunea de finanțare nerambursabilă 2026\n\nMiercuri, 01 Aprilie 2026 11:39\n\n7 programe de finanțare pentru românii de pretutindeni Departamentul pentru Românii de Pretutindeni...\n\nGala Talentelor Folclorice ale Diasporei - Torino, 31 mai 2026\n\nMarți, 31 Martie 2026 14:38\n\nCCTIR – Centro di Cultura e Tradizione Italo-Romena A.P.S Torino și Ansamblul Folcloric „Carpat...\n\nProgramul INVESTIM ACASĂ: 100 de milioane de euro pentru românii din Diaspora ca",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-18T13:42:39.483Z",
+  "who": "Platforma Românilor de Pretutindeni is the official Romanian government portal for the diaspora, providing news, programs, and services for Romanians living abroad.",
+  "fit_score": 2,
+  "fit_reason": "This is a government information platform, not an individual Romanian living abroad who is building or renovating a house in Romania. It does not represent a potential customer for a drone‑based construction monitoring service.",
+  "hooks": [
+    "Reference the recent \"Diaspora Investește Acasă\" funding program launched by the Ministry of Finance",
+    "Mention the ongoing \"Euro 200\" laptop subsidy for students and pupils",
+    "Highlight the XIII edition of the Official Government Internship Program for 2026",
+    "Note the folk talent gala in Torino as a cultural engagement point"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-18T13:43:01.393Z"
+}

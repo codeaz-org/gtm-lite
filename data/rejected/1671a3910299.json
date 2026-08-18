@@ -1,0 +1,17 @@
+{
+  "id": "1671a3910299",
+  "url": "https://www.sudrezidential.ro/blog/raiffeisen-lanseaza-contul-diaspora-solutia-financiara-completa-pentru-romanii-din-strainatate/",
+  "title": "Raiffeisen lansează contul Diaspora: zero comisioane și ...",
+  "snippet": "Raiffeisen lansează contul Diaspora: zero comisioane și curs BNR\n\nAdina Dumitru\n\nmai 29, 2026\n\n# Raiffeisen lanseaza contul Diaspora: Solutia financiara completa pentru romanii din strainatate!\n\n## Raiffeisen lanseaza contul Diaspora: Solutia financiara completa pentru romanii din strainatate!\n\nGestionarea finantelor de la distanta a reprezentat intotdeauna o provocare pentru romanii stabiliti in afara tarii. Fie ca vorbim despre trimiterea de bani catre familie, plata facturilor sau planuri pe termen lung, cum ar fi achizitia unei locuinte, lipsa unor instrumente bancare adaptate a generat costuri mari si proceduri complicate.\n\nDin luna iunie, Raiffeisen Bank vine in intampinarea acestor nevoi si lanseaza pachetul de cont curent Diaspora, un produs digital gandit special pentru rezidentii romani din Austria, Belgia, Franta, Germania, Grecia, Italia, Marea Britanie, Republica Moldova si Spania.\n\n## Beneficii clare: Zero comisioane si conturi duale\n\nNoul pachet pune accent pe eliminarea barierelor tarifare si pe flexibilitate, oferind utilizatorilor posibilitatea de a opera simultan in doua valute diferite fara costuri ascunse.\n\nPrincipalele avantaje incluse in pachet sunt:\n\n- Cont si card in lei + cont in euro: Gratuit, cu zero comisioane de administrare.\n- Zero comisioane la tranzactii: Pentru un numar nelimitat de incasari si transferuri, atat in lei, cat si in euro.\n- Schimb valutar la curs BNR: Prin functionalitatea Smart Hour (luni-vineri, intre 10:00 si 11:00, in limita",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-18T13:42:39.483Z",
+  "who": "Raiffeisen Bank is launching a Diaspora current account product aimed at Romanians living abroad in countries such as Austria, Belgium, France, Germany, Greece, Italy, the UK, Moldova, and Spain, offering zero‑fee multicurrency banking.",
+  "fit_score": 2,
+  "fit_reason": "The source describes a financial product for the diaspora but contains no indication of construction, renovation, or house‑building activity. While the target audience overlaps with the ICP (Romanians abroad), there is no signal that they are actively building or renovating a home in Romania, so the fit for a construction‑site monitoring service is weak.",
+  "hooks": [
+    "Diaspora clients who are building a house may need financing; Raiffeisen’s Diaspora account could be a touchpoint to introduce Ochi pe Șantier as a way to give lenders confidence in project progress.",
+    "The blog’s audience is Romanians abroad managing money remotely – a segment that also struggles with verifying construction progress, presenting an opportunity to position the drone monitoring service as a complementary remote‑management tool."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-18T13:42:45.015Z"
+}
