@@ -1,0 +1,23 @@
+{
+  "id": "137bd102b9a3",
+  "url": "https://www.zf.ro/afaceri-de-la-zero/afaceri-de-la-zero-trei-tineri-construiesc-case-si-blocuri-pasive-19745457",
+  "title": "Afaceri de la zero. Trei tineri construiesc case şi blocuri pasive, izolate termic,...",
+  "snippet": "Afaceri de la zero. Trei tineri construiesc case şi blocuri pasive, izolate termic,...\n\n# Afaceri de la zero. Trei tineri construiesc case şi blocuri pasive, izolate termic, şi vor să ajungă la 100 de locuinţe construite/an\n\n 16.11.2020, 00:08 Autor: Florentina Niţu \n\n „Primii noştri clienţi sunt români din străinătate, care îşi pun mari speranţe în România şi au investit aici, dându-ne nouă un imbold din punct de vedere al finanţării şi al suportului.“\n\n Gabriel Focşeneanu, Eugen Gogu şi Slavic Vlas au înce­put să construiască case pa­si­ve în 2015, ca o provo­ca­re să facă locuinţe foarte bine izolate termic şi fără să folosească gaze. Primul lor proiect a fost un ansamblu rezi­den­ţial de 32 de case ecologice, aflat în sec­to­rul 5 al Capitalei. Acum, ei construiesc blo­curi de acest tip în Mogoşoaia şi speră să se ex­tindă în viitor şi în alte oraşe din ţară.\n\n „Businessul a pornit în urmă cu cinci ani de la nevoia unor locuinţe ecologice cu 100% ener­gie verde. Eu m-am ocupat de imo­bi­liare, având experienţă în acest domeniu de pes­te 10 ani. Ceilalţi doi asociaţi se ocupau de imple­mentarea pompelor de căldură în con­stru­irea caselor în regim privat“, povesteşte Gabriel Focşeneanu, fondator al Eco Villas.\n\n El adaugă că prima bătaie de cap ca antreprenori a fost obţinerea autorizaţiei de con­strucţie, pentru că niciunul nu a mai con­struit de la zero un an­samblu rezidenţial. De altfel, o mare provocare a fost lipsa sur­sei de fi­nanţare, dar şi vân­zarea caselor din ",
+  "source_query": "case pentru români din străinătate constructor site:.ro -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-08-17T13:40:05.769Z",
+  "who": "Eco Villas is a Romanian construction company founded by Gabriel Focşeneanu, Eugen Gogu and Slavic Vlas that builds passive houses and residential blocks, and explicitly states that its first clients are Romanians living abroad who have invested in Romania.",
+  "fit_score": 8,
+  "fit_reason": "The firm is a Romanian construction company that actively markets to the diaspora (its initial clients are Romanians abroad), fitting the ICP of construction firms in Romania that advertise to diaspora clients building homes back home.",
+  "hooks": [
+    "Mention of Romanian diaspora as first clients",
+    "Founders’ names: Gabriel Focşeneanu, Eugen Gogu, Slavic Vlas",
+    "Focus on passive, energy‑efficient houses and blocks",
+    "Projects in Bucharest sector 5 and Mogoşoaia with plans to expand",
+    "Goal of delivering 100 units per year",
+    "Association with eco‑friendly building and heat‑pump implementation"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-17T13:40:32.288Z",
+  "email": "zf24@zf.ro",
+  "email_source": "scraped https://zf.ro/contact"
+}
