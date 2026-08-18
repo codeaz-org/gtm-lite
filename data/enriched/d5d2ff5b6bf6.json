@@ -1,0 +1,20 @@
+{
+  "id": "d5d2ff5b6bf6",
+  "url": "https://finance.imobiliare.ro/blog/prima-casa-diaspora",
+  "title": "Noua Casă cu venituri din străinătate. Ghid pentru 2025",
+  "snippet": "Noua Casă cu venituri din străinătate. Ghid pentru 2025 | Imobiliare.ro Finance\n\nthis.remove(id), event.detail.duration ?? 4000) }, remove(id) { this.toasts = this.toasts.filter(t => t.id !== id) }, }\" @toast.window=\"add($event)\" style=\"font-family: 'Manrope', sans-serif;\">\n\nHai să începem\n\nCredit Ipotecar\n\nCalculator sumă eligibilă Simulează un credit ipotecar Refinanțare credit ipotecar\n\nCredit de Nevoi Personale\n\nCalculator sumă eligibilă Simulează un credit de nevoi personale Refinanțare credit nevoi personale\n\nArticole\n\nHai să începem\n\n# Noua Casă cu venituri din străinătate. Ghid pentru 2025\n\n- Share\n\nNu e un proces ușor atunci când decizi să cumperi o casă. Ai nevoie de tot sprijinul pe care îl poți accesa pentru a ajunge la locuința pe care să o numești acasă. Un astfel de sprijin este și Noua Casă, programul guvernamental care susține persoanele fizice să își achiziționeze o locuință prin contractarea unui credit ipotecar garantat de stat. Programul este cunoscut anterior ca Prima Casă, iar pentru anul 2025, plafonul alocat garanțiilor de stat este în valoare de 500 de milioane de lei.\n\nÎn continuare, ai la dispoziție tot ce trebuie să știi dacă te interesează să accesezi acest credit.\n\n## Care sunt condițiile pentru Noua Casă în 2025 cu venituri din străinătate?\n\nProgramul Noua Casă nu are limită de vârstă și poate fi accesat singur sau cu partenerul de viață, atât timp cât sunt îndeplinite criteriile de eligibilitate de către ambii solicitanți.\n\nUn mare beneficiu a",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-18T13:42:39.482Z",
+  "who": "The article is a finance guide from Imobiliare.ro aimed at Romanian diaspora interested in purchasing their first home in Romania using the state‑backed 'Noua Casă' mortgage program in 2025.",
+  "fit_score": 6,
+  "fit_reason": "Targets the right demographic (Romanians abroad) and discusses home purchase/construction financing, showing intent to build or buy a house, but does not confirm active construction or an explicit need for site‑monitoring services.",
+  "hooks": [
+    "Reference to the 'Noua Casă' government mortgage program for diaspora buyers",
+    "Mention of mortgage calculators and eligibility criteria for 2025",
+    "Potential need for verification of construction progress after financing is secured"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-18T13:43:28.159Z",
+  "email": "email@exemplu.ro",
+  "email_source": "scraped https://finance.imobiliare.ro/blog/prima-casa-diaspora"
+}

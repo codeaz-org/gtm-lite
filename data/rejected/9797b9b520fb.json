@@ -1,0 +1,14 @@
+{
+  "id": "9797b9b520fb",
+  "url": "https://www.gov.ro/fisiere/stiri_fisiere/Ghid_de_re%C3%AEntoarcere_romanii_din_diaspora.pdf",
+  "title": "GHID DE EÎNTOARCERE",
+  "snippet": "## Ministerul Afacerilor Externe - Departamentul Politici pentru Relația cu Românii de Pretutindeni a elaborat Ghidul de reîntoarcere destinat cetățenilor români care decid să revină în țară.\n\nÎn acest ghid veți găsi informații privind reînnoirea actelor de identitate și de călătorie, înmatricularea autoturismelor, repatrierea bunurilor, informații despre drepturile la pensie și la asigurările medicale, precum și despre echivalarea și continuarea studiilor.\n\nAcest ghid a fost elaborat de Ministerul Afacerilor Externe - Departamentul Politici pentru Relația cu Românii de Pretutindeni, pornind de la informațiile oferite de Ministerul Afacerilor Interne, Ministerul Educaţiei Naţionale și Cercetării Științifice, Ministerul Muncii, Familiei, Protecţiei Sociale și Persoanelor Vârstnice, Ministerul Sănătăţii și a instituţiilor de specialitate din subordine. Ghidul are un caracter informativ și nu se substituie informaţiilor furnizate de ministerele de resort.\n\nCuprins\n\nI. REÎNNOIREA ACTELOR………………………………………………………………………………………………………..5 \nI.1.Cartea de identitate ... 5 \n1.a. Documentele necesare pentru eliberarea unei cărți de identitate ... 5 \n1.b.Transcrierea și înregistrarea actelor de stare civilă ... 6 \n1.c.Înscrierea cetăţenilor români în registrele de stare civilă de la misiunile diplomatice ale \nRomâniei ... 7 \nI.2. Pașaportul ... 7 \nI.2.a. Documentele de care aveţi nevoie în cazul în care solicitaţi un nou paşaport ... 8 \nI.2.b. Perioada de valabilitate a paşaportului ... 9 \nI.3.",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-18T13:42:39.483Z",
+  "who": "The source is an official Romanian government PDF guide (GHID DE EÎNTOARCERE) aimed at Romanian citizens living abroad who are considering returning to Romania, covering topics such as identity document renewal, vehicle registration, repatriation of goods, pension and healthcare rights, and study equivalence.",
+  "fit_score": 2,
+  "fit_reason": "The document is a general return‑to‑Romania guide with no mention of construction, renovation, house building, or any related services. It does not signal that the audience is actively building or planning a house in Romania, nor does it provide any contact points for diaspora home‑builders. Therefore the fit with the ICP (Romanians abroad building/renovating a house in Romania) is very low.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-18T13:43:17.066Z"
+}
