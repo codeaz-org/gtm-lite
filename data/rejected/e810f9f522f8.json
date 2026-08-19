@@ -1,0 +1,18 @@
+{
+  "id": "e810f9f522f8",
+  "url": "https://adevarul.ro/stiri-interne/societate/reportaj-migratia-la-sat-de-ce-aleg-romanii-viata-2054720.html",
+  "title": "REPORTAJ Migraţia la sat: De ce aleg românii viaţa la ţară. „Majoritatea ne consideră curajoşi“ | adevarul.ro",
+  "snippet": "# REPORTAJ Migraţia la sat: De ce aleg românii viaţa la ţară. „Majoritatea ne consideră curajoşi“\n\n Medeea Stan\n\n Publicat: 24.10.2020 20:05\n\n Ultima actualizare: 02.08.2022 19:04\n\nObligaţi de vremuri sau de bunăvoie, sute de mii de români o iau de la capăt anual: fug la ţară, departe de aerul înecăcios al oraşelor. Tineri şi bătrâni deopotrivă caută o viaţă mai liniştită, în sate de munte ori în apropierea oraşelor. „Weekend Adevărul“ a stat de vorbă cu cei care au luat această decizie, inclusiv cu cei influenţaţi de pandemie, şi a aflat despre bucuriile şi greutăţile unui orăşean la sat.\n\nElena Niţă e o tânără care a locuit în Bucureşti până acum aproape trei luni. La 30 de ani, a hotărât să lase în urmă agitaţia oraşului şi s-a mutat, cu familia, în satul Colacu din Dâmboviţa, la 45 de kilometri de Capitală. Astăzi, locuieşte cu soţul şi cu fiul ei chiar în satul în care a copilărit, într-un container maritim amenajat. În această locuinţă temporară o să rămână încă un an, inclusiv în iarna aceasta, căci casa este încă în construcţie.\n\nLa ţară contează din ce în ce mai puţin cât este ceasul, aşa că familia Niţă îşi stabileşte priorităţile doar pentru ziua următoare, fără să se simtă îngrădită de structura rigidă a traiului de la oraş. Elena s-a obişnuit să trăiască fiecare zi fără un program fix, iar acest ritm de viaţă mai lejer îi place şi soţului ei. Busola lor sunt acum câteva activităţi: terminarea casei, joburile desfăşurate de la distanţă şi educaţia fiului lor în vâ",
+  "source_query": "\"case pentru români din străinătate\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-08-19T06:20:56.038Z",
+  "who": "Elena Niţă, a 30‑year‑old Romanian who moved from Bucharest to the village of Colacu in Dâmbovița and is currently living in a maritime container while her house is under construction.",
+  "fit_score": 2,
+  "fit_reason": "The lead is a Romanian residing in Romania who is building a house locally; there is no indication she lives abroad or needs remote progress monitoring for a diaspora build.",
+  "hooks": [
+    "She is actively building a house and living temporarily in a container on the site.",
+    "The house is still under construction, so she could benefit from regular progress updates.",
+    "The article highlights her rural lifestyle move, which may align with interest in property projects."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-19T06:21:47.856Z"
+}
