@@ -1,0 +1,22 @@
+{
+  "id": "d14571ba997c",
+  "url": "https://www.mediafax.ro/social/de-ce-iubesc-romania-un-sucevean-s-a-intors-in-tara-si-face-case-ca-sa-si-intretina-familia-ramasa-in-italia-foto-video-9012083",
+  "title": "DE CE IUBESC ROMÂNIA - Un sucevean s-a întors în ţară şi face case ca să-şi întreţină familia rămasă în Italia - FOTO, VIDEO",
+  "snippet": "DE CE IUBESC ROMÂNIA - Un sucevean s-a întors în ţară şi face case ca să-şi întreţină familia rămasă în Italia - FOTO, VIDEO\n\n# DE CE IUBESC ROMÂNIA – Un sucevean s-a întors în ţară şi face case ca să-şi întreţină familia rămasă în Italia – FOTO, VIDEO\n\nVasilică Tabără a plecat din ţară după revoluţie, a muncit în Serbia, unde a şlefuit marmură, iar în '94 a ajuns în Italia. A muncit la patron, în construcţii. În '98 a început să lucreze acolo pe cont propriu. A revenit în România, unde face case şi îşi întreţine soţia şi copiii rămaşi în Italia.\n\n 28 nov. 2011, 13:45, Social \n\nVasilică Tabără a plecat din ţară în 1990, când avea 20 de ani. A muncit în Serbia, iar în ’94 a ajuns în Italia, unde s-a stabilit cu familia. A muncit câţiva ani la patron, apoi a decis să lucreze pe cont propriu şi „a început aventura pentru a deveni întreprinzător”. În 2000 a revenit pentru prima dată în România, unde a început să facă afaceri. Acum are aici firma lui, împreună cu un italian, şi face case pentru a-şi întreţine soţia şi cei trei copii care i-au rămas în Italia şi la care face „naveta” de două ori pe lună.\n\n \n\n \n\n„Iubesc România pentru că e ţara mea”\n\nLa scurt timp de la revoluţie, în vara lui 1990, Vasilică Tabără, din Suceava, absolvent de liceu industrial, a plecat din ţară pentru a-şi găsi de lucru. A ajuns în Serbia, unde a muncit un an şi jumătate la un atelier de şlefuit marmură.\n\n„Am făcut bani frumoşi acolo. Munca era foarte grea, dar, ce-mi păsa?! Aveam 20 de ani. Nu-mi era",
+  "source_query": "\"case pentru români din străinătate\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-08-19T06:20:56.037Z",
+  "who": "Vasilică Tabără is a Romanian from Suceava who emigrated to Italy in 1994, worked in construction, and later returned to Romania where he now runs a construction firm (with an Italian partner) building houses for his family in Italy and other diaspora clients.",
+  "fit_score": 6,
+  "fit_reason": "He represents a Romanian construction firm that actively targets the diaspora market, which aligns with the ICP segment of 'construction firms in RO that advertise to diaspora'. However, he is not himself a diaspora individual building his own home, so the fit is moderate rather than strong.",
+  "hooks": [
+    "Reference his personal migration story: left Romania after the revolution, worked in Serbia, then Italy since 1994",
+    "Highlight his motivation: building houses to support his wife and three children remaining in Italy",
+    "Mention his regular 'naveta' (bi‑monthly trips) between Italy and Romania to oversee projects",
+    "Note his partnership with an Italian associate and his firm’s focus on diaspora clients",
+    "Point to his Suceava roots and extensive hands‑on experience in construction dating back to the 1990s"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-19T06:21:34.627Z",
+  "email": "redactie.online@mediafax.ro",
+  "email_source": "scraped https://www.mediafax.ro/social/de-ce-iubesc-romania-un-sucevean-s-a-intors-in-tara-si-face-case-ca-sa-si-intretina-familia-ramasa-in-italia-foto-video-9012083"
+}
