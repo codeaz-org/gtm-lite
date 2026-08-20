@@ -1,0 +1,14 @@
+{
+  "id": "b3011bb6ab05",
+  "url": "https://apex-team.ro/",
+  "title": "apex team international",
+  "snippet": "# APEX Team International (APEX Team International SRL.)\n\nAPEX Team International is a Accounting company. Apex is an accounting and payroll consulting company that offers services on all aspects of accounting, tax, payroll & hr, audit, business, and management consulting. They aim to make life easier and provide competent advice to help clients achieve their goals. APEX Team International employs 21 people (+15.2% YoY, +5 people), founded in 2004. Headquartered in Sector 1, Bucharest, Romania.\n\n## About\n\nDenumirea APEX este un acronim ce provine de la Accounting & Payroll Expert Team și reflectă ideea care ne-a unit de la început, respectiv o echipă de profesioniști în domeniul contabil și al salarizării, fiscalitatea fiind o componentă intrinsecă a ambelor. \n\nMisiunea noastră\nSă aducem valoare afacerii clienților noștri este misiunea cu care am pornit la drum în 2004. O asemenea misiune implică două elemente cheie de succes, o echipă puternică și unită de profesioniști care să ofere servicii de excelență, respectiv clienți mulțumiți de serviciile primite.\n\nIstoria noastră\nEchipa APEX s-a născut în anul 2004, din dorința unui grup entuziast de consultanți de a oferi servicii profesionale în domeniul contabil, fiscal și salarizare, prin fructificarea experienței învățate anterior în Big 4. \nEchipa APEX a cunoscut o dezvoltare continuă. Cartea noastră de vizită este dată de peste 40 consultanți experimentați, o echipă managerială de excepție și un portofoliu de clienți mulțumi",
+  "source_query": "\"echipa\" \"case pentru români din străinătate\" site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-08-20T13:47:48.434Z",
+  "who": "APEX Team International SRL is an accounting and payroll consulting firm based in Bucharest, Romania, offering services such as tax, audit, HR, and management consulting.",
+  "fit_score": 2,
+  "fit_reason": "The company provides accounting services and shows no indication of serving the Romanian diaspora involved in house construction or renovation in Romania. There are no signals related to construction monitoring, diaspora clients, or real‑estate/construction activities.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-20T13:48:23.540Z"
+}
