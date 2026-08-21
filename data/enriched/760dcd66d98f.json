@@ -1,0 +1,20 @@
+{
+  "id": "760dcd66d98f",
+  "url": "https://ziare.com/diaspora/romani-diaspora-revenire-romania-munca-strainatate-1781890",
+  "title": "Sfatul dur primit de un meseriaș în construcții care vrea să revină în România după ce a lucrat în străinătate. ''Decât slugă în țara ta, mai bine slugă la străini''",
+  "snippet": "Sfatul dur primit de un meseriaș în construcții care vrea să revină în România după ce a lucrat în străinătate. ''Decât slugă în țara ta, mai bine slugă la străini''\n\n# Sfatul dur primit de un meseriaș în construcții care vrea să revină în România după ce a lucrat în străinătate. \"Decât slugă în țara ta, mai bine slugă la străini\"\n\nDuminica, 08 Ianuarie 2023, ora 14:11\n\n7752 citiri\n\nMuncitori pe șantier FOTO Pixabay\n\nDiaspora românească este în creștere cu circa 100.000 de persoane în fiecare an. România se află pe primul loc la numărul cetățenilor adulți care au rezidența în alte țări europene.\n\nÎn anul 2019, 2,45 de milioane de cetățeni români locuiau în țări ale Uniunii Europene, adică mai mult decât populația Bucureștiului.\n\nCifrele reale ale migrației românești nu sunt cu adevărat cunoscute și se pot face doar estimări în materie.\n\nUnii dintre cei care au plecat să lucreze în străinătate își fac planuri să revină în țară. Este cazul unui meseriaș în construcții care a încercat să afle de la cei care au făcut deja pasul cum le merge în România.\n\n\"Vin cu o întrebare, curând vrem să revenim în țară, cum vă descurcați cei care ați făcut pasul? Lucrez în construcții\", a scris acesta pe grupul Construcții case și amenajări interioare și exterioare, de pe Facebook.\n\n## \"Câștigi ca și în străinătate\"\n\n\"Este nevoie de oameni harnici și organizați în orice zonă a țării! Fă-ți echipă și o să îți meargă foarte bine dacă ești serios!\"\n\n\"În țară sunt salarii bune, în construcții, dacă",
+  "source_query": "forumconstructii.ro \"șantier\" \"diaspora\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-08-21T13:46:04.194Z",
+  "who": "A Romanian construction worker living abroad who is planning to return to Romania and seeking advice on building a house there, as shared in a diaspora Facebook group discussion.",
+  "fit_score": 7,
+  "fit_reason": "The individual is part of the Romanian diaspora, actively considering a home construction project in Romania, which aligns with the ICP of diaspora members building or renovating houses back home. However, the source does not confirm they have already hired a contractor or are currently managing a build, only that they are gathering information.",
+  "hooks": [
+    "Mentioned participation in the Facebook group 'Construcții case și amenajări interioare și exterioare' where diaspora members discuss construction",
+    "Expressed intent to return to Romania and build a house, indicating a need for remote progress verification",
+    "Seeking advice from those who have already undertaken the process, showing openness to solutions that reduce risk"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-21T13:46:41.805Z",
+  "email": "teodor.bobei@ziare.com",
+  "email_source": "hunter (99% conf)"
+}

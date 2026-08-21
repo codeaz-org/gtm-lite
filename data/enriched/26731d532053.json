@@ -1,0 +1,21 @@
+{
+  "id": "26731d532053",
+  "url": "https://adevarul.ro/stiri-locale/galati/magazie-in-locul-unei-casute-de-vis-asta-a-primit-2269849.html",
+  "title": "Magazie în locul unei căsuțe de vis. Asta a primit de o familie de români, stabilită în Germania, din partea unui constructor | adevarul.ro",
+  "snippet": "# Magazie în locul unei căsuțe de vis. Asta a primit de o familie de români, stabilită în Germania, din partea unui constructor\n\n Cornelia Mazilu\n\n Publicat: 24.05.2023 14:59\n\nAu comandat o căsuță de 35 de metri pătrați și s-au trezit cu o magazie din lemn, neterminată și făcută în bătaie de joc. Este pățania unei familii de români, stabilită în Germania. Doar pentru materiale a plătit un avans de 22.000 de euro.\n\nMagazie găsită de familia de români FOTO: Mihai Tifui/Facebook\n\nO familie de români, stabilită în Germania, a decis să-și facă o căsuță mică din lemn în localitatea natală, unde să se retragă la pensie. Ce doi soția u găsit o firmă pe internet, iar meșterii le-au trimis poze și le-au promis că le vor construi căsuța pe care și-o doreau. Au plătit și 22.000 de euro pentru materiale și au plecat în Germania. Nici prin cap nu le-a trecut că totul se va dovedi o țeapă \n\nÎntreaga poveste a fost relatată de fiica celor doi pe rețelele de socializare. \n\n„Scriu în speranța că nemernici ăștia nu o să mai tragă țepe și altor oameni naivi, așa cum a pățit mama mea și soțul ei ! (...)I-au tot cerut bani pentru materiale, chipurile. Mama mea cu soțul ei i-au dat 22.000 de euro până în momentul de față și restul după, ei nemaiputând să stea să vadă ce și cum lucră din cauză că trebuiau să se întoarcă în Germania! Au lăsat o cunoștință să se mai uite, să îi supravegheze. Această cunoștință le-a atras atenția muncitorilor că nu-i ok ce fac. Numai că a primit în schimb amenințări ,c",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"construire casa\" -site:facebook.com -site:instagram.com -site:tiktok.com (intitle:blog OR intitle:site OR intitle:portfolio)",
+  "discovered_at": "2026-08-21T13:46:02.383Z",
+  "who": "A Romanian family living in Germany who ordered a small wooden house in their hometown, paid a €22,000 advance for materials, and discovered the builder delivered an unfinished wooden warehouse instead of the agreed home.",
+  "fit_score": 8,
+  "fit_reason": "The family matches the ICP (Romanians abroad building a house in Romania) and experienced a lack of visibility into construction progress, which is exactly the problem Ochi pe Șantier solves via drone‑based monitoring and regular progress reports.",
+  "hooks": [
+    "Reference their situation as a Romanian family in Germany building a wooden house back home",
+    "Mention the €22,000 advance they paid for materials and the need to verify that funds are used correctly",
+    "Highlight how a drone‑monitoring service could have prevented the disappointing outcome by providing weekly progress photos and a clear progress %",
+    "Offer a free pilot report or a discounted first month to help them regain trust in the building process"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-21T13:46:31.210Z",
+  "email": "contact@adevarul.ro",
+  "email_source": "scraped https://adevarul.ro/stiri-locale/galati/magazie-in-locul-unei-casute-de-vis-asta-a-primit-2269849.html"
+}
