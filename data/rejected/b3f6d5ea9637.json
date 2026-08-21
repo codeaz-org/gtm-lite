@@ -1,0 +1,19 @@
+{
+  "id": "b3f6d5ea9637",
+  "url": "https://www.impact.ro/o-fosta-brutarie-de-pe-vremea-lui-ceausescu-transformata-in-locuinta-povestea-inedita-a-unei-familii-de-romani-intorsi-din-strainatate-cautam-o-masina-si-am-gasit-o-casa-468083.html",
+  "title": "O fostă brutărie de pe vremea lui Ceaușescu, transformată în locuință. Povestea inedită a unei familii de români întorși din străinătate. „Căutam o mașină și am găsit o casă” - IMPACT.ro",
+  "snippet": "O fostă brutărie de pe vremea lui Ceaușescu, transformată în locuință. Povestea inedită a unei familii de români întorși din străinătate. „Căutam o mașină și am găsit o casă” - IMPACT.ro\n\n# O fostă brutărie de pe vremea lui Ceaușescu, transformată în locuință. Povestea inedită a unei familii de români întorși din străinătate. „Căutam o mașină și am găsit o casă”\n\n Beatrice Dumitru, Daniel Bălan 09.01.2023, 15:02 \n\nO familie de români revenită în țară după mai mulți ani petrecuți în străinătate au transformat o fostă brutărie de pe vremea lui Ceaușescu, aflată într-o stare avansată de degradare, într-o locuință deosebită. Noii proprietari au aflat că brutăria a fost proiectată de specialiști din Franța, la ordinul fostului dictator Nicolae Ceaușescu.\n\n## Cum au găsit brutăria\n\nFamilia a plecat din România în 2008 și a locuit o perioadă de patru ani în Spania, apoi a plecat în Italia, iar după experiența din această țară a ales să locuiască în Austria. În anul 2017 a venit pe lume primul copil al familie, iar în 2019 cel de-al doilea și, deși, cuplul reușise chiar să-și cumpere o locuință în Austria și să se descurce bine din puncte de vedere financiar a preferat să se întoarcă în țară.\n\nPe când se aflau în Austia, Daniela Andrițoiu și soțul ei au găsit pe un site de anunțuri în limba germană o fostă brutărie, într-un sat din Oltenia, scoasă la vânzare, deoarece proprietara nu mai reușea să o întrețină, vedea pagubele anuale și costurile de întreținere. „ Noi, de fapt, căutam o",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"construire casa\" -site:facebook.com -site:instagram.com -site:tiktok.com (intitle:blog OR intitle:site OR intitle:portfolio)",
+  "discovered_at": "2026-08-21T13:46:02.383Z",
+  "who": "A Romanian family that lived in Spain, Italy, and Austria before returning to Romania in 2019, who purchased and renovated a former Ceaușescu‑era barn into a residence.",
+  "fit_score": 2,
+  "fit_reason": "The ICP targets Romanians currently living abroad who are actively building, renovating, or planning a house in Romania. This family has already returned to Romania and completed their renovation, so they are not residing abroad nor currently undertaking a diaspora‑led build.",
+  "hooks": [
+    "Reference their journey: lived in Spain (2008‑2012), then Italy, then Austria before moving back in 2019.",
+    "Mention the specific detail that they were originally searching for a car and ended up buying a barn.",
+    "Highlight the barn’s French‑designed origins under Ceaușescu, which adds a unique story angle.",
+    "Note that their children were born in Austria, tying their diaspora experience to the renovation."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-21T13:47:04.858Z"
+}

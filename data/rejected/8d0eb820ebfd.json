@@ -1,0 +1,17 @@
+{
+  "id": "8d0eb820ebfd",
+  "url": "https://uberhause.ro/",
+  "title": "Proiecte Case Arhitectură București România - UberHause®",
+  "snippet": "Proiecte Case Arhitectură București România - UberHause®\n\n# De la idee la cheie\n\nPe uberhause.ro găsiți proiectul ideal pentru a putea construi.\n\n### Proiecte originale. Firma dumneavoastră de arhitectură pentru soluții personalizate. case la cheie. construcții case. dezvoltare imobiliară. realizare PUZ.\n\nEchipa noastră de arhitecți, urbaniști și ingineri realizează proiecte care să vă reflecte personalitatea și stilul de viață.\n\n- Proces colaborativ: Vă ascultăm cu atenție pentru a înțelege viziunea, stilul de viață și preferințele dumneavoastră.\n- Brainstorming creativ: prin schimbul liber de idei între membrii echipei noastre generăm idei noi și soluții personalizate.\n- Abordare holistică: gândim strategic, ne ocupăm de toate etapele proiectului, de la concept la implementare.\n- Reducem la minimum stresul generat de obținerea avizelor și acordurilor necesare autorizării construirii.\n- Executăm construcții în formulă de antrepriză generală, pentru a duce proiectul de la idee la cheie.\n\n### Expertiză\n\nAvem cunoștințe aprofundate și abilități tehnice care ne permit să abordăm orice provocare cu eficiență și profesionalism. Ne menținem la curent cu cele mai noi tendințe și tehnologii din domeniu pentru a vă oferi soluții moderne și inovatoare.\n\n### Experiență\n\nPortofoliul nostru cuprinde o gamă variată de proiecte, în principal din domeniul rezidențial. Abordăm fiecare proiect cu atenție și dedicare, indiferent de complexitatea acestuia.\n\n## Serviciile noastre\n\nGama de servici",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"construire casa\" -site:facebook.com -site:instagram.com -site:tiktok.com (intitle:blog OR intitle:site OR intitle:portfolio)",
+  "discovered_at": "2026-08-21T13:46:02.384Z",
+  "who": "UberHause is a Bucharest‑based architecture firm that provides custom house designs and turnkey construction services for clients looking to build homes in Romania.",
+  "fit_score": 4,
+  "fit_reason": "They serve people building houses in Romania, which overlaps with the ICP’s need for construction services, but there is no explicit focus on the Romanian diaspora or on remote progress monitoring, making the fit only moderate.",
+  "hooks": [
+    "Offer to add drone‑based site monitoring as a complementary service for their turnkey clients, especially those living abroad who need remote verification of progress.",
+    "Highlight how Ochi pe Șantier can reduce reliance on relatives or costly trips, giving UberHause’s clients greater confidence and potentially fewer disputes."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-21T13:46:58.389Z"
+}
