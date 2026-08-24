@@ -1,0 +1,21 @@
+{
+  "id": "f33dd0c5054e",
+  "url": "https://adevarul.ro/stiri-locale/galati/comuna-din-galati-in-care-au-mai-ramas-doar-1662259.html",
+  "title": "Comuna din Galaţi în care au mai rămas doar bătrânii şi copiii. Părinţii plecaţi la muncă în străinătate trimit acasă bani şi construiesc vilă lângă vilă | adevarul.ro",
+  "snippet": "# Comuna din Galaţi în care au mai rămas doar bătrânii şi copiii. Părinţii plecaţi la muncă în străinătate trimit acasă bani şi construiesc vilă lângă vilă\n\n Deleanu Diana\n\n Publicat: 28.10.2015 17:33\n\n Ultima actualizare: 06.08.2022 16:58\n\nAproape o jumătate din populaţia comunei gălăţene Cosmeşti munceşte în străinătate. Peste 2000 de bărbaţi şi femei, cu vârste până în 45 de ani, şi-au găsit un loc de muncă în Italia sau Spania. Vin acasă vara sau de sărbători, dar banii lor alimentează tot anul prosperitatea localităţii. La tot pasul se înalţă case cu etaj sau chiar vile, iar drumurile sunt asfaltate ca la carte.\n\nSilvia Bârlădeanu are 75 de ani petrecuţi în comuna sa natală, Cosmeşti. Nu s-a gândit că la bătrâneţe va rămâne singură şi că cei doi fii vor lua calea străinătăţii. Sunt 19 ani de când băieţii au plecat la muncă în Italia. Din 2005 s-a mutat în casa cu două etaje pe care băiatul ei a ridicat-o cu banii câştigaţi în străinătate şi de care tot ea se îngrijeşte. „Eu sunt cea care a rămas acasă, aşa că îi ajut cu munca. Am livadă în spate, întreţin toată casa, toată ograda. Dacă faci treabă cu rost o dovedeşti, dacă nu faci treabă cu rost, n-o dovedeşti”, ne-a mărturisit Silvia Bârlădeanu.\n\nBătrâna recunoaşte că singurătatea o doare cel mai mult. Are şi toate motivele. Fiul său vine acasă doar trei săptămâni pe an, în luna august. Spune insă că ajutorul financiar primit de la el o ajută să supravieţuiască. „În fiecare lună îmi trimite, în fiecare lună. Sunt datori",
+  "source_query": "\"case pentru români din străinătate\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-08-24T13:52:37.745Z",
+  "who": "Silvia Bârlădeanu, a 75‑year‑old resident of Cosmeşti, Galaţi, whose son works in Italy and financed the construction of a two‑story house there using money earned abroad.",
+  "fit_score": 7,
+  "fit_reason": "The son fits the ICP: a Romanian living abroad (Italy) who is actively building a house in Romania, funded by diaspora income, matching the target audience for a drone‑based site‑monitoring service.",
+  "hooks": [
+    "Son works in Italy and sends money home every month",
+    "He built a two‑story house in Cosmeşti with earnings from abroad",
+    "The family relies on his financial support to sustain the household",
+    "The house is part of a broader trend of villas being built by diaspora workers in the commune"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-24T13:53:38.066Z",
+  "email": "contact@adevarul.ro",
+  "email_source": "scraped https://adevarul.ro/stiri-locale/galati/comuna-din-galati-in-care-au-mai-ramas-doar-1662259.html"
+}
