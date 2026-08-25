@@ -1,0 +1,18 @@
+{
+  "id": "0e71aaec979c",
+  "url": "https://casamodel.eu/",
+  "title": "Proiectare case Brașov",
+  "snippet": "CasaModel – Proiectare case Brasov\n\n# Proiectare case Brașov\n\n## Proiectăm viitorul casei tale, de la idee până la autorizație\n\nServicii complete de proiectare și consultanță tehnică în Brașov — rapide, sigure și adaptate bugetului tău.\n\nRecomandările beneficiarilor noștri\n\n## Ce facem noi? 👇\n\nServicii complete, dintr-un singur loc: proiectare arhitecturală, calcul structural, instalații, documentație pentru autorizații, șantier și consultanță tehnică.\n\n## 1. Proiectare, consultanță și autorizare\n\nProiecte complete pentru locuințe și construcții civile, alături de consultanță tehnică pe înțelesul tuturor, astfel încât dumneavoastră să aveți un proces simplu, sigur și fără bătăi de cap.\n\n## 2. Lucrări de șantier\n\nExecuția lucrărilor de construcție cu echipe specializate, materiale de calitate și respectarea normelor în vigoare. Fiecare etapă este atent coordonată pentru a asigura durabilitatea și finalizarea la timp a proiectului.\n\n## De ce să lucrăm împreună?\n\n## Fără birocrație.\n\nActe, avize, autorizații, drumuri la instituții – toate sunt responsabilitatea noastră. Dumneavoastră câștigați timp, liniște și un proces fără stres.\n\n## Termene de execuție clare\n\nStabiliți de la început cât durează fiecare etapă, iar noi ne ținem de cuvânt. Fără întârzieri inutile și fără promisiuni aruncate în vânt.\n\n## Transparență totală\n\nȘtiți exact ce se întâmplă, cât costă și ce urmează. Fără costuri ascunse, fără situații neprevăzute — doar muncă serioasă și informații la zi.\n\n## Proiecte",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.902Z",
+  "who": "CasaModel is a Brașov‑based architectural and construction firm that offers end‑to‑end services including architectural design, structural calculations, permitting, and on‑site execution.",
+  "fit_score": 3,
+  "fit_reason": "While the company provides the type of services needed for building a house in Romania, the page shows no explicit targeting of the Romanian diaspora, no language or expat‑focused messaging, and no evidence that they market or serve clients living abroad.",
+  "hooks": [
+    "Offers a transparent, step‑by‑step process with clear timelines and no hidden costs – a selling point for remote owners who need visibility.",
+    "Located in Brașov, one of the ICP’s target mid‑size cities where diaspora clients often seek local partners.",
+    "Provides full‑service package from design to construction, reducing the need for diaspora owners to coordinate multiple vendors."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-08-25T13:54:59.596Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8a9e0809703b",
+  "url": "https://www.bidromania.eu/produse/garantii/diaspora-investeste-acasa",
+  "title": "Diaspora Investește Acasă | Banca de Investiții și Dezvoltare",
+  "snippet": "Diaspora Investește Acasă | Banca de Investiții și Dezvoltare\n\n## Diaspora Investește Acasă\n\nExperiența acumulată peste hotare poate deveni o investiție în România.\n\nProgramul „Diaspora Investește Acasă” sprijină românii care au acumulat experiență în străinătate și vor să investească într-o afacere în România.\n\nSocietățile înființate de maximum 3 ani de români din diaspora pot beneficia de un mecanism integrat de sprijin, care combină un credit pentru investiții, acordat în condiții mai avantajoase datorită garanției BID, cu un grant.\n\nProgramul are un buget de 506 milioane lei, echivalentul a 100 milioane euro, se derulează în perioada 2026–2029 și este estimat să sprijine aproximativ 1.000 de întreprinderi nou înființate.\n\nBanca de Investiții și Dezvoltare implementează, în numele și în contul Ministerului Finanțelor, componenta de grant a programului, în colaborare cu instituțiile de credit partenere.\n\n#### Ajutor de minimis\n\nSprijinul acordat prin Programul „Diaspora Investește Acasă”, sub forma garanției BID și a grantului, reprezintă ajutor de minimis și se acordă în condițiile schemei aplicabile, implementate de Banca de Investiții și Dezvoltare.\n\nGrantul poate reprezenta maximum 60% din valoarea creditului pentru investiții, fără a depăși echivalentul a 200.000 euro pentru fiecare beneficiar.\n\nPentru beneficiarii care fac parte dintr-o întreprindere unică, grantul poate fi acordat pentru o singură entitate din cadrul acesteia și pentru o singură facilitate de credit.",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.901Z",
+  "who": "The page describes \"Diaspora Investește Acasă\", a grant and loan program run by Romania's Investment and Development Bank (BID) to support diaspora‑owned businesses (up to 3 years old) investing in Romania.",
+  "fit_score": 2,
+  "fit_reason": "The initiative targets diaspora entrepreneurs looking to start or expand companies, not individuals building or renovating a personal home. It does not mention residential construction, house‑building progress monitoring, or any signals from diaspora Facebook groups, forums, or vlogs about personal construction projects.",
+  "hooks": [
+    "If the diaspora entrepreneur’s business involves construction or real‑estate development, they could benefit from Ochi pe Șantier to monitor their own building sites in Romania.",
+    "The program’s financial support could free up capital for a diaspora investor to hire a reliable contractor, creating a need for third‑party progress verification."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-25T13:55:45.410Z"
+}

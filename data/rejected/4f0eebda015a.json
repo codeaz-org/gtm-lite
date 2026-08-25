@@ -1,0 +1,17 @@
+{
+  "id": "4f0eebda015a",
+  "url": "https://ejist.ro/files/pdf/424.pdf",
+  "title": "Young Romanians: Entrepreneurs in their Home Country?",
+  "snippet": "Young Romanians: Entrepreneurs in their Home Country?\n\nMihai VOLINTIRU The Bucharest University of Economic Studies, Romania mihai.volintiru@gmail.com\n\nClara VOLINTIRU The Bucharest University of Economic Studies, Romania clara.volintiru@rei.ase.ro\n\nGeorge ȘTEFAN The Bucharest University of Economic Studies, Romania stefan.george.m@gmail.com\n\nAbstract As outward migration and brain drain reach record numbers in Romania, we explore the pull factors that might contribute to a reversal. This paper presents the findings of the first large scale survey on the entrepreneurial intentions of the Romanian Diaspora. We have specifically targeted the category of graduates and young professionals as having the highest flexibility to relocate. The findings of our survey show a large inclination to start a business venture in the home country (79%). The main field in which the young Romanian Diaspora would be interested to develop an entrepreneurial project is IT&C (35.67%). We compare those findings with those from a domestic survey targeting the same age group, and find little differences in preferences, suggesting that country of residence is not a significant differentiating factor in the decision to start a business. The main perceived impediment for entrepreneurship in Romania is still excessive bureaucracy (76.03%). The reverse migration patterns are important for any developing economy in the world, as the case of Romania shows, where the return of the 200,000 Romanians (5%) could ",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.901Z",
+  "who": "Mihai Volintiru, Clara Volintiru, and George Ștefan, researchers at the Bucharest University of Economic Studies who authored a study on entrepreneurial intentions of the Romanian diaspora.",
+  "fit_score": 3,
+  "fit_reason": "The source focuses on diaspora entrepreneurship intentions (especially in IT&C) and does not mention house building, renovation, or any need for remote construction monitoring. There is no evidence these individuals are actively building or planning a house in Romania, so fit with the ICP is low.",
+  "hooks": [
+    "Their survey found 79% of diaspora graduates/intending to start a business in Romania, indicating strong ties and interest in home‑country ventures.",
+    "They highlight bureaucracy as the main impediment (76%), suggesting a pain point that a reliable progress‑monitoring service could alleviate for remote projects."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-25T13:55:40.961Z"
+}
