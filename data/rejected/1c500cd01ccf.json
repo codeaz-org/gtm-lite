@@ -1,0 +1,17 @@
+{
+  "id": "1c500cd01ccf",
+  "url": "https://saintinternational.ro/en/start-up-diaspora-next-gen-en/",
+  "title": "START-UP DIASPORA NEXT GEN",
+  "snippet": "START-UP DIASPORA NEXT GEN - SAINT International | Non-Repayable Funds 2025 | Project Development\n\nSTART-UP DIASPORA NEXT GEN\n\n# START-UP DIASPORA NEXT GEN\n\nSupporting Romanian citizens from the diaspora who wish to return to the country and open a business with ESF financing.\n\nProposal\n\nFINANCINGVALUE\n\nMaximum 200,000 lei per beneficiary\n\nFUNDING\n\nMax 200,000 lei per beneficiary, 100% non-refundable amount\n\n#### ELIGIBLEBENEFICIARIES\n\nNewly established company or maximum 3 years old\n\n#### OBLIGATIONS\n\nCreation of a minimum of 2 full-time jobs over a period of 3 years;\n\nAll purchases must be new;\n\nNo selling allowed for 3 years;\n\nMaintenance of activity during this period (no bankruptcy).\n\nELIGIBLE EXPENSES\n\nWorkspace;\n\nCommercial vehicles;\n\nEquipment;\n\nMachinery;\n\nComputers;\n\nFurniture;\n\nWebsite;\n\nSoftware licenses;\n\nTraining courses;\n\nConsultancy.\n\n###### MORE DETAILS\n\nFUNDING:\n\n- Non-Repayable Financial Allocation – maximum 200,000 lei/beneficiary, an amount that can represent 100% of the eligible expenses (including VAT for non-paying companies) related to the project.\n\nEligible expenses: workspaces, utility vehicles, equipment, machinery, computers, furniture, website, software licenses, courses, consultancy, etc.\n\nELIGIBLE BENEFICIARIES\n\nCompanies (micro-enterprises, small and medium-sized enterprises) can benefit from the provisions of the Program if they cumulatively meet the following eligibility criteria at the time of completing the business plan:\n\na) Beneficiary e",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.902Z",
+  "who": "SAINT International runs the \"START-UP DIASPORA NEXT GEN\" program, offering non‑repayable grants of up to 200,000 lei to Romanian diaspora entrepreneurs who want to start or grow a business in Romania (eligible expenses include workspace, equipment, software, etc.).",
+  "fit_score": 2,
+  "fit_reason": "The page describes a funding scheme for diaspora‑owned startups, not a construction‑monitoring service. While it targets the Romanian diaspora, there is no indication that the audience is actively building, renovating, or planning a house in Romania, which is the core ICP for Ochi pe Șantier.",
+  "hooks": [
+    "Mention that the program supports diaspora entrepreneurs who may also be investing in property back home and could benefit from remote site monitoring.",
+    "Highlight how Ochi pe Șantier can complement a new business venture by ensuring any construction projects (e.g., office, factory) progress on schedule."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-08-25T13:55:17.613Z"
+}

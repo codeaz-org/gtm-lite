@@ -1,0 +1,20 @@
+{
+  "id": "ca7ab5b86952",
+  "url": "https://www.area-house.eu/",
+  "title": "Area House – Constructii & Renovari",
+  "snippet": "Area House – Constructii & Renovari\n\nWhat are you looking for?\n\nClear\n\nEchipa ta completa de profesionisti unita sub un singur contract\n\nRENOVARI & CONSTRUCTII\n\nRenovare, reamenajare, restaurare, extindere sau constructii?\n\nSUNTEM AICI PENTRU TINE\n\nCauti o echipa de incredere, experimentata pentru o lucrare de renovare, reamenajare, restaurare, extindere sau chiar o constructie?\n\nArea House integreaza o echipa de profesionisti uniti intr-o unica retea ce curpinde sectorul constructiilor la 360° sub o singura forma de contract. Suntem concentrati pe oameni, pe relatiile cu clientii nostri, pe dezvoltarea profesionala a personalului nostru si comunitatile cu care interactionam. Echipa noastra lucreaza cu pasiune pentru a crea parteneriate de succes si pentru a oferi numai servicii de calitate clientilor nostri.\n\nCu sediul in Iasi, Romania, Area House este dedicata atat clientilor din Romania, cat si celor din Germania si Italia. Ne oferim serviciile in orasele si zonele din apropiere de Munchen, Nurnberg, Regensburg pentru clientii din Germania, iar in Italia activam in zona Udine.\n\nParteneriatul cu Area House are beneficii care iti vor pregati proiectul pentru succes inca de la inceput. Incredinteaza-ne proiectul tau iar noi vom efectua orice lucrare, oricat de dificila ar parea. In aceasta industrie, ceea ce conteaza cu adevarat este experienta. Cu o vasta experienta in aceste domenii, intotdeauna indeplinim cerintelor clientilor nostri si oferim calitate excelenta.\n\n23 1\n\nAn",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.902Z",
+  "who": "Area House is a construction and renovation company based in Iași, Romania, that provides building and renovation services to clients in Germany and Italy.",
+  "fit_score": 8,
+  "fit_reason": "The firm explicitly targets the Romanian diaspora in Germany and Italy, matching the ICP signal of Romanian construction companies that advertise to diaspora customers.",
+  "hooks": [
+    "Headquartered in Iași, a city listed in the ICP (mid‑size Romanian city with diaspora clientele)",
+    "Markets services to German and Italian clients, indicating experience with diaspora homeowners",
+    "Offers a full team under a single contract, which could be a pain point our monitoring service helps alleviate"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-08-25T13:56:00.523Z",
+  "email": "sergiuantal@area-house.eu",
+  "email_source": "scraped https://www.area-house.eu/"
+}

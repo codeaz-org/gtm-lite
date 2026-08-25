@@ -1,0 +1,14 @@
+{
+  "id": "0f771953ffc0",
+  "url": "https://www.bidromania.eu/centru-media/comunicate-de-presa/investitiile-romanilor-din-diaspora-intra-linie-dreapta-guvernul",
+  "title": "Investițiile românilor din diaspora intră în linie dreaptă. Guvernul aprobă criteriile de eligibilitate, iar BID începe implementarea Programului „Diaspora Investește Acasă” | Banca de Investiții și Dezvoltare",
+  "snippet": "Investițiile românilor din diaspora intră în linie dreaptă. Guvernul aprobă criteriile de eligibilitate, iar BID începe implementarea Programului „Diaspora Investește Acasă” | Banca de Investiții și Dezvoltare\n\n# Investițiile românilor din diaspora intră în linie dreaptă. Guvernul aprobă criteriile de eligibilitate, iar BID începe implementarea Programului „Diaspora Investește Acasă”\n\n6 august 2026\n\nGuvernul României a aprobat astăzi Hotărârea de Guvern pentru aprobarea Programului de sprijin pentru românii din diaspora care doresc să îşi deschidă afaceri în România „Diaspora Investeşte Acasă” și mandatarea Băncii de Investiţii şi Dezvoltare S.A. cu implementarea acestuia, act normativ care stabilește cadrul de implementare, criteriile de eligibilitate și mecanismul prin care românii din diaspora vor putea beneficia de sprijin financiar pentru înființarea și dezvoltarea unor afaceri în România.\n\nProgramul dispune de un buget total de 506 milioane lei (echivalentul a 100 milioane euro) și se va derula în perioada 2026–2029, fiind estimat să sprijine aproximativ 1.000 de întreprinderi nou înființate de români din diaspora.\n\nPrin aceeași Hotărâre, Banca de Investiții și Dezvoltare (BID) este mandatată să implementeze, în numele și în contul Ministerului Finanțelor, componenta de grant a programului, asigurând administrarea, monitorizarea și plata granturilor acordate beneficiarilor, în colaborare cu instituțiile de credit partenere.\n\n„Românii din diaspora au demonstrat, de-a lun",
+  "source_query": "(site:.ro OR site:.eu) (diaspora OR expat) (case OR casa) (romanian OR români) (construction OR constructii) -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-25T13:54:35.902Z",
+  "who": "Press release from Banca de Investiții și Dezvoltare announcing the Romanian government's 'Diaspora Investește Acasă' grant program for diaspora entrepreneurs looking to start or expand businesses in Romania.",
+  "fit_score": 2,
+  "fit_reason": "The source discusses a business‑investment grant program, not residential construction or house‑building activities. It contains no signals of diaspora individuals building, renovating, or planning a home in Romania, which is the core ICP.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-25T13:55:02.833Z"
+}
