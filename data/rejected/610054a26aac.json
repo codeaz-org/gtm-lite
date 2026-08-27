@@ -1,0 +1,17 @@
+{
+  "id": "610054a26aac",
+  "url": "https://finance.imobiliare.ro/blog/banci-credite-cu-venituri-din-strainatate",
+  "title": "Bănci care acordă credite cu venituri din străinătate în 2026",
+  "snippet": "Bănci care acordă credite cu venituri din străinătate în 2026 | Imobiliare.ro Finance\n\nthis.remove(id), event.detail.duration ?? 4000) }, remove(id) { this.toasts = this.toasts.filter(t => t.id !== id) }, }\" @toast.window=\"add($event)\" style=\"font-family: 'Onest', sans-serif;\">\n\nHai să începem\n\nCredit Ipotecar\n\nCalculator sumă eligibilă Simulează un credit ipotecar Refinanțare credit ipotecar\n\nCredit de Nevoi Personale\n\nCalculator sumă eligibilă Simulează un credit de nevoi personale Refinanțare credit nevoi personale\n\nArticole\n\nHai să începem\n\n# Bănci care acordă credite cu venituri din străinătate în 2026\n\n- Share\n\nRomânii care vor să aplice la un credit cu venituri din străinătate, trebuie să aiba un comportament bun de plată și să demonstreze venituri suficiente pentru a acoperi rata lunară și cheltuielile obișnuite de trai.\n\nVezi mai jos sumarul principalelor bănci care oferă credite cu venituri din străinătate:\n\n## Comparație a celor 9 bănci care oferă credite cu venituri din străinătate\n\nDescoperă în continuare principalele costuri și condiții ale celor 9 bănci din România care oferă credite cu venituri din străinătate:\n\n→ Reducere la dobândă de până la 1% dacă te înscrii în programul de beneficii de la BCR\n\n→ Nu oferă finanțare pentru cei din afara Europei, SUA sau Canada\n\n7,10% + EURIBOR 6m\n\n→ Impune prezență fizică obligatorie pentru preaprobarea dosarului\n\n→ Costuri suplimentare generate de necesitatea traducerii autorizate a documentelor\n\n→ Creditul poate fi semna",
+  "source_query": "case pentru români din străinătate site:.ro \"construcție\" \"diaspora\" -facebook -instagram -tiktok",
+  "discovered_at": "2026-08-27T22:51:07.493Z",
+  "who": "The article is a finance blog post from Imobiliare.ro that lists Romanian banks offering mortgages to clients with foreign income in 2026.",
+  "fit_score": 3,
+  "fit_reason": "While the content touches on diaspora financing needs, it does not mention house construction, renovation, or any signals of active building projects, making it only loosely related to the ICP for a construction‑site monitoring service.",
+  "hooks": [
+    "Readers researching mortgages for foreign‑income earners may be in the early stages of planning a home build in Romania and could later need progress verification.",
+    "The article’s audience includes Romanians abroad looking to leverage foreign income for property purchases, a segment that overlaps with the target market for Ochi pe Șantier."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-08-27T22:51:33.592Z"
+}
