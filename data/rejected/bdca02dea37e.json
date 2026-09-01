@@ -1,0 +1,18 @@
+{
+  "id": "bdca02dea37e",
+  "url": "https://casedpe.ro/",
+  "title": "Construcția de Case - Case DPE",
+  "snippet": "Construcția de Case - Case DPE\n\n# Casa ta cu preț și termen garantate\n\nInvestește în liniște și siguranță\n\nSolicită o ofertă gratuită\n\n## Proiecte de case\n\nDescoperă proiecte gata făcute cu prețul construcției – alege-ți casa potrivită!\n\nAici poți alege un proiect adaptat nu doar nevoilor tale și preferințelor tale estetice, ci și bugetului tău de construcție. Verifică costul complet al construirii unei case la standardul energetic al dezvoltatorilor.\n\n### ECO 85\n\nParter\n\nSuprafața utilă: 85,00 m²\n\nPreț net: 0 €\n\n### Golf\n\nCasă cu un singur etaj\n\nSuprafața utilă: 243,00 m²\n\nPreț net: 0 €\n\n### Triathlon\n\nCasă cu mansardă\n\nSuprafața utilă: 195,00 m²\n\nPreț net: 0 €\n\n### ECO 71 Air\n\nParter\n\nSuprafața utilă: 71,00 m²\n\nPreț net: 0 €\n\n## Ce ne diferențiază\n\nUn contract transparent cu garanție comercială și legală\n\nTermen de finalizare garantat pentru construcție\n\nPanou individual online pentru construcție\n\nCalitate înaltă a execuției\n\n## Construcția caselor eficiente energetic\n\nDatorită utilizării tehnologiilor și materialelor moderne, casele noastre îmbină siguranța și durabilitatea cu un consum redus de energie. Alege soluții inteligente, care asigură un impact redus asupra mediului și costuri de întreținere optimizate pe termen lung.\n\n## Case livrate de calitate\n\nChiar și o casă nouă, proaspăt finalizată, are deja propria ei poveste – de la pregătirea terenului până la predarea cheilor către Proprietari. Aici poți vedea cum arată procesul de construcție, folosind zeci de exemple ",
+  "source_query": "case pentru români din străinătate site:ro -facebook.com -instagram.com -tiktok.com intitle:\"constructii\"",
+  "discovered_at": "2026-09-01T17:11:58.640Z",
+  "who": "Case DPE is a Romanian construction company that sells turnkey house projects (designs and building services) through its website casedpe.ro, offering guaranteed timelines and an online client panel.",
+  "fit_score": 3,
+  "fit_reason": "While Case DPE provides house building services that could be used by the diaspora, the site shows no explicit focus on Romanian customers abroad, nor any diaspora‑specific messaging, making it a weak match for the ICP.",
+  "hooks": [
+    "Turnkey house projects with guaranteed completion dates and transparent contracts",
+    "Online client panel for construction monitoring (similar to a remote progress dashboard)",
+    "Energy‑efficient house designs using modern materials and technologies"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-09-01T17:12:19.080Z"
+}
