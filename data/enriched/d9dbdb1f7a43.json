@@ -1,0 +1,23 @@
+{
+  "id": "d9dbdb1f7a43",
+  "url": "https://www.antena3.ro/actualitate/locale/romani-strainatate-acasa-concediu-construiesc-case-683300.html",
+  "title": "Românii din străinătate vin acasă în concediu să muncească şi să îşi construiască case  | Antena 3 CNN",
+  "snippet": "Românii din străinătate vin acasă în concediu să muncească şi să îşi construiască case | Antena 3 CNN\n\n# Românii din străinătate vin acasă în concediu să muncească şi să îşi construiască case\n\n <1 minut de citit Publicat la 11:37 17 Aug 2023 Modificat la 11:37 17 Aug 2023 \n\nOdată cu începerea verii, românii din diaspora iau drumul spre casă, însă nu doar pentru a îşi vizita rudele şi pentru a petrece timp cu ele, ci şi pentru a îşi contrui casa visurilor.\n\nÎn comuna Ştiuca din Timiş, zeci de tineri lucrează de zor, deşi sunt în concediu.\n\nCiteşte şi: Angajații români care pierd 700 de lei din salariu! Anunțul ministrului Finanțelor, Marcel Boloș\n\nDe mai bine de şapte ani, gemenii Adrian şi Marius sunt plecaţi la muncă în Gemania. Trudesc mult şi pun ban pe ban pentru a reveni în ţară. Administraţia locală le-a dat gratuit un teren pentru a îşi construi fiecare câte o casă. Nu au stat pe gânduri şi au venit acasă pentru a începe lucrările.\n\nÎn aceeaşi situaţie se regăsesc şi alte câteva zeci de tineri. Unii sunt la început de drum, alţii sunt mult mai avansaţi în construcţie. Străzile comunelor prin influenţe clare din zonele unde sunt plecaţi tinerii la muncă.\n\nUltimul recensământ arată că numărul românilorplecaţi la mună în străinătate se apropie de şase milioane şi este în continuă creştere. Numărul real al celor plecaţi nu este, însă, cunoscut de autorităţi. Specialiştii estimează că ar fi chiar mai mare.",
+  "source_query": "\"case pentru români din străinătate\" \"director\" \"construi\" site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-09-03T16:57:49.445Z",
+  "who": "Adrian and Marius, twin Romanian brothers working in Germany who received free land in Ştiuca, Timiş and are building houses there during their vacation, along with other diaspora builders mentioned in the article.",
+  "fit_score": 9,
+  "fit_reason": "They are Romanians living abroad (Germany), actively constructing a house in Romania, returning on vacation to work on the site—exactly the target audience for remote construction monitoring.",
+  "hooks": [
+    "working in Germany",
+    "twin brothers Adrian and Marius",
+    "received free land from local administration in Ştiuca, Timiş",
+    "building houses during vacation",
+    "construction at early to advanced stages",
+    "need reliable progress verification while abroad"
+  ],
+  "guessed_channel": "linkedin",
+  "enriched_at": "2026-09-03T16:59:16.325Z",
+  "email": "sabina.iosub@antena3.ro",
+  "email_source": "hunter (83% conf)"
+}
