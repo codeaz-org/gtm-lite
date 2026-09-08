@@ -1,0 +1,18 @@
+{
+  "id": "718b80efe67e",
+  "url": "https://dronshop.ro/masuratori-topografice-cu-drona-3d-si-calcul-volumetric",
+  "title": "Măsurători topografice cu dronă, 3D și calcul volumetric",
+  "snippet": "Măsurători topografice cu dronă, 3D și calcul volumetric\n\n+40 770 242 287\n\n# Ridicare topografică și cartografiere cu dronă\n\nRidicare rapidă și documentată pentru suprafețe mari: ortofotoplan, model 3D, calcul volumetric și, la cerere, LiDAR. Pentru constructori, proiecte industriale și lucrări publice – situație clară, rezultate măsurabile. \n\nRTK / flux de lucru georeferențiat Ortofotoplan + model 3D al suprafeței Raport volum / progres lucrări Opțiune LiDAR (în funcție de proiect) \n\n## Când merită să ceri o măsurătoare cu dronă?\n\n- Lucrări de terasament & depozite: volum, progres, măsurare modificări\n- Șantiere: rapoarte săptămânale/lunare, documentație, comunicare\n- Carieră / rampă / depozit: monitorizarea cantităților și a mișcărilor\n- Parc fotovoltaic / zonă industrială: ridicare rapidă și uniformă pe suprafețe mari\n- Proiecte publice: înregistrarea situației înainte/după execuție (drumuri, amenajări)\n\n## Ce livrăm la finalul proiectului?\n\nNu primești „fișiere brute”, ci materiale utilizabile pentru decizie, documentație și raportare. Livrarea o adaptăm scopului (execuție, proiectare, calcule de cantități). \n\n### Ortofotoplan (imagine aeriană măsurabilă)\n\nImagine georeferențiată, fără distorsiuni, pe care se pot verifica suprafețe și distanțe. \n\n- documentație proiect / comparații în timp\n- comunicare cu beneficiar / subcontractori\n- verificare trasee, obiecte, zone\n\n### Model 3D și model al suprafeței\n\nVizualizare 3D clară pentru analize de teren și suprafață. \n\n- preze",
+  "source_query": "nevoie de raport de progres șantier drone blog site:ro -site:facebook.com -site:instagram.com -site:tiktok.com -site:youtube.com",
+  "discovered_at": "2026-09-08T17:06:27.758Z",
+  "who": "Dronshop.ro is a Romanian drone services company that provides topographic surveys, 3D modeling, and volumetric calculations for construction, industrial, and public works projects.",
+  "fit_score": 2,
+  "fit_reason": "The company targets contractors, industrial clients, and public sector projects, not Romanian diaspora homeowners building houses in Romania. There is no indication they serve or market to individuals living abroad who need remote site monitoring.",
+  "hooks": [
+    "They offer 'Ridicare rapidă și documentată pentru suprafețe mari' which could be adapted for periodic progress reporting on residential builds.",
+    "Their service includes 'Raport volum / progres lucrări' – a progress report that could be repurposed for diaspora clients.",
+    "Contact phone +40 770 242 287 provides a direct line for partnership outreach."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-09-08T17:06:50.206Z"
+}
