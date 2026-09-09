@@ -1,0 +1,17 @@
+{
+  "id": "35b538a58a04",
+  "url": "https://agerpres.ro/politic/2026/05/03/aur-propune-infiintarea-ghiseului-unic-pentru-diaspora-proiect-de-sprijinire-a-revenirii-romanilor-i--1552236",
+  "title": "AUR propune înființarea Ghișeului Unic pentru Diaspora, proiect de sprijinire a revenirii românilor în țară - AGERPRES",
+  "snippet": "AUR propune înființarea Ghișeului Unic pentru Diaspora, proiect de sprijinire a revenirii românilor în țară - AGERPRES\n\nAgerpres – Agenția Națională de Presă: Știri de actualitate cu informații de încredere pentru o societate bine informată.\n\nBucuresti\n\nPiaţa Presei Libere nr. 1, sector 1\n\nTelefon: +4 021.2076.110\n\noffice@agerpres.ro\n\n## AUR propune înființarea Ghișeului Unic pentru Diaspora, proiect de sprijinire a revenirii românilor în țară\n\n- Flux: Politic\n- Data: 03-05-2026 13:02\n- Foto: ALEX TUDOR / AGERPRES FOTO\n\nA- A A+\n\nAlianța pentru Unirea Românilor (AUR) anunță depunerea în Parlament a unei propuneri legislative privind înființarea Ghișeului Unic pentru Diaspora, un instrument național destinat sprijinirii românilor din străinătate care doresc să revină în țară. Potrivit inițiatorilor, proiectul vine în contextul plecării celor câteva milioane de români peste hotare și al lipsei unor mecanisme concrete de sprijin din partea statului pentru întoarcerea acestora acasă. AUR susține că principalele obstacole sunt birocrația, lipsa informațiilor și dificultatea interacțiunii cu instituțiile statului. 'Inițiativa stabilește obligații clare pentru autoritățile publice centrale de a furniza și actualiza informațiile în platformă, introduce un serviciu de consiliere integrată cu personal de specialitate și prevede sancțiuni pentru instituțiile care nu respectă aceste obligații. Totodată, proiectul creează un mecanism de coordonare între instituțiile statului, sub responsab",
+  "source_query": "\"case pentru români din străinătate\" \"diaspora\" site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-09-09T17:03:50.669Z",
+  "who": "AUR (Alianța pentru Unirea Românilor) – a Romanian political party that recently announced a legislative proposal to create a 'Ghiseu Unic pentru Diaspora' (one‑stop shop) aimed at supporting Romans living abroad who wish to return to Romania.",
+  "fit_score": 3,
+  "fit_reason": "The article focuses on a political initiative for diaspora return and does not mention construction, house building, renovation, or any need for remote site monitoring. It therefore lacks direct signals of the ICP (Romanians abroad actively building/renovating a home in Romania).",
+  "hooks": [
+    "Reference AUR’s 'Ghiseu Unic pentru Diaspora' proposal and position Ochi pe Șantier as a complementary service that verifies construction progress for diaspora home‑builders.",
+    "Highlight that diaspora members considering return (and potentially building a house) could benefit from remote drone monitoring to avoid delays, disputes, and cost overruns."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-09-09T17:04:18.882Z"
+}
