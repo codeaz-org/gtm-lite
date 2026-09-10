@@ -1,0 +1,18 @@
+{
+  "id": "fd00415ca310",
+  "url": "https://ro.romanianunitedfund.org/rares",
+  "title": "Rares Grecu la RUF",
+  "snippet": "Rares Grecu la RUF\n\n# \n\n \n\n###### Ambasador Student GlobalRomania\n\n De la București la Londra și New York, Rareș a absolvit recent NYU, unde a fondat Asociația Studenților Români și Moldoveni, iar acum lucrează în Credit Privat la Deep Ocean Partners. \n\n## Ambasador Student GlobalRomania\n\nRecent absolvent al Universității din New York cu o licență în economie și mândru de rădăcinile sale românești, Rareș Grecu este co-fondator al Asociației Studenților Români și Moldoveni de la NYU, primul club de acest gen din cadrul universității dedicat acestor comunități. Prin evenimente și dialog, Rareș le-a permis studenților cu rădăcini românești să-și celebreze cultura și să se sprijine reciproc în străinătate. El consideră că comunitatea, educația și identitatea comună sunt instrumente puternice pentru construirea de punți între România și restul lumii.\n\n## Activitate recentă\n\n- înscriere voluntară\n\n Rares Grecu vrea să se ofere voluntar 11 months ago \n- donaţie\n\n Rares Grecu donat prin Karina Ghete 1 year ago \n- înscriere\n\n Rares Grecu înscris pe Înscrieți-vă: Studenți Ambasadori 1 year ago \n\n  5408 N Kedzie Ave, Chicago, IL 60625, Statele Unite\n\n +1 (773) 289-8696 (+17732898696)",
+  "source_query": "\"case pentru români din străinătate\" \"fondator\" \"LinkedIn\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-10T16:54:59.436Z",
+  "who": "Rares Grecu is a Romanian graduate of NYU who works in credit privat at Deep Ocean Partners and lives in Chicago, USA.",
+  "fit_score": 2,
+  "fit_reason": "He is a Romanian living abroad but in the United States, which is outside the target countries (DE, IT, ES, UK, IE, FR, BE, NL). The source provides no indication that he is building, renovating, or planning a house in Romania, nor any construction‑related signals.",
+  "hooks": [
+    "Romanian diaspora background (NYU alumnus, lives in Chicago)",
+    "Professional role in finance at Deep Ocean Partners",
+    "Potential interest in staying connected to Romania"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-10T16:57:00.893Z"
+}

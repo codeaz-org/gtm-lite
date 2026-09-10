@@ -1,0 +1,17 @@
+{
+  "id": "21aefcdcdbd9",
+  "url": "https://ro.wikipedia.org/wiki/Liga_Studen%C8%9Bilor_Rom%C3%A2ni_din_Str%C4%83in%C4%83tate",
+  "title": "Liga Studenților Români din Străinătate",
+  "snippet": "Liga Studenților Români din Străinătate\n\nLiga Studenților Români din Străinătate (LSRS) este o organizație neguvernamentală, non-profit, apolitică și neafiliată religios.\n\nLSRS asigură un cadru de organizare reprezentativ al studențimii române din străinătate, promovând o puternică solidaritate între membrii săi, ca reprezentanți de valoare ai României, și o atitudine pozitivă față de perspectivele întoarcerii lor în țară după terminarea studiilor.\n\nScopul principal al LSRS este de a apăra și promova drepturile și interesele academice, profesionale, sociale și culturale ale membrilor săi, precum și de a facilita contribuția lor la dezvoltarea României.\n\nLSRS își propune să-i informeze pe studenții români din străinătate cu privire la oportunitățile de participare la viața economică, politică și socială a României, dar și să-i informeze pe românii interesați de perspectiva studiului în străinătate despre oportunitățile academice existente.\n\nPreședintele LSRS actual este Otilia Apostol. [1] \n\n## Despre LSRS\n\nProiectul Liga Studenților Români din Străinătate (LSRS) a început încă din ianuarie 2009, pornind de la constatarea creșterii rapide a numărului de studenți și absolvenți români ai universităților din străinătate. Sebastian Burduja a fondat și condus această organizație în faza sa incipientă. Având în vedere rolul său fondator, Burduja are în continuare titlul de Președinte de Onoare al LSRS.\n\nLSRS reprezintă primul for care se adresează tuturor studenților și absolvențilo",
+  "source_query": "\"case pentru români din străinătate\" \"fondator\" \"LinkedIn\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-10T16:54:59.435Z",
+  "who": "Liga Studenților Români din Străinătate (LSRS) is a non‑governmental, non‑profit organization that represents Romanian students and graduates living abroad, promoting solidarity and facilitating their contribution to Romania’s development.",
+  "fit_score": 2,
+  "fit_reason": "The source describes a student diaspora association focused on academic, professional, social and cultural interests, with no mention of home construction, renovation, or real‑estate activities. It lacks the key ICP signals (building/renovating a house in Romania, diaspora homeowners, construction‑related forums or agencies).",
+  "hooks": [
+    "LSRS promotes the perspective of returning to Romania after studies, which could be a future trigger for housing projects among its members.",
+    "The organization’s network of Romanian students abroad could be leveraged to share information about construction‑monitoring services once members transition to home‑building phases."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-09-10T16:55:14.370Z"
+}

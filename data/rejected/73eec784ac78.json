@@ -1,0 +1,20 @@
+{
+  "id": "73eec784ac78",
+  "url": "https://fotografieaeriana.eu/monitorizare-progres-santier-drona.html",
+  "title": "Monitorizare progres șantier cu drona | FAE Drones",
+  "snippet": "Monitorizare progres șantier cu drona | FAE Drones\n\n# Monitorizare progres șantier cu zboruri repetate și livrabile datate\n\nStabilim o captură inițială și repetăm zborurile după aceeași geometrie convenită, astfel încât echipa să poată compara vizual etapele documentate. Cadența și livrabilele se stabilesc pentru proiect, în funcție de șantier, vreme, acces și deciziile care trebuie susținute.\n\n### Captură inițială folosită drept reper vizual\n\n### Zboruri repetate după geometria convenită\n\n### Imagini și livrabile marcate cu data capturii\n\n## Începi cu o stare inițială clar documentată\n\nPrima misiune fixează aria, pozițiile de captură și rezultatul vizual urmărit. Pentru zborurile următoare păstrăm, pe cât permit condițiile operaționale, geometria și parametrii conveniți.\n\nFotografiile oblice, ortofotoplanul, norul de puncte sau modelul 3D se includ numai dacă sunt cerute și fezabile. Fiecare set este identificat prin data capturii, fără a transforma documentarea vizuală într-o certificare automată a lucrărilor.\n\n## FAE oferă scanare LiDAR și proiecte mixte fotogrammetrie + LiDAR\n\nFAE oferă scanare LiDAR aeropurtată pentru teren, vegetație, coridoare, infrastructură și nori de puncte clasificați. Când un proiect combină fotogrammetria și LiDAR-ul, evaluăm unitar amplasamentul, controlul geodezic și livrabilele; detaliile tehnice LiDAR sunt prezentate pe Discover LIDAR.\n\n### Aceleași zone pot fi revăzute într-un context comun\n\nSeriile datate ajută beneficiarul, antreprenorul ș",
+  "source_query": "\"verificare progres șantier\" \"drone\" \"România\" \"diaspora\" blog -site:facebook.com -site:instagram.com -site:tiktok.com -site:youtube.com",
+  "discovered_at": "2026-09-10T16:55:02.642Z",
+  "who": "FAE Drones is a Romanian drone service provider that offers construction‑site progress monitoring using repeated flights, dated photo/video deliverables, and optional LiDAR scanning.",
+  "fit_score": 9,
+  "fit_reason": "Their core offering matches exactly what Ochi pe Șantier sells: drone‑based, regularly scheduled visual reports of a building site that can be accessed remotely. This directly addresses the need of Romanians abroad who cannot verify progress in person, making them a strong potential partner or customer.",
+  "hooks": [
+    "Reference their existing \"Monitorizare progres șantier cu drona\" service and note how Ochi pe Șantier could complement or white‑label it for diaspora clients.",
+    "Highlight the opportunity to add a private dashboard and automated progress‑% comparison to their current deliverables.",
+    "Mention targeting Romanian expat communities in DE, IT, ES, UK, IE, FR, BE, NL via Facebook groups or forums where they already discuss construction."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-09-10T16:56:33.073Z",
+  "email": "",
+  "email_source": "not found"
+}
