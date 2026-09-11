@@ -1,0 +1,17 @@
+{
+  "id": "bdca02dea37e",
+  "url": "https://casedpe.ro/",
+  "title": "Construcția de Case - Case DPE",
+  "snippet": "Construcția de Case - Case DPE\n\n# Casa ta cu preț și termen garantate\n\nInvestește în liniște și siguranță\n\nSolicită o ofertă gratuită\n\n## Proiecte de case\n\nDescoperă proiecte gata făcute cu prețul construcției – alege-ți casa potrivită!\n\nAici poți alege un proiect adaptat nu doar nevoilor tale și preferințelor tale estetice, ci și bugetului tău de construcție. Verifică costul complet al construirii unei case la standardul energetic al dezvoltatorilor.\n\n### ECO 85\n\nParter\n\nSuprafața utilă: 85,00 m²\n\nPreț net: 0 €\n\n### Golf\n\nCasă cu un singur etaj\n\nSuprafața utilă: 243,00 m²\n\nPreț net: 0 €\n\n### Triathlon\n\nCasă cu mansardă\n\nSuprafața utilă: 195,00 m²\n\nPreț net: 0 €\n\n### ECO 71 Air\n\nParter\n\nSuprafața utilă: 71,00 m²\n\nPreț net: 0 €\n\n## Ce ne diferențiază\n\nUn contract transparent cu garanție comercială și legală\n\nTermen de finalizare garantat pentru construcție\n\nPanou individual online pentru construcție\n\nCalitate înaltă a execuției\n\n## Construcția caselor eficiente energetic\n\nDatorită utilizării tehnologiilor și materialelor moderne, casele noastre îmbină siguranța și durabilitatea cu un consum redus de energie. Alege soluții inteligente, care asigură un impact redus asupra mediului și costuri de întreținere optimizate pe termen lung.\n\n## Case livrate de calitate\n\nChiar și o casă nouă, proaspăt finalizată, are deja propria ei poveste – de la pregătirea terenului până la predarea cheilor către Proprietari. Aici poți vedea cum arată procesul de construcție, folosind zeci de exemple ",
+  "source_query": "\"case pentru români din străinătate\" \"constructii\" site:.ro -site:facebook.com -site:instagram.com -site:tiktok.com -site:youtube.com",
+  "discovered_at": "2026-09-11T16:56:13.204Z",
+  "who": "Case DPE is a Romanian construction company that sells pre‑designed house projects and turnkey building services through its website casedpe.ro.",
+  "fit_score": 3,
+  "fit_reason": "While they are a builder, their messaging targets general Romanian customers with no explicit focus on serving Romanians abroad, no diaspora‑specific language, and no evidence of remote‑monitoring offerings.",
+  "hooks": [
+    "They advertise an \"online individual panel for construction\" that could be positioned as a platform for delivering drone‑based progress reports to diaspora clients.",
+    "Their guarantees of fixed completion dates and transparent contracts address the exact trust and verification concerns faced by Romanians building from abroad."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-09-11T16:57:23.377Z"
+}
