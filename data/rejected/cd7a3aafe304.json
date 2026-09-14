@@ -1,0 +1,16 @@
+{
+  "id": "cd7a3aafe304",
+  "url": "https://www.mai.gov.ro/modificari-legislative-implementate-in-sistemul-de-pasapoarte-ca-urmare-a-modificarii-si-completarii-legii-248-2005-privind-regimul-liberei-circulatii-a-cetatenilor-romani-in-strainatate/",
+  "title": "Modificări legislative implementate în sistemul de pașapoarte ca urmare a modificării și completării Legii 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate – MINISTERUL AFACERILOR INTERNE",
+  "snippet": "Modificări legislative implementate în sistemul de pașapoarte ca urmare a modificării și completării Legii 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate – MINISTERUL AFACERILOR INTERNE\n\n# Modificări legislative implementate în sistemul de pașapoarte ca urmare a modificării și completării Legii 248/2005 privind regimul liberei circulații a cetățenilor români în străinătate\n\n Postat în: 3 iulie 2024 \n\nÎn scopul organizării eficiente a vacanțelor în contextul sezonului estival, informăm cetățenii că, începând cu data de 03.07.2024, vor fi implementate noi modificări legislative în sistemul de pașapoarte:\n\n- Eliberarea pașaportului simplu temporar se va realiza doarîn situații obiective și urgente, ce exclud cazurile în care deplasarea persoanei pe teritoriul altui stat are la bază rațiuni exclusiv turistice. Situaţiile obiective și urgente trebuie probate cu documente din care să rezulte necesitatea deplasării persoanei în străinătate.\n\nTotodată, atragem atenția cu privire la faptul că există state care nu permit intrarea pe teritoriul lor național cu pașaportul simplu temporar, sens în care, recomandăm accesarea site-ului Ministerului Afacerilor Externe, www.mae.ro , secțiunea condiții de călătorie, înaintea efectuării călătoriei.\n\n- Pașapoartele declarate pierdute, distruse sau furate sunt nule de dreptși nu mai pot fi utilizate, chiar dacă sunt găsite ulterior.\n\nÎn cazul persoanelor care găsesc documentul de călătorie declarat pierdut sau fur",
+  "source_query": "\"case pentru români din străinătate\" site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-09-14T18:23:13.788Z",
+  "who": "This is a Romanian Ministry of Internal Affairs announcement detailing recent legislative changes to the passport system for Romanian citizens traveling abroad, published on 3 July 2024.",
+  "fit_score": 3,
+  "fit_reason": "The source discusses passport policy updates and does not mention construction, house building, renovation, or any activity related to the Romanian diaspora managing a building project in Romania. It therefore only loosely connects to the ICP via the general topic of Romanian citizens abroad.",
+  "hooks": [
+    "The new passport rules may limit how frequently diaspora members can travel to Romania to inspect their building site, which could increase the perceived value of a remote monitoring service like Ochi pe Șantier."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-14T18:24:05.628Z"
+}
