@@ -1,0 +1,17 @@
+{
+  "id": "420f583b5405",
+  "url": "https://www.mediafax.ro/social/statistici-versus-realitate-doar-59-de-romani-au-plecat-sa-lucreze-in-constructii-in-germania-in-2020-spune-inspectia-muncii-realitatea-este-ca-sunt-700-000-de-romani-pe-santierele-din-strainatate-20071324",
+  "title": "Statistici versus realitate. Doar 59 de români au plecat să ...",
+  "snippet": "Statistici versus realitate. Doar 59 de români au plecat să lucreze în construcţii în Germania în 2020, spune Inspecţia Muncii. Realitatea este că sunt 700.000 de români pe şantierele din străinătate\n\n# Statistici versus realitate. Doar 59 de români au plecat să lucreze în construcţii în Germania în 2020, spune Inspecţia Muncii. Realitatea este că sunt 700.000 de români pe şantierele din străinătate\n\nNumai 59 de români au plecat să muncească în străinătate în 2020, arată datele furnizate de Inspecţia Muncii la soli­ci­ta­rea ZF referitoare la distri­bu­ţia românilor în construcţii în ţările Uniu­nii Europene. Olanda şi Polonia au primit, la rândul lor, câte un român în construcţii, în vreme ce în Franţa au ajuns 16, în Belgia - 13, iar în Danemarca - 6.\n\n \n\n 10 mai 2021, 01:35, Social Alina-Elena Vasiliu \n\n Doar în Germania sunt zeci de şantiere unde un număr mare de români lucrează zi de zi, însă, de cele mai multe ori, plecările nu se fac prin agenţii, ci pe cont propriu sau prin intermediul rudelor ori al cunoştinţelor. \n\n Numai 59 de români au plecat să muncească în străinătate în 2020, arată datele furnizate de Inspecţia Muncii la soli­ci­ta­rea ZF referitoare la distri­bu­ţia românilor în construcţii în ţările Uniu­nii Europene. Olanda şi Polonia au primit, la rândul lor, câte un român în construcţii, în vreme ce în Franţa au ajuns 16, în Belgia – 13, iar în Danemarca – 6. \n\n „Agenţii de plasare a forţei de muncă în străinătate au obligaţia să transmită trimestrial, pân",
+  "source_query": "forumconstructii.ro șantier progres construcție români în străinătate discuție",
+  "discovered_at": "2026-09-21T18:31:21.575Z",
+  "who": "Mediafax Romania, a news outlet publishing an article about official vs actual numbers of Romanians working in construction abroad.",
+  "fit_score": 2,
+  "fit_reason": "The source is a general news statistic piece; it does not identify any specific Romanian diaspora homeowner, builder, or service provider actively planning or overseeing a house build in Romania. Therefore it shows little direct relevance to the ICP.",
+  "hooks": [
+    "The article cites ~700,000 Romanians working on construction sites overseas, highlighting a large diaspora segment engaged in construction work abroad.",
+    "This backdrop could be used to frame a conversation about the challenges of remote oversight for those managing property projects back home."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-21T18:31:40.525Z"
+}
