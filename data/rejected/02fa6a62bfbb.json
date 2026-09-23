@@ -1,0 +1,17 @@
+{
+  "id": "02fa6a62bfbb",
+  "url": "https://www.sozmedia.ro/un-roman-de-34-de-ani-construieste-case-de-lux-pentru-englezi/",
+  "title": "Un român de 34 de ani construieşte case de lux pentru englezi - Sözmedia - Romanyaya Dair Herşey",
+  "snippet": "Un român de 34 de ani construieşte case de lux pentru englezi - Sözmedia - Romanyaya Dair Herşey\n\n# Un român de 34 de ani construieşte case de lux pentru englezi\n\nSozmedia tarafından yayınlandı\n\n19 Nisan 2019, 10:37 yayınlandı 19 Nisan 2019, 10:38 güncellendi\n\nÎn vremuri în care piaţa locală a construcţiilor e măcinată constant de provocări precum lipsa de muncitori, costurile mari ale angajatorilor, salariile nesatisfăcătoare ale angajaţilor şi lipsa certitudinii proiectelor, un român a căutat o nişă care să-i Aducă lozul câştigător în business. Chiar şi Barack Obama a înnoptat în una din cabanele concepute de Ionuţ Sănducu, iar românii par să fi prins şi ei gustul caselor din lemn, asemenea celor desprinse din poveşti sau din vederile pe care ni le trimiteam în urmă cu prea mulţi ani.\n\nE adevărat, afacerea îşi are rădăcinile nu în România, ci în Marea Britanie, însă fondatorul acesteia nu a părăsit complet mediul românesc de afaceri, aşa că încearcă să aducă şi aici, pas cu pas, ideile aplicate pe pământ englezesc. La 34 de ani, Ionuţ Sănducu conduce, în Marea Britanie, propria firmă de construcţii, Sănducu Log Buildings, un business prin care ridică locuinţe din lemn, o alternativă ecologică la casele bazate pe BCA, cărămidă şi mortar, pe gustul celor care se visează mai aproape de natură chiar şi atunci când ajung acasă. Fără a lăsa însă confortul la o parte, ţinând cont că locuinţele seamănă izbitor cu unele dintre cele mai luxoase vile construite în dulcele stil clasic.",
+  "source_query": "\"construcții pentru români din străinătate\" \"director\" \"contact\" site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-09-23T17:44:38.646Z",
+  "who": "Ionuț Sănducu, a 34‑year‑old Romanian entrepreneur living in the United Kingdom who runs Sănducu Log Buildings, a UK‑based construction firm that builds luxury wooden houses for English clients.",
+  "fit_score": 2,
+  "fit_reason": "The lead describes a Romanian builder serving foreign (UK) clients, not a diaspora individual building or renovating a house in Romania. There is no indication that he is personally overseeing a residential build in Romania that would require remote site monitoring.",
+  "hooks": [
+    "Mentions his effort to bring UK construction ideas to Romania, which could open a conversation about adapting monitoring solutions for cross‑border projects.",
+    "His firm focuses on wooden, eco‑friendly houses – a niche that could benefit from progress reporting to assure quality for remote clients."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-23T17:44:45.274Z"
+}
