@@ -1,0 +1,17 @@
+{
+  "id": "9fa61ca1e772",
+  "url": "https://skylinedrones.ro/ro/constructii-civile/",
+  "title": "Constructii Civile | Skyline Drones",
+  "snippet": "Constructii Civile | Skyline Drones\n\n# Monitorizare eficientă a amplasamentului cu date aeriene\n\nConcentrându-se pe inovație, eficiență și management meticulos al proiectelor, sectorul construcțiilor civile transformă planurile în realitate, construind fundația societăților moderne și stimulând dezvoltarea urbană.\n\nTransformă proiectele de construcții cu soluțiile noastre avansate cu drone. Integrând perfect tehnologia, oferim beneficii de neegalat în analiza amplasamentului și supravegherea proiectelor. De la studii aeriene la monitorizare în timp real, Skyline Drones îmbunătățește precizia, reduce costurile și optimizează eficiența, asigurând succesul proiectului.\n\n##### Eficiență\n\nDronele optimizează topografia construcțiilor civile cu imagini aeriene de înaltă rezoluție, reducând timpul și costurile.\n\n##### Monitorizare\n\nDronele permit monitorizarea șantierului în timp real, îmbunătățind managementul proiectelor și comunicarea în echipă.\n\n##### Siguranță\n\nÎmbunătățim siguranța prin inspectarea zonelor inaccesibile sau riscante, reducând inspecțiile manuale și riscurile pentru muncitorii din construcții.\n\n##### Costuri\n\nUtilizând drone optimizăm inspecțiile în construcții, reducând timpii de nefuncționare și costurile proiectului.\n\n#### Monitorizarea construcțiilor\n\nUrmăriți productivitatea construcțiilor cu vederi aeriene detaliate, captate la intervale specifice. Oferim date complete pentru planificarea șantierului, calcule de volum eficiente din punct de vedere al costu",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"drone monitoring\" \"șantier\" \"progress report\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-24T17:46:13.648Z",
+  "who": "Skyline Drones is a Romanian drone‑services company that provides aerial monitoring and data collection for civil construction projects.",
+  "fit_score": 2,
+  "fit_reason": "The page promotes a B2B drone monitoring service aimed at construction firms and project managers, not at individual Romanians living abroad who are building or renovating a house in Romania. There is no indication that they target diaspora homeowners or offer a private progress‑report dashboard for overseas clients.",
+  "hooks": [
+    "Skyline Drones already operates a drone fleet for construction monitoring – they could be a partner to add a diaspora‑focused progress‑reporting layer (Ochi pe Șantier) to their existing service.",
+    "Their website mentions real‑time site monitoring and volume calculations, which aligns with the data we would deliver; we could propose integrating our private dashboard and staged photo reports for their clients who are overseas homeowners."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-09-24T17:46:53.901Z"
+}

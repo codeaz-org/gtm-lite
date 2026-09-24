@@ -1,0 +1,18 @@
+{
+  "id": "5e3dab9363ab",
+  "url": "https://www.skyx.ro/construction-progress",
+  "title": "CONSTRUCTION PROGRESS | sky.ro",
+  "snippet": "CONSTRUCTION PROGRESS | sky.ro\n\ntop of page\n\n# PROGRESS MONITORING & MANAGEMENT OF CONSTRUCTION\n\n# CONSTRUCTION PROGRESS MONITORING BY DRONE\n\n# Monitoring the development of your construction project is essential from groundbreaking to opening day to notify investors, identify potential issues, and stay on schedule and within budget. Drone construction progress monitoring is an effective and economical approach to remain on top of your next project for bigger projects like expansive infrastructure projects or multi-building complexes.\n\n# MONITORING CONSTRUCTION PROJECTS WITH DRONES\n\n# Historically, helicopter photography was used to capture the majority of aerial shots of construction sites. The use of unmanned aerial vehicles (UAVs), or drones, is quickly gaining favor as a highly effective alternative technique of construction monitoring because this method has shown to be time-consuming, expensive, and ineffective.\n\n# An experienced pilot can fly drones high above the construction site to provide real-time data to the engineers and project managers below. UAVs also gather high-resolution photos that can be used to build 3D models by qualified surveyors and mappers. Moreover, drones can fly near to the site of the work, offering up-close views of several locations surrounding the project.\n\nTracking development and progress on a regular basis.\n\n360° views of the job location are created.\n\nKeeping an inventory of the job site.\n\n# DRONE CONSTRUCTION PROGRESS MONITORING HAS BEE",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"drone monitoring\" \"șantier\" \"progress report\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-24T17:46:13.648Z",
+  "who": "SkyX is a Romanian drone services provider that offers construction progress monitoring via UAVs for infrastructure and building projects.",
+  "fit_score": 5,
+  "fit_reason": "Their service matches the core drone monitoring need, but the page does not indicate any focus on the Romanian diaspora or residential house builds abroad, making the fit moderate.",
+  "hooks": [
+    "They stress regular progress reporting to keep projects on schedule and on budget – a pain point for diaspora homeowners.",
+    "They offer 360° site views and inventory tracking, which could be packaged into a private dashboard for overseas clients.",
+    "Their emphasis on cost‑effective drone monitoring aligns with our value proposition of reducing reliance on costly trips or unreliable WhatsApp updates."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-09-24T17:46:36.683Z"
+}

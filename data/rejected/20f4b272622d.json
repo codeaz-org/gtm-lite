@@ -1,0 +1,17 @@
+{
+  "id": "20f4b272622d",
+  "url": "https://www.multivista.com/guide/a-guide-to-uavs-and-drones-in-construction/",
+  "title": "A Guide to UAVs and Drones in Construction | Multivista",
+  "snippet": "A Guide to UAVs and Drones in Construction | Multivista\n\n# A Guide to UAVs and Drones in Construction\n\n## UAVs/Drones capture as-built conditions from every angle\n\nUAVs and drones are transforming construction documentation. How do they fit into a modern project workflow? Managing and reviewing reality capture data is a significant challenge. As-built records must be kept updated with accurate visuals to properly assess site conditions. Teams now have access to UAVs/drones that provide observations beyond human capability and enable measurements from cloud-based platforms shareable from any internet-connected device.\n\n## The Basics of Construction Drones\n\nDoes UAV/drone-powered documentation come with any challenges?\n\n## What Is UAV/Drone Documentation In Construction?\n\nUAVs/drones are remotely piloted aircraft systems (RPAS) that carry sensors to capture construction site data from the air.\n\nEquipped with high-definition cameras, LiDAR, thermal, multispectral, and gas detection sensors, they capture precise 3D spatial data for mapping, modeling, and inspections.\n\nUses for captured data: – 3D mapping – Topographic modeling – Accurate terrain measurements – QA/QC and inspection – Promotional marketing efforts\n\n## How Does UAV/Drone Documentation Work?\n\nUAVs and drones equipped with high-definition cameras, LiDAR, thermal, and multispectral sensors fly over construction sites capturing data from above—delivering observations beyond human capability.\n\nDepending on the sensor pay",
+  "source_query": "intitle:\"diaspora build\" \"house\" \"Romania\" \"progress update\" \"drone\" -site:facebook.com -site:instagram.com -site:tiktok.com -site:youtube.com",
+  "discovered_at": "2026-09-24T17:46:17.302Z",
+  "who": "Multivista is a U.S.-based provider of construction‑site drone and reality‑capture services, offering aerial imaging, 3D modeling and progress documentation for general contractors and developers.",
+  "fit_score": 2,
+  "fit_reason": "The content is a generic guide to construction drones with no mention of the Romanian diaspora, language‑specific reporting, or services tailored to overseas homeowners. It targets contractors rather than diaspora clients, so the fit with the ICP is weak.",
+  "hooks": [
+    "Highlight how a diaspora‑focused dashboard with Romanian language support and bi‑weekly dated reports could complement Multivista’s existing drone capture.",
+    "Offer a joint solution where Multivista provides the flight data and Ochi pe Șantier adds the diaspora‑specific progress %, comparison views and private client portal."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-24T17:46:27.391Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d78bf80204ba",
+  "url": "https://www.intertek.com.ro/constructii-si-inginerie/managementul-integritatii-bunurilor/servicii-avansate-cu-robotica-autonoma/uas/",
+  "title": "Servicii cu Sisteme Aeriene Fără Pilot (UAS)",
+  "snippet": "Servicii cu Sisteme Aeriene Fără Pilot (UAS)\n\n# Servicii cu Sisteme Aeriene Fără Pilot (UAS)\n\n## Inspecțiile și evaluările realizate cu sisteme aeriene fără pilot (UAS) pentru structuri complexe, precum rezervoare, vase sub presiune, structuri metalice și conducte, oferă un proces de inspecție mai eficient, mai sigur și mai rentabil, contribuind la reducerea riscurilor și a timpului necesar metodelor convenționale.\n\nVehiculele aeriene fără pilot (UAV), cunoscute și sub denumirea de drone, își găsesc aplicații într-un număr tot mai mare de industrii. Intertek a integrat tehnologia dronelor și a roboticii în programele sale de inspecție pentru a colecta date din zone periculoase sau greu accesibile, eliminând necesitatea desfășurării lucrărilor în locații cu risc ridicat, precum vârfurile faclelor (flare tips), zonele aflate la înălțime, accesul pe corzi, spațiile închise sau structurile offshore situate sub platforme.\n\nUtilizarea dronelor reduce semnificativ necesitatea montării schelelor, utilizării platformelor elevatoare, opririlor instalațiilor și numărului de ore de lucru ale personalului. Datele colectate oferă factorilor de decizie din sectorul energetic informații detaliate și relevante privind starea echipamentelor, proiectelor și operațiunilor, facilitând luarea unor decizii mai rapide și mai bine fundamentate.\n\n#### Inspecții și Cartografiere\n\nServicii de inspecție și cartografiere pentru:\n\n- Turnuri de telecomunicații\n- Turnuri de răcire\n- Infrastructură petrolieră",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"drone monitoring\" \"șantier\" \"progress report\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-24T17:46:13.648Z",
+  "who": "Intertek Romania offers drone‑based inspection (UAS) services for industrial assets such as telecom towers, cooling towers, and petroleum infrastructure, focusing on safety, efficiency, and data collection for energy and heavy‑industry clients.",
+  "fit_score": 2,
+  "fit_reason": "The page describes a B2B drone inspection service aimed at industrial facilities, not residential construction monitoring for the Romanian diaspora. It lacks any mention of home‑building, diaspora clients, or progress reporting for private house projects, making it a poor fit for the ICP.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-24T17:47:11.349Z"
+}
