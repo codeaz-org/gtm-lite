@@ -1,0 +1,17 @@
+{
+  "id": "cf6c8dd414ae",
+  "url": "https://landtech.ro/prestari-servicii-monitorizare-bvlos/",
+  "title": "Monitorizare Autonomă BVLOS - landtech.ro",
+  "snippet": "Monitorizare Autonomă BVLOS - landtech.ro\n\nTel: +40 786 660 661 | +40 744 253 354 Email: office@landtech.ro\n\n# Monitorizare autonomă cu DJI Dock 3 pentru șantiere, industrie și infrastructură\n\nDJI Dock 3 permite operarea recurentă a dronelor de la distanță, cu zboruri programate pentru colectare constantă de date, progres de lucrări, volumetrie și inspecții periodice.\n\n## Stație autonomă pentru zboruri repetitive și date actualizate constant\n\nDock 3 funcționează ca o bază de operare pentru dronă: permite lansare, aterizare, încărcare și planificare de misiuni automate. Este potrivit pentru proiecte unde sunt necesare aceleași trasee de zbor, la intervale regulate, fără deplasări repetate ale echipei în teren.\n\n- Lansare, aterizare și încărcare automată\n- Misiuni programate zilnic, săptămânal sau lunar\n- Colectare de date din aceleași poziții și pe aceleași trasee\n- Monitorizare pentru obiective greu accesibile sau extinse\n\n#### Monitorizarea construcțiilor\n\nZborurile automate programate permit urmărirea constantă a progresului lucrărilor și identificarea rapidă a modificărilor din teren. Datele colectate pot fi utilizate pentru raportare, documentare și compararea etapelor de execuție.\n\n \n\n## Ce se poate face cu Dock 3?\n\nSoluția este ideală pentru monitorizare recurentă, comparații în timp și colectare constantă de date pe obiective tehnice.\n\n#### Monitorizare progres lucrări\n\nZboruri programate pentru documentarea etapelor de execuție, urmărirea progresului și realizarea de ",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"drone monitoring\" \"șantier\" \"progress report\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-24T17:46:13.647Z",
+  "who": "LandTech is a Romanian company that provides autonomous BVLOS drone monitoring services (using DJI Dock 3) for construction sites, industry and infrastructure, offering scheduled flights, automatic take‑off/landing and data reporting to clients.",
+  "fit_score": 3,
+  "fit_reason": "While LandTech’s drone monitoring solution matches the technical need of Ochi pe Șantier, their target market appears to be construction firms and industrial clients rather than Romanian diaspora homeowners. There is no evidence in the excerpt that they market directly to diaspora individuals or have experience serving clients abroad, so the fit with the ICP is weak.",
+  "hooks": [
+    "Highlight how their autonomous DJI Dock 3 system could be white‑labelled or offered as a add‑on service to contractors who work for diaspora homeowners, giving those homeowners reliable progress reports without relying on relatives.",
+    "Note their office@landtech.ro email and phone numbers as a direct contact point for proposing a partnership or reseller arrangement aimed at the diaspora segment."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-09-24T17:46:58.845Z"
+}

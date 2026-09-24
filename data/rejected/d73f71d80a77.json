@@ -1,0 +1,18 @@
+{
+  "id": "d73f71d80a77",
+  "url": "https://constructorulmodern.ro/cum-se-folosesc-dronele-pe-santier-monitorizare-topografie-si-control-al-progresului/",
+  "title": "Drone pe șantier: cum se folosesc și la ce ajută",
+  "snippet": "Drone pe șantier: cum se folosesc și la ce ajută\n\n# Cum se folosesc dronele pe șantier: monitorizare, topografie și control al progresului\n\nGhid practic pentru integrarea dronelor în activitatea zilnică a unui șantier de construcții\n\n De Echipa Constructorul Modern \n\n august 16, 2026 4 minute de citit \n\nFoto: Pexels\n\nTL;DR\n\nDronele permit topografie rapidă, monitorizarea progresului și inspecția zonelor greu accesibile pe șantier. Implementarea corectă presupune un flux clar de planificare, colectare și procesare a datelor, plus respectarea reglementărilor de zbor.\n\nInformații-cheie\n\n- Dronele cu senzori LiDAR permit calcularea volumelor de excavare cu precizie mult mai mare decât măsurătorile manuale\n- Zborurile periodice creează un istoric vizual util pentru rapoarte de progres și pentru eventuale dispute contractuale\n- Operarea dronelor necesită înregistrarea operatorului și respectarea zonelor de zbor restricționate\n\n## De ce tot mai multe șantiere folosesc drone\n\nDronele au trecut, în ultimii ani, din zona de noutate tehnologică într-un instrument obișnuit de lucru pe șantierele mari și medii. Motivul principal este simplu: o dronă poate survola și fotografia un teren sau o structură în câteva minute, oferind date pe care o echipă de topografi le-ar aduna în ore sau zile de măsurători manuale. Pentru firmele de construcții, asta înseamnă decizii mai rapide, mai puține erori de execuție descoperite prea târziu și o documentare vizuală completă a fiecărei etape, utilă atât",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"drone monitoring\" \"șantier\" \"progress report\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-24T17:46:13.647Z",
+  "who": "Constructorul Modern is a Romanian construction‑focused media outlet/blog that publishes articles about construction technology, including drone usage on sites.",
+  "fit_score": 3,
+  "fit_reason": "The article explains general benefits of drones for construction monitoring (progress tracking, LiDAR volume calculations, visual history for disputes) but does not target Romanian diaspora homeowners building houses in Romania; its audience is broad construction professionals, not the specific ICP.",
+  "hooks": [
+    "Highlights that periodic drone flights create a visual history useful for progress reports and contractual disputes",
+    "Notes LiDAR-equipped drones enable precise excavation volume calculations",
+    "Mentions the need for operator registration and adherence to flight restrictions"
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-09-24T17:47:04.448Z"
+}
