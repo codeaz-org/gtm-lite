@@ -1,0 +1,17 @@
+{
+  "id": "f715af25e6ca",
+  "url": "https://www.nexentbank.ro/Creditul-Ipotecar-ACASA-pentru-Diaspora",
+  "title": "Creditul Ipotecar ACASA pentru Diaspora",
+  "snippet": "Creditul Ipotecar ACASA pentru Diaspora \n\nDurată: 365 de zile\n\n# Lucrezi în străinătate și vrei să cumperi o casă în România? Alege Creditul Ipotecar ACASĂ pentru Diaspora!\n\n* Cursuri valutare cont curent\n\n| Persoană fizică | O lună* | 3 luni |\n| --- | --- | --- |\n| EUR | 0,60% | 1,00% |\n| RON | 5,75% | 6,75% |\n\n| Index | Ultima actualizare | Rată |\n| --- | --- | --- |\n| EURIBOR 12 LUNI | 05.08.2026 | 2.92700% |\n| EURIBOR 6 LUNI | 05.08.2026 | 2.72400% |\n| IRCC | 01.07.2026 | 5.56000% |\n| ROBOR 3 LUNI | 05.08.2026 | 5.84000% |\n| ROBOR 6 LUNI | 05.08.2026 | 5.92000% |\n| SARON 1MC+M1 | 05.08.2026 | -0.09930% |\n| SARON 3MC+M3 | 05.08.2026 | -0.03920% |\n| SARON 3MC+M6 | 05.08.2026 | 0.03180% |\n\n### Ai visat întotdeauna să îți achiziționezi o casă în România, dar locuiești și lucrezi în străinătate?\n\nAcum poți face acest pas cu ușurință, datorită Creditului Imobiliar ACASA destinat persoanelor care lucrează în străinătate.\n\nSuntem conștienți de provocările pe care le implică achiziționarea unei proprietăți în țara natală, mai ales atunci când locuiești și muncești în afara țării. De aceea, am creat acest credit imobiliar special, care îți oferă posibilitatea de a-ți realiza visul.\n\nCe beneficii aduce Creditul Imobiliar ACASA pentru diaspora?\n\n- Evaluare pe veniturile obținute în străinătate: Înțelegem că ai un loc de muncă stabil și venituri constante în străinătate. De aceea, la acordarea creditului, ne vom baza pe veniturile tale externe, fără a fi necesar un istoric de angajare",
+  "source_query": "site:ro \"agentie imobiliare\" \"diaspora\" \"cumpara casă\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-09-25T17:48:31.525Z",
+  "who": "Nexent Bank offers a mortgage product (Creditul Ipotecar ACASA) targeting Romanians living abroad who want to buy a house in Romania.",
+  "fit_score": 2,
+  "fit_reason": "The source is a financial service provider, not an individual or company actively building, renovating, or planning a house. While its customers may be diaspora homebuyers, the bank itself does not fit the ICP of someone needing construction-site monitoring.",
+  "hooks": [
+    "Diaspora taking out a mortgage are likely in the early stages of purchasing or building a home, making them a potential audience for construction monitoring services.",
+    "Partnership opportunity: Nexent Bank could refer mortgage clients to Ochi pe Șantier as an added-value service for verifying build progress."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-09-25T17:52:03.560Z"
+}
