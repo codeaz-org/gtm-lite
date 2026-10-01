@@ -1,0 +1,18 @@
+{
+  "id": "ad225df99a57",
+  "url": "https://www.capital.ro/anaf-va-verifica-din-aer-case-si-terenuri-avertisment-pentru-proprietarii-care-nu-au-toate-actele-de-la-primarie.html",
+  "title": "ANAF va verifica din aer case și terenuri. Avertisment pentru proprietarii care nu au toate actele de la Primărie",
+  "snippet": "ANAF va verifica din aer case și terenuri. Avertisment pentru proprietarii care nu au toate actele de la Primărie\n\n# ANAF va verifica din aer case și terenuri. Avertisment pentru proprietarii care nu au toate actele de la Primărie \n\nVerificări din dronă, dar și bodycam-uri în timpul intervențiilor de control / SURSA FOTO: colaj Facebook, Min. Mediului - Dreamstime\n\n Publicat de Bogdan Ungureanu la 29 septembrie 2025, 17:47 \n\nDin cuprinsul articolului\n\n- ANAF va folosi drone și inteligență artificială pentru a combate frauda și a crește încasările bugetare\n- Soluția folosirii dronelor nu încalcă dreptul de proprietate\n- România se inspiră de la Grecia cu acest nou sistem\n- Un nou tip de soft antifraudă, dar și bodycam-uri, la fel ca polițiștii\n\nAutoritățile fiscale din România pregătesc o schimbare majoră în modul de efectuare a controalelor, prin introducerea dronelor și a inteligenței artificiale în activitatea ANAF. Noile tehnologii vor permite monitorizarea în timp real a depozitelor, dar și identificarea construcțiilor nedeclarate. În paralel, inspectorii Antifraudă și Vamă ar putea fi dotați cu bodycam-uri, la fel cum au primit și polițiștii, pentru a crește transparența și încrederea contribuabililor. Măsurile sunt inspirate de modelul unei alte țări din regiuni, care a trecut și ea prin serioase probleme fiscale.\n\n## ANAF va folosi drone și inteligență artificială pentru a combate frauda și a crește încasările bugetare\n\nAgenția Națională de Administrare Fiscală (ANAF) ",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"monitorizare cu drön\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-01T18:43:08.659Z",
+  "who": "ANAF (Agenția Națională de Administrare Fiscală), Romania's national tax authority, which is piloting drone‑based inspections for tax compliance.",
+  "fit_score": 2,
+  "fit_reason": "The lead describes a government agency using drones for audit and fraud detection, not Romanian diaspora individuals building or renovating houses in Romania; there is no indication of a need for personal construction progress monitoring.",
+  "hooks": [
+    "Article mentions ANAF using drones and AI for real‑time monitoring of constructions and undeclared buildings",
+    "Highlights drone flights and photo reporting similar to our service’s deliverables",
+    "Focus on aerial inspections could be leveraged to show how drone tech is already trusted by authorities for site verification"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-01T18:43:45.580Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4be475219f20",
+  "url": "https://graiulsalajului.ro/casele-romanilor-luate-la-masurat-cu-drona-a-217126",
+  "title": "Casele românilor, luate la măsurat cu drona |",
+  "snippet": "Casele românilor, luate la măsurat cu drona | Graiul Sălajului\n\n# Casele românilor, luate la măsurat cu drona\n\n Graiul Sălajului august 19, 2025 \n\n \n\nMinistrul Dezvoltării, Cseke Attila, a declarat, referindu-se la posibilitatea ca unele proprietăţi să fie identificate cu ajutorul dronelor, că acest lucru se va face în cazul imobilelor ridicate fără autorizaţie de construire şi care nu sunt declarate la Fisc, transmite News.ro.\n\nCseke Attila a precizat, la o televiziune, că nu oricine poate să utilizeze aceste drone şi că această activitate este autorizată în România.\n\n”Această posibilitate prin care nu numai că se filmează, se măsoară imobilul respectiv deasupra căruia zboară drona, este o modalitate folosită deja în alte state ale Uniunii Europene. Şi aici vorbim în principal de impactul asupra imobilelor care se construiesc fără autorizaţie de construire, care nu sunt declarate la Fisc, pentru care nu se datorează şi nu se plătesc impozite”, a declarat ministrul Dezvoltării, Cseke Attila.\n\nEl a explicat că este vorba de principiul echităţii şi dreptăţii sociale, în sensul că nu doar unii cetăţenii români trebuie să plătească impozite şi taxe locale, ci şi cei care încalcă legea.\n\n”Şi ceilalţi care ar trebui să plătescă, dar astăzi eludează această lege, trebuie, cum să vă spun, luaţi pe calea cea bună sau prin constrângere, în aşa fel încât ei să-şi plătească aceste impozite”, a declarat Cseke Attila.\n\nEl a explicat că autorităţile locale vor primi acest drept privind util",
+  "source_query": "site:ro \"case pentru români din străinătate\" \"monitorizare cu drön\" -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-01T18:43:08.658Z",
+  "who": "Graiul Sălajului is a regional news website covering Sălaj County, Romania; the article discusses the Romanian government's use of drones to measure houses built without permits.",
+  "fit_score": 2,
+  "fit_reason": "The piece focuses on state enforcement against illegal construction and does not address Romanians living abroad who are building or renovating homes in Romania, nor does it mention any need for progress monitoring by diaspora homeowners.",
+  "hooks": [
+    "The article highlights drone-based measurement of houses, which aligns with our drone monitoring service; we could position Ochi pe Șantier as a tool for diaspora homeowners to verify their own construction progress using similar technology."
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-01T18:43:25.929Z"
+}
