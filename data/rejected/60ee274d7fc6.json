@@ -1,0 +1,17 @@
+{
+  "id": "60ee274d7fc6",
+  "url": "https://romanialibera.ro/la-zi/romanii-din-strainatate-pot-primi-granturi-de-pana-la-200-000-de-euro-pentru-afaceri/",
+  "title": "Diaspora Investește Acasă: 100 mil. € pentru afaceri",
+  "snippet": "Diaspora Investește Acasă: 100 mil. € pentru afaceri\n\n# Românii din străinătate pot primi granturi de până la 200.000 de euro pentru afaceri\n\n06/08/2026\n\nActualizat: 06/08/2026\n\nde Dana Macsim\n\n## Programul reprezintă un instrument prin care experiența și capitalul acumulat de românii din diaspora, pot fi transformate în investiții pentru economia locală\n\nGuvernul a aprobat, în ședința de joi, hotărârea prin care este pus în aplicare programul „Diaspora Investește Acasă”, destinat românilor din afara țării care vor să își deschidă o afacere în România. Programul beneficiază de un buget de 100 de milioane de euro, iar gestionarea granturilor va fi realizată de Banca de Investiții și Dezvoltare (BID).\n\nPotrivit Ministerului Finanțelor, BID primește mandatul de a administra schema de ajutor de minimis, însă implementarea efectivă va începe după obținerea avizului obligatoriu din partea Consiliului Concurenței. Detaliile tehnice privind derularea programului vor fi stabilite printr-o convenție între Ministerul Finanțelor și BID, document ce urmează să fie aprobat în termen de 30 de zile de la publicarea hotărârii. Ulterior, banca va actualiza acordurile cu instituțiile financiare partenere și va adapta schema de finanțare la noile condiții.\n\nMinistrul Finanțelor, Alexandru Nazare, a declarat că programul reprezintă un instrument prin care experiența și capitalul acumulat de românii din diaspora pot fi transformate în investiții pentru economia locală. El a subliniat că fondurile ",
+  "source_query": "diaspora români construire casă site:forumconstructii.ro OR site:romanialibera.ro -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-02T18:14:30.066Z",
+  "who": "The article describes Romanian diaspora entrepreneurs who can receive grants of up to €200,000 to start businesses in Romania, authored by Dana Macsim for România Libera.",
+  "fit_score": 3,
+  "fit_reason": "The content centers on business grant programs for diaspora investors, with no mention of house building, renovation, or construction-site monitoring needs; therefore it only loosely overlaps with the ICP.",
+  "hooks": [
+    "Reference to diaspora investment grants up to €200,000",
+    "Potential overlap if grant recipients also undertake construction projects for their business premises"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-02T18:15:54.051Z"
+}
