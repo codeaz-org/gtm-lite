@@ -1,0 +1,18 @@
+{
+  "id": "8cf7d46f5333",
+  "url": "https://aerialcad.ro/ghid-monitorizare-santiere-drone.html",
+  "title": "Monitorizare șantiere cu drone pentru dezvoltatori | Progres 3D, rapoarte — Aerial CAD",
+  "snippet": "Monitorizare șantiere cu drone pentru dezvoltatori | Progres 3D, rapoarte — Aerial CAD\n\n# Monitorizare șantiere cu drone — control de progres pentru dezvoltatori și constructori\n\nPentru un dezvoltator, cea mai scumpă necunoscută pe un șantier este „unde suntem, de fapt, față de plan?\". Un abonament de monitorizare cu drone îți dă la fiecare interval o imagine 3D obiectivă a progresului, comparabilă cu proiectul, cu calcul de volume și raport automat — fără să trimiți pe cineva să numere pe teren.\n\n## Ce rezolvă monitorizarea cu drone\n\nRapoartele de progres pe hârtie sunt subiective și ușor de „rotunjit\". Un zbor cu drona produce date pe care nu le poți contesta: o hartă și un model 3D la zi, cu poziții și volume măsurabile. Investitorii, finanțatorii și managementul văd aceeași realitate, la aceeași dată — nu interpretări diferite.\n\n### Model 3D de progres\n\nReconstrucție 3D a șantierului la fiecare zbor, pentru a vizualiza și măsura stadiul real al lucrărilor.\n\n### Ortofotoplan periodic\n\nHartă fotografică de precizie la fiecare interval — arhivă vizuală completă a evoluției proiectului.\n\n### Comparație cu proiectul / BIM\n\nSuprapunerea stadiului real peste proiect sau model BIM și evidențierea devierilor.\n\n### Calcul de volume\n\nTerasamente, stocuri de material, excavații — măsurate cu precizie, fără a opri activitatea.\n\n### Rapoarte PDF automate\n\nRaport de progres generat automat după fiecare zbor, gata de trimis către investitori și finanțatori.\n\n### Fără pilot pe teren\n\nAbon",
+  "source_query": "\"monitorizare șantier cu drone\" \"raport progres\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-05T21:00:23.042Z",
+  "who": "Aerial CAD is a Romanian company that provides drone-based construction site monitoring services (3D progress models, orthophotos, volume calculations, automated PDF reports) aimed at developers and constructors.",
+  "fit_score": 3,
+  "fit_reason": "The lead is a service provider targeting Romanian developers, not diaspora individuals actively building or renovating a house in Romania. While they offer the same technology we sell, they are not the end‑user ICP and would need to be approached as a potential channel partner rather than a direct customer.",
+  "hooks": [
+    "Highlight how Aerial CAD could extend its existing drone monitoring offering to serve diaspora homeowners via a white‑label or referral program.",
+    "Leverage their case studies and technical expertise to build credibility when approaching diaspora clients.",
+    "Offer a joint webinar or co‑branded content showing the value of objective progress reports for remote owners."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-05T21:01:11.621Z"
+}
