@@ -1,0 +1,19 @@
+{
+  "id": "324a34cd3dda",
+  "url": "https://aerialcad.ro/ghid-smart-reports-rapoarte-automate.html",
+  "title": "Smart Reports | Rapoarte automate de progres din date drone — Aerial CAD",
+  "snippet": "Smart Reports | Rapoarte automate de progres din date drone — Aerial CAD\n\n# Smart Reports — rapoarte automate generate din datele de teren\n\nDatele brute de la drone sunt valoroase doar dacă cineva le transformă în informație utilă. Smart Reports automatizează exact acest pas: din fiecare zbor sau set de date, generăm automat un raport clar — progres, volume, devieri, comparații — livrat periodic, fără ore de muncă manuală în birou.\n\n## De la date brute la decizie\n\nUn ortofotoplan și un model 3D conțin totul, dar un director de proiect nu are timp să le analizeze de fiecare dată. Smart Reports parcurge automat datele și scoate în față ce contează: cât s-a avansat, ce volume s-au mișcat, unde sunt abaterile față de plan — într-un document pe care îl citești în două minute.\n\n### Generare automată\n\nRaportul se produce automat după fiecare set de date, fără intervenție manuală de birou.\n\n### Indicatori clari\n\nProgres, volume, suprafețe, devieri — sintetizate în cifre și vizual, nu îngropate în date brute.\n\n### Comparații în timp\n\nFiecare raport se raportează la precedentul: ce s-a schimbat de la ultimul zbor.\n\n### Format standardizat\n\nAcelași format la fiecare interval — ușor de urmărit de management, investitori și finanțatori.\n\n### Livrare periodică\n\nPDF automat pe email la cadența stabilită — nimeni nu mai compune manual raportul.\n\n### Personalizabil\n\nAdaptăm indicatorii și structura raportului la specificul proiectului tău.\n\n📊 Diferența dintre „avem date drone\" și „luăm deciz",
+  "source_query": "\"monitorizare șantier cu drone\" \"raport progres\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-05T21:00:23.042Z",
+  "who": "Aerial CAD is a Romanian company that offers drone‑based data processing services, including its Smart Reports product which automatically generates progress reports from drone orthophotos and 3D models for construction projects.",
+  "fit_score": 3,
+  "fit_reason": "The service targets construction firms, project managers, and engineers who need automated progress reporting, rather than individual diaspora homeowners who want a simple, periodic photo‑report of their house build. While the underlying drone‑monitoring capability could be adapted for the ICP, the current offering and messaging are B2B‑focused, making the direct fit low.",
+  "hooks": [
+    "Smart Reports automate progres din date drone – could be re‑branded as a ‘diaspora homeowner progress report’",
+    "Livrare periodică PDF automat pe email – matches the need for regular updates without manual effort",
+    "Personalizabil – indicators and report structure can be adapted to show stage, % completed, and deviation from plan for a private house",
+    "Comparări în timp – each report references the previous flight, enabling clear trend tracking for remote owners"
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-05T21:00:49.594Z"
+}
