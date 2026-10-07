@@ -1,0 +1,17 @@
+{
+  "id": "5f61f29b4011",
+  "url": "https://metadrones.ro/servicii/monitorizarea-si-evaluarea-santierelor",
+  "title": "Metadrones - Monitorizarea și evaluarea șantierelor",
+  "snippet": "Metadrones - Monitorizarea și evaluarea șantierelor\n\n## Monitorizarea și evaluarea șantierelor\n\n \n\nMonitorizarea șantierelor este o componentă esențială a procesului de construcție și poate fi realizată cu ajutorul dronelor în mod eficient și precis.\n\nDrona este echipată cu camere video și/sau senzori de imagine care pot captura imagini detaliate ale șantierului, inclusiv stadiul construcției, echipamentele și materialele utilizate, precum și orice modificări aduse în timpul procesului de construcție. Imaginile pot fi utilizate pentru a crea modele 3D ale site-ului, care pot fi folosite pentru a monitoriza progresul construcției și pentru a identifica problemele de timp sau de cost într-un stadiu incipient.\n\nAvantajele utilizării dronelor în monitorizarea șantierelor sunt numeroase. În primul rând, drona poate fi operată în condiții de siguranță de la distanță și poate accesa zone dificil de accesat sau periculoase pentru oameni, cum ar fi acoperișurile clădirilor. În al doilea rând, drona poate colecta date în timp real, ceea ce permite managerilor să ia decizii rapide și informate și să ajusteze procesul de construcție în consecință.\n\nÎn plus, drona poate fi programată să monitorizeze șantierul în mod automat și să colecteze date în mod regulat, astfel încât progresul să fie urmărit în mod eficient. Aceasta poate reduce timpul și costurile implicate în monitorizarea manuală a șantierului, care poate fi dificil și inexact.\n\nÎn concluzie, monitorizarea șantierelor cu ajutorul",
+  "source_query": "\"monitorizare șantier cu dronă\" \"caut\" \"diaspora\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com -site:youtube.com",
+  "discovered_at": "2026-10-07T19:14:10.720Z",
+  "who": "Metadrones is a Romanian drone services company that provides site monitoring and evaluation using drones for construction projects.",
+  "fit_score": 3,
+  "fit_reason": "They offer drone monitoring but target construction firms and general clients, not specifically the Romanian diaspora building homes abroad; no evidence they serve diaspora or focus on remote homeowners.",
+  "hooks": [
+    "They already have drone monitoring infrastructure, so a partnership could let them offer a diaspora‑focused package under your brand.",
+    "Their service page highlights progress reporting and 3D modeling, which aligns with the data you need to deliver to clients."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-07T19:14:36.364Z"
+}

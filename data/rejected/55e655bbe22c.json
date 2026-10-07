@@ -1,0 +1,17 @@
+{
+  "id": "55e655bbe22c",
+  "url": "https://iordan.ro/servicii/uct/",
+  "title": "Urmărirea Comportării în Timp (UCT) | CCI - Consultanță Construcții Iordan",
+  "snippet": "Urmărirea Comportării în Timp (UCT) | CCI - Consultanță Construcții Iordan\n\nServiciul de monitorizare și raportare proiecte al Consultanță Construcții Iordan oferă investitorilor și finanțatorilor o perspectivă clară, obiectivă și actualizată asupra stadiului investiției lor. Acest serviciu este esențial pentru luarea deciziilor informate și pentru protejarea valorii investiției.\n\nEchipa noastră de monitorizare efectuează vizite periodice pe șantier (săptămânale, bilunare sau lunare, în funcție de complexitatea proiectului), evaluând progresul fizic al lucrărilor, conformitatea cu graficul de execuție, utilizarea corectă a bugetului, calitatea execuției și respectarea normativelor aplicabile.\n\nRapoartele noastre de monitorizare sunt documente profesionale, structurate conform standardelor internaționale, care includ: evaluarea procentuală a progresului pe categorii de lucrări, analiza comparativă plan vs. realizat (timp și costuri), identificarea riscurilor și a problemelor critice, recomandări de acțiune, documentare fotografică extinsă și previziuni privind finalizarea proiectului.\n\nAm dezvoltat parteneriate de lungă durată cu instituții financiare majore din România și din străinătate, care ne solicită servicii de monitorizare pentru proiectele finanțate. Rigurozitatea, independența și profesionalismul rapoartelor noastre au contribuit la poziționarea CCI ca unul dintre liderii pieței de monitorizare a proiectelor de construcții din România.\n\n### Ce include acest serviciu\n",
+  "source_query": "\"case pentru români din străinătate\" \"monitorizare șantier\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-07T19:14:04.622Z",
+  "who": "Consultanță Construcții Iordan is a Romanian construction consultancy that provides project monitoring and reporting services (Urmărirea Comportării în Timp – UCT) to investors and financiers.",
+  "fit_score": 3,
+  "fit_reason": "The firm targets investors and financiers, not Romanian diaspora individuals building homes; there is no indication they serve or market to diaspora clients, and their monitoring service is traditional, not drone-based.",
+  "hooks": [
+    "Offer to augment their existing UCT service with drone‑based progress reports as a premium add‑on for diaspora clients.",
+    "Leverage their relationships with Romanian banks that may finance diaspora home builds to introduce Ochi pe Șantier as a trusted monitoring partner."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-10-07T19:14:31.977Z"
+}
