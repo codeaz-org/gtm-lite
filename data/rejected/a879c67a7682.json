@@ -1,0 +1,14 @@
+{
+  "id": "a879c67a7682",
+  "url": "https://casamagazin.ro/cand-ai-poarta-casca-de-supervizor/",
+  "title": "Când AI poartă cască de supervizor pe șantier. Inteligența artificială care verifică dacă lucrările respectă proiectul - casamagazin.ro",
+  "snippet": "Când AI poartă cască de supervizor pe șantier. Inteligența artificială care verifică dacă lucrările respectă proiectul - casamagazin.ro\n\n# Când AI poartă cască de supervizor pe șantier. Inteligența artificială care verifică dacă lucrările respectă proiectul\n\nDe\n\nEmil Simonescu\n\n10 septembrie 2026\n\nMăsurătorile din teren pot fi comparate cu modelul digital al construcției4. Sursa foto HR Surveyors_Wikimedia Commons\n\nȘantierul începe să fie verificat și de algoritmi, nu doar de oameni. Camerele video, dronele, scanerele 3D și telefoanele pot furniza imagini care sunt analizate automat și comparate cu modelul digital al construcției. Ideea este simplă: proiectul spune ce ar trebui să existe, iar sistemul încearcă să afle ce există deja în teren. Dacă apar diferențe de poziție, formă, dimensiune, etapă sau progres, acestea pot fi semnalate înainte ca lucrările următoare să le acopere.\n\n## De la fotografia de șantier la verificarea automată\n\nFotografiile de pe șantier nu mai trebuie privite doar ca o arhivă a lucrărilor. Într-un flux digital, ele pot deveni date pe care un sistem de computer vision le interpretează. Algoritmul poate identifica pereți, stâlpi, grinzi, ferestre, uși, conducte, echipamente sau alte elemente vizibile și poate urmări dacă acestea apar în locul și în etapa în care ar trebui să apară. În proiectele mai avansate, imaginile sunt corelate cu un model BIM și cu programul de execuție.\n\nAceastă schimbare este importantă pentru că verificarea tradițională depin",
+  "source_query": "\"case pentru români din străinătate\" \"monitorizare șantier\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-07T19:14:04.624Z",
+  "who": "Emil Simonescu, author of an article on casamagazin.ro discussing AI-powered site supervision using drones, cameras, and computer vision to verify construction progress against digital models.",
+  "fit_score": 2,
+  "fit_reason": "The source is a general technology article about AI monitoring on construction sites; it does not mention the Romanian diaspora, individuals building houses abroad, or any diaspora-focused service, product, or community.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-07T19:14:40.979Z"
+}
