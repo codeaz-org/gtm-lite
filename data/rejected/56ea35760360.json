@@ -1,0 +1,17 @@
+{
+  "id": "56ea35760360",
+  "url": "https://diaspora.legal360.ro/",
+  "title": "§§ LEGAL 360° pentru Diaspora Românească din Europa ...",
+  "snippet": "§§ Legal 360° pentru Diaspora Românească din Europa • Cauți un Avocat Bun în România?\n\n## Avocați români care ajută în Europa\n\n---\n\n#### Români în Spania\n\n#### Români în Italia\n\n#### Români în Marea Britanie\n\n#### Români în Irlanda\n\n#### Români în Danemarca\n\n#### Români în Suedia\n\n#### Români în Norvegia\n\n#### Români în Finlanda\n\n#### Români în Franța\n\n#### Români în Belgia\n\n#### Români în Olanda\n\n#### Români în Luxemburg\n\n#### Români în Germania\n\n#### Români în Austria\n\n#### Români în Elveția\n\n#### Români în Polonia\n\n#### Români în SUA\n\n#### Români în Canada\n\n#### Români în Portugalia\n\n#### Români în Grecia\n\n#### Români în Turcia (în curând)\n\n#### Români în Cehă (în curând)\n\n#### Români în Slovacia (în curând)\n\n#### Români în Ungaria (în curând)\n\n## Asistență clienți\n\n---\n\nOferim asistență gratuită companiilor și persoanelor fizice care solicită acest serviciu. Completați formularul de mai jos pentru a fi contactați.\n\n### Contact\n\nProgram de lucru\n\nLun: 9:00 - 20:00\n\nMar: 9:00 - 20:00\n\nMie: 9:00 - 20:00\n\nJoi: 9:00 - 20:00\n\nVin: 9:00 - 20:00\n\nW/e: Închis\n\n### Contact\n\nProgram de lucru\n\nLun: 9:00 - 20:00\n\nMar: 9:00 - 20:00\n\nMie: 9:00 - 20:00\n\nJoi: 9:00 - 20:00\n\nVin: 9:00 - 20:00\n\nW/e: Închis\n\n### Lăsați mesajul aici\n\n*Numele dvs.\n\n*Oraș/sector/zonă\n\n*E-mail\n\n*Număr de telefon (+40)\n\n---\n\n* Solicitarea dvs. este transmisă la max. 3 parteneri de încredere Sibus care se potrivesc domeniului, oraşului şi zonei solicitate. Vă vor contacta direct cât mai curând posibil.\n\n* Trimiteți",
+  "source_query": "\"notar\" \"diaspora\" site:ro inurl:en -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-08T19:10:46.022Z",
+  "who": "Diaspora.legal360.ro is a platform that connects Romanian diaspora in Europe with Romanian lawyers offering free legal assistance for various matters, including business and personal legal needs.",
+  "fit_score": 3,
+  "fit_reason": "The service is focused on general legal aid rather than construction monitoring; while it touches on diaspora needs, it does not specifically target those building or renovating houses in Romania, making the fit low but not zero due to potential overlap in legal aspects of property purchase or construction permits.",
+  "hooks": [
+    "Offer to complement their legal services with objective, drone‑based progress reports that help clients verify contractor work and avoid disputes.",
+    "Highlight how Ochi pe Șantier can reduce the need for costly trips home and provide documented evidence useful in any legal proceedings related to construction."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-08T19:11:04.044Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "abf8f015d620",
+  "url": "http://tvri.tvr.ro/actele-notariale_55256.html",
+  "title": "Actele notariale",
+  "snippet": "TVRI \n\n \n\n## Actele notariale\n\n publicat: joi, 28 mai 2026\n\n### În ediția de luni, 1 iunie, a emisiunii „Info Diaspora”, Angela Avram discută cu Radu Berevoianu, notar public, membru al Colegiului Director al Camerei Notarilor Publici din București, despre tipul actelor notariale și necesitatea lor. Pe TVR Internațional, de la ora 20:00. \n\n##### Angela Avram\n\nAngela Avram lucrează pentru TVR din anul 1994. Este absolventă a Politehnicii din Bucureşti, în anul 1990 şi a Universităţii din Bucureşti, ...\n\n##### Info Diaspora\n\nEste principalul program informativ al TVR Internaţional, adresat vorbitorilor de limba română din străinătate. Emisiunea cuprinde informații pe ...\n\nImportanța actelor notariale constă în asigurarea legalității, siguranței juridice și autenticității tranzacțiilor și actelor civile sau comerciale. Ele sunt înscrisuri de autoritate publică, recunoscute oficial, care previn litigiile și protejează interesele părților implicate.\n\nActele notariale garantează că raporturile juridice sunt stabilite corect și că drepturile persoanelor sunt respectate în cadrul legal.\n\nInvitat : Radu Berevoianu, notar public, membru al Colegiului Director al Camerei Notarilor Publici, Bucureşti.\n\nRubrica info:\n\nExercitarea unilaterală a autorităţii părinteşti, invitată Ioana Livescu, avocat\n\nAducerea în legalitate a casei construite fără autorizație, invitat Dragos Balanişcu, expert autorizat ANCPI\n\nVă invităm să urmăriți această ediție a emisiunii „Info Diaspora” luni, 1 iunie, de",
+  "source_query": "\"notar\" \"diaspora\" site:ro inurl:en -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-08T19:10:46.023Z",
+  "who": "Radu Berevoianu is a public notary based in Bucharest who appeared on TVR Info Diaspora (broadcast 28 mai 2026) to discuss the importance and types of notarized acts for Romanian speakers abroad.",
+  "fit_score": 3,
+  "fit_reason": "While the notary serves diaspora clients—a relevant intermediary—the lead shows no evidence of personal house‑building activity, is located in Bucharest (outside the target mid‑size cities), and does not mention construction, renovation, or a diaspora individual overseeing a build in Romania.",
+  "hooks": [
+    "Reference to his appearance on the Info Diaspora program on 28 mai 2026",
+    "Topic of notarized acts, which often underlie construction contracts and property purchases",
+    "Audience of Romanian diaspora watching TVR Internațional, a channel that reaches the ICP"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-08T19:11:33.400Z"
+}
