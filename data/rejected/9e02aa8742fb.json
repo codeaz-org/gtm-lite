@@ -1,0 +1,14 @@
+{
+  "id": "9e02aa8742fb",
+  "url": "https://evp.primariaroman.ro/transcrierea-certificatului-de-casatorie-emis-in-strainatate/",
+  "title": "Transcrierea certificatului de căsătorie emis în străinătate",
+  "snippet": "Transcrierea certificatului de căsătorie emis în străinătate – Direcţia Locală pentru Evidenţa Persoanelor Municipiul Roman\n\n### Acte necesare:\n\n Certificatul de căsătorie original simplu/apostilat/supralegalizat eliberat de autoritățile din străinătate – original, sau extras multilingv (nu necesita apostilare sau supralegalizare)\n\nTraducerea legalizată a certificatului de căsătorie – original;\n\nCertificatele de naștere ale soților – dacă se prezintă Extrase multilingve cf Convenției de la Viena nu necesită apostilare/supralegalizare/traducere;\n\nActele de identitate ale soților(carte de identitate / carte provizorie de identitate sau pașaport cu domiciliul în străinătate – pentru cetățenii români care au avut ultimul domiciliu în municipiul Roman);\n\nDeclarația notarială a ambilor soți cu privire la numele de familie după încheierea căsătoriei, în cazul în care acesta nu este specificat în certificatul original;\n\nDeclarația soțului/soției, cetățean român dată în fața ofițerului de strare civilă sau în formă autentică dacă cererea de transcriere este depusă prin împuternicire cu procură specială, cu privire la faptul că nu mai există un alt act transcris sau reconstituit în registrele de stare civilă române;\n\nDeclarații notariale din partea ambilor soți cu privire la regimul matrimonial ales de aceștia, dacă se solicită înscrierea regimului matrimonial în actul de căsătorie;\n\nDacă este cazul, Convenția matrimonială încheiată în străinătate simplă/apostilată/supralegalizată, ori",
+  "source_query": "\"notar\" \"diaspora\" site:ro inurl:en -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-08T19:10:46.023Z",
+  "who": "The Local Civil Registry Office of Roman municipality, providing administrative services for transcription of foreign marriage certificates for Romanians living abroad.",
+  "fit_score": 2,
+  "fit_reason": "The page concerns marriage certificate transcription, not construction, renovation, or house-building activities; it lacks any diaspora construction signals or relevance to Ochi pe Șantier's service.",
+  "hooks": [],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-08T19:11:17.527Z"
+}

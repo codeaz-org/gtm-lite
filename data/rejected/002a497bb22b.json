@@ -1,0 +1,18 @@
+{
+  "id": "002a497bb22b",
+  "url": "https://www.senat.ro/StiriSenatDetaliu.aspx?ID=4A9C942B-9816-4574-BB94-74CBF3570325",
+  "title": "USR, inițiativă legislativă pentru ca românii din Diaspora să ...",
+  "snippet": "Senatul României -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --\n\nSite-ul Senatului României folosește cookie. Navigând în continuare, vă exprimați acordul asupra folosiri cookie-urilor conform OUG 13/24.04.2012și REGULAMENTUL (UE) 2016/679. OK\n\n### USR, inițiativă legislativă pentru ca românii din Diaspora să poată obține cărți electronice de identitate\n\nParlamentarii USR de Diaspora, senatorul Radu Mihail și Iulian Lorincz au depus o inițiativă legislativă prin care cetățenii români din Diaspora să poată primi acte de identitate, și anume cărți electronice de identitate cu adresa de domiciliu în străinătate. Peste 900.000 de cetățeni români ar putea beneficia de pe urma acestei măsuri, în condițiile în care statul român nu le eliberează acte de identitate românilor care și-au stabilit domiciliul în străinătate. Ei pot deține doar niște pașapoarte speciale numite CRDS (pașapoarte pentru cetățenii români cu domiciliul în străinătate), care au doar valoare de documente de călătorie, nu și de acte de identitate, ceea ce le creează nenumărate probleme: la bancă, la notar, când interacționează cu diverse instituții publice. Senatorul USR Radu Mihail atrage atenția că problema trenează de 20 de ani și s-a ajuns la situația în care românii care și-au stabilit domiciliul în străinătate ezită sau refuză - și pe bună dreptate - să-și declare în mod oficial domiciliul în statul în care locuiesc. Radu Mihail: ” Am susținut orice inițiativă legislativă menită să rezolve această pro",
+  "source_query": "\"notar\" \"diaspora\" site:ro inurl:en -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-08T19:10:46.023Z",
+  "who": "Radu Mihail, senator of the USR Diaspora group in the Romanian Senate, advocating for electronic identity cards for Romanians living abroad.",
+  "fit_score": 3,
+  "fit_reason": "The source discusses a legislative initiative for diaspora electronic IDs, which is unrelated to house construction, renovation, or site monitoring. While it targets the diaspora audience, it lacks any signal about building activity in Romania, making the fit low.",
+  "hooks": [
+    "Reference Senator Radu Mihail's push for diaspora electronic ID cards – a pain point that parallels the need for reliable, remote verification of construction progress.",
+    "Highlight that over 900k diaspora citizens could benefit from better remote services, showing a market eager for solutions like Ochi pe Șantier.",
+    "Tie the identity‑card initiative to property transactions: diaspora owners need verified IDs for notarised deeds, just as they need verified site reports to avoid disputes."
+  ],
+  "guessed_channel": "email",
+  "enriched_at": "2026-10-08T19:10:51.281Z"
+}
