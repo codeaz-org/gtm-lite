@@ -1,0 +1,17 @@
+{
+  "id": "8b2648ddb782",
+  "url": "https://dprp.gov.ro/ro/lucrezi-in-strainatate/obtinerea-certificatului-de-cazier-judiciar-de-catre-romanii-aflati-in-afara-tarii/",
+  "title": "Obținerea certificatului de cazier judiciar de către românii aflați în afara țării – DPRP.GOV.RO – Departamentul pentru Românii de Pretutindeni",
+  "snippet": "Obținerea certificatului de cazier judiciar de către românii aflați în afara țării – DPRP.GOV.RO – Departamentul pentru Românii de Pretutindeni\n\n# Obținerea certificatului de cazier judiciar de către românii aflați în afara țării\n\n 10/01/2024 \n\nLa data de 06.01.2023 a intrat în vigoare Legea nr. 3/2023 pentru completarea art. 28 din Legea nr. 290/2004 privind cazierul judiciar, sens în care, după alineatul (3) a fost introdus un nou alineat, alineatul (3^1), cu următorul cuprins:\n\n“(3^1) La solicitarea persoanelor fizice sau juridice, în urma consemnării opţiunii în cererea-tip prevăzută la alin. (1) şi (2), certificatul de cazier judiciar se eliberează gratuit şi în formă electronică. Certificatele de cazier judiciar eliberate în formă electronică sunt semnate cu semnătură electronică calificată şi sunt asimilate înscrisurilor autentice. Noţiunea de semnătură electronică calificată are înţelesul dat de dispoziţiile Regulamentului (UE) nr. 910/2014 al Parlamentului European şi al Consiliului din 23 iulie 2014 privind identificarea electronică şi serviciile de încredere pentru tranzacţiile electronice pe piaţa internă şi de abrogare a Directivei 1999/93/CE.”\n\nCertificatul de cazier judiciar pentru persoanele fizice se obține de la orice subunitate de poliție în care funcționează ghișeu pentru eliberarea certificatelor de cazier judiciar. Certificatul de cazier judiciar se eliberează, de regulă, pe loc sau în cel mult 3 zile lucrătoare.\n\nLa cererea motivată a persoanelor aflate",
+  "source_query": "case pentru români din străinătate site:.ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-09T18:40:44.699Z",
+  "who": "The page is from the Romanian Department for Romanians Everywhere (Departamentul pentru Românii de Pretutindeni), a government institution that provides services such as judicial criminal record certificates to Romanians living abroad.",
+  "fit_score": 3,
+  "fit_reason": "The source is a governmental service page focused on administrative documentation for the diaspora, not on construction, renovation, or real‑estate activities. While it reaches the target audience (Romanians abroad), it does not indicate any current building or renovation intent, so the fit with the ICP is low.",
+  "hooks": [
+    "Many diaspora members who request judicial certificates are also handling property matters (e.g., buying land, inheriting homes) and may be in the early stages of a construction project.",
+    "Partnering with the department to include a brief note about Ochi pe Șantier in their communications could reach a trusted audience already engaged with Romanian administrative services."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-09T18:41:03.111Z"
+}
