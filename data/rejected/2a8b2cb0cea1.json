@@ -1,0 +1,16 @@
+{
+  "id": "2a8b2cb0cea1",
+  "url": "https://forumulconstructiilor.ro/despre-noi/",
+  "title": "Despre noi - forumulconstructiilor.ro",
+  "snippet": "Despre noi | Forumul Construcțiilor\n\n## Despre noi\n\n„Forumul Construcțiilor” a fost creat pentru a facilita dialogul între profesioniști din domeniul construcțiilor, oferind un spațiu în care calitatea și relevanța conținutului sunt priorități. Ne dorim să aducem împreună expertiza și inovațiile din industrie, abordând subiecte esențiale precum digitalizarea, automatizarea și sustenabilitatea.\n\nScopul nostru este să creăm un mediu interactiv unde specialiștii pot colabora, discuta provocările curente și identifica soluții aplicabile, într-un cadru educativ și bine structurat.\n\nSales Director\n\n Cu aproape două decenii de experiență în vânzări enterprise și securitate cibernetică, Mircea Stremțan se ocupă de poziționarea SentryOT în piață — platforma de securitate cibernetică de nouă generație, concepută pentru infrastructura operațională critică. El colaborează cu operatori și dezvoltatori din domeniul centrelor de date, clădirilor inteligente și facilităților industriale pentru a atinge conformitatea NIS2, a elimina punctele oarbe operaționale și a transforma securitatea cibernetică într-un avantaj de business. Pe măsură ce amenințările cibernetice la adresa infrastructurii cresc în amploare și consecințe, Mircea îi ajută pe operatori să treacă decisiv de la expunere la reziliență — protejând sistemele care țin infrastructura în funcțiune. \n\nPreședinte\n\n Gheorghe Bălăceanu este un lider cu o vastă experiență în managementul dialogului social și în protecția drepturilor lucrăt",
+  "source_query": "forumconstructii.ro diaspora română construcție casă blog personal site -facebook.com -instagram.com -tiktok.com -youtube.com",
+  "discovered_at": "2026-10-13T19:46:12.814Z",
+  "who": "Forumul Construcțiilor is a Romanian construction industry forum aimed at professionals, featuring a sales director (Mircea Stremțan) and a president (Gheorghe Bălăceanu).",
+  "fit_score": 2,
+  "fit_reason": "The source is a forum for construction professionals, not targeting the Romanian diaspora building houses abroad; there is no evidence of diaspora audience, house‑building discussions, or need for remote site monitoring.",
+  "hooks": [
+    "mentions digitalization, automation, and sustainability in construction, which could align with a drone‑monitoring service"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-13T19:46:38.338Z"
+}
