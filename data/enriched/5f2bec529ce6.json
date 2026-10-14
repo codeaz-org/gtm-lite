@@ -1,0 +1,21 @@
+{
+  "id": "5f2bec529ce6",
+  "url": "https://www.eurocase.ro/",
+  "title": "Case structura din lemn, case modulare, case de lemn, fabrica de case, constructii case, proiectare case | Eurocase",
+  "snippet": "Case structura din lemn, case modulare, case de lemn, fabrica de case, constructii case, proiectare case | Eurocase \n\n## case \n\n## Despre Eurocase\n\n Eurocase este o companie care construiește case din lemn, case pe structură din lemn, case și cabane din lemn, cu o istorie de peste 20 ani. Rezistența la cutremur, izolare termică și fonică, preț redus, durabilitatea construcției și economii realizate pe termen lung. Datorită acestor avantaje decizia de a construi case pe structură de lemn este în concordanta cu noile tendințe de construcție. De asemenea, casele construite în acest sistem se adaptează oricarui stil arhitectural, atât tradițional cât și celui contemporan. Construcțiile din lemn prezintă o serie de avantaje categorice în comparație cu cele realizate din materiale clasice (BCA, caramidă, beton). Structura de rezistență a construcțiilor din lemn este realizată din material lemnos de rașinoase, utilizat în modul cel mai optim, consolidată de panouri tip OSB și de alte elemente metalice de legatură. Producția structurii de lemn se face în fabrica de la Câmpulung Muscel - Argeș. În showroom-ul nostru din București puteți găsi o gamă variată de produse de tâmplărie, parchet, uși de lemn masiv ... \n\n## Revista Eurocase\n\n Primul număr al unui ziar de specialitate în care veți afla tipsuri despre ce trebuie să știți atunci când aplicați pentru programul \"Prima casă\"; un interviu extrem de interesant cu Dl. ing. Marian Josanu - fondator EuroCase; află despre tâmplăria din l",
+  "source_query": "\"case pentru români din străinătate\" constructii site:ro -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-10-14T17:49:30.625Z",
+  "who": "Eurocase is a Romanian wood‑house manufacturer with over 20 years of experience, producing modular timber homes from its factory in Câmpulung Muscel and operating a showroom in Bucharest.",
+  "fit_score": 6,
+  "fit_reason": "Eurocase is a construction firm that builds houses in Romania and could serve diaspora clients; however, the source does not explicitly mention diaspora targeting or services for abroad‑based Romanians.",
+  "hooks": [
+    "20+ years in timber construction",
+    "Modular wood houses and showroom in Bucharest",
+    "Factory located in Câmpulung Muscel, Argeș",
+    "Potential to offer remote progress monitoring to diaspora clients building timber homes"
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-14T17:50:16.322Z",
+  "email": "comanda@eurocase.ro",
+  "email_source": "scraped https://eurocase.ro/contact"
+}
