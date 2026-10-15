@@ -1,0 +1,19 @@
+{
+  "id": "2a3b154a36e3",
+  "url": "https://ieseanul.ro/diaspora-se-intoarce-in-moldova-noul-val-de-case-si-garduri-de-beton-din-satele-romanesti-sigicom/",
+  "title": "Diaspora se întoarce în Moldova: noul val de case și garduri de beton din satele românești | Sigicom - Ieseanul",
+  "snippet": "Diaspora se întoarce în Moldova: noul val de case și garduri de beton din satele românești | Sigicom - Ieseanul\n\n# Diaspora se întoarce în Moldova: noul val de case și garduri de beton din satele românești | Sigicom\n\n- Victor Andrei Platon\n- aprilie 23, 2026\n- Stiri\n\nÎn satele din Iași, Suceava, Bacău și Vaslui, românii întorși din Italia, Spania sau alte țări din Diaspora construiesc altfel. Gardul de beton a devenit simbolul unei generații care aleg să rămână acasă.\n\n## Acasă, la capăt de drum lung\n\nIonel are 48 de ani. Șaptesprezece dintre ei i-a petrecut pe șantiere din Torino, ridicând case pentru alții. Anul acesta, pentru prima oară, ridică una pentru el. Într-un sat din județul Vaslui, la trei kilometri de drumul european pe care tatăl său mergea cândva cu căruța, Ionel a turnat fundația propriei case. La finalul verii, în jurul ei se va ridica un gard de beton. Nu din lemn, ca al bunicilor. Nu din plasă, ca al vecinilor din copilărie. Din beton, fiindcă Ionel vrea ca bucata lui de pământ să arate exact ca viața pe care o construiește: solidă, aliniată, pregătită pentru generațiile următoare.\n\nÎn satele Moldovei, din Iași până în Bacău, din Suceava până în Vrancea, povestea lui Ionel nu mai este o excepție. Este o tendință.\n\n## Fluxul s-a inversat: românii se întorc acasă\n\nDupă aproape două decenii de plecări masive spre Italia, Spania sau Germania, balanța s-a schimbat. Datele Eurostat arată că, din 2020 încoace, numărul românilor care revin în țară îl depășește pe c",
+  "source_query": "\"șantier progres\" diaspora site:forumconstructii.ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-15T17:39:22.721Z",
+  "who": "Ionel, a 48‑year‑old Romanian who spent 17 years working on construction sites in Torino, Italy, and is now building his own house with a concrete fence in a village in Vaslui county, Romania.",
+  "fit_score": 4,
+  "fit_reason": "The story shows a diaspora member with abroad construction experience who is actively building a home in Romania, aligning with the ICP’s focus on Romanians living abroad who build or renovate houses back home. However, the article does not confirm Ionel’s current residence abroad nor provide any contact information, which reduces the actionable fit.",
+  "hooks": [
+    "Ionel’s 17 years working on construction sites in Torino",
+    "His choice to build a concrete fence as a symbol of stability and lasting quality",
+    "The house is located in a village near the European road in Vaslui county",
+    "The broader trend of diaspora returning to build homes in Moldavia (Iași, Suceava, Bacău, Vaslui)"
+  ],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-15T17:39:57.458Z"
+}

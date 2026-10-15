@@ -1,0 +1,18 @@
+{
+  "id": "f715af25e6ca",
+  "url": "https://www.nexentbank.ro/Creditul-Ipotecar-ACASA-pentru-Diaspora",
+  "title": "Creditul Ipotecar ACASA pentru Diaspora",
+  "snippet": "Creditul Ipotecar ACASA pentru Diaspora \n\nDurată: 365 de zile\n\n# Lucrezi în străinătate și vrei să cumperi o casă în România? Alege Creditul Ipotecar ACASĂ pentru Diaspora!\n\n* Cursuri valutare cont curent\n\n| Persoană fizică | O lună* | 3 luni |\n| --- | --- | --- |\n| EUR | 0,60% | 1,00% |\n| RON | 5,75% | 6,75% |\n\n| Index | Ultima actualizare | Rată |\n| --- | --- | --- |\n| EURIBOR 12 LUNI | 14.10.2026 | 3.19100% |\n| EURIBOR 6 LUNI | 14.10.2026 | 2.90500% |\n| IRCC | 01.10.2026 | 5.57000% |\n| ROBOR 3 LUNI | 14.10.2026 | 6.09000% |\n| ROBOR 6 LUNI | 14.10.2026 | 6.14000% |\n| SARON 1MC+M1 | 14.10.2026 | -0.09740% |\n| SARON 3MC+M3 | 14.10.2026 | -0.04300% |\n| SARON 3MC+M6 | 14.10.2026 | 0.02800% |\n\n### Ai visat întotdeauna să îți achiziționezi o casă în România, dar locuiești și lucrezi în străinătate?\n\nAcum poți face acest pas cu ușurință, datorită Creditului Imobiliar ACASA destinat persoanelor care lucrează în străinătate.\n\nSuntem conștienți de provocările pe care le implică achiziționarea unei proprietăți în țara natală, mai ales atunci când locuiești și muncești în afara țării. De aceea, am creat acest credit imobiliar special, care îți oferă posibilitatea de a-ți realiza visul.\n\nCe beneficii aduce Creditul Imobiliar ACASA pentru diaspora?\n\n- Evaluare pe veniturile obținute în străinătate: Înțelegem că ai un loc de muncă stabil și venituri constante în străinătate. De aceea, la acordarea creditului, ne vom baza pe veniturile tale externe, fără a fi necesar un istoric de angajare",
+  "source_query": "\"case pentru români din străinătate\" site:ro -site:facebook.com -site:instagram.com -site:tiktok.com",
+  "discovered_at": "2026-10-15T17:39:17.107Z",
+  "who": "Nexent Bank is a Romanian financial institution offering mortgage loans (Creditul Ipotecar ACASA) specifically tailored for Romanian diaspora clients living and working abroad.",
+  "fit_score": 4,
+  "fit_reason": "The bank serves diaspora interested in purchasing property in Romania, which is an upstream signal of potential house‑building projects, but it does not itself indicate active construction, renovation, or planning of a build, making it a weak direct fit and more suitable as a referral partner.",
+  "hooks": [
+    "Offer mortgage solutions for diaspora buying homes in Romania",
+    "Clients will need oversight of construction after purchase",
+    "Highlight how drone monitoring complements mortgage financing by ensuring project transparency"
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-15T17:42:27.776Z"
+}
