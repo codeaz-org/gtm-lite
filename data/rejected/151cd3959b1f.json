@@ -1,0 +1,14 @@
+{
+  "id": "151cd3959b1f",
+  "url": "https://onpcsb.ro/ro/info/69e0ceafd6520536874694.pdf",
+  "title": "[PDF] RAPORT - O.N.P.C.S.B.",
+  "snippet": "## RAPORT\n\n### DE ACTUALIZARE A EVALUĂRII NAȚIONALE A RISCURILOR DE SPĂLARE A BANILOR ȘI FINANȚARE A TERORISMULUI\n\nOFICIUL \nNAȚIONAL DE \nPREVENIRE ȘI \nCOMBATERE A \nSPĂLĂRII \nBANILOR \n\nCUPRINS\n\n1. Introducere – pag. 4 \n1.1. Scopurile urmărite prin evaluarea națională a riscurilor – pag. 4 \n1.2. Rolul Oficiului Național de Prevenire și Combatere a Spălării Banilor – pag.4 \n1.3. Funcții principale – pag. 5 \n1.4. Cadrul juridic - Evoluții și modificări legislative – pag. 9 \n2. Ameninţările naţionale de spălare a banilor – pag. 13 \n2.1. Evaziunea fiscală – pag. 18 \n2.2. Înșelăciunea – pag. 31 \n2.3. Infracțiuni cu caracter transnațional – pag. 43 \n2.4. Folosirea cu rea credinta a bunurilor sau creditului societății – pag. 56 \n2.5. Corupție – pag. 67 \n2.6. Aspecte privind activitatea de raportoare a RTS-urilor către Oficiu în anul 2024 – \npag. 78 \n3. Ameninţările naţionale de finanţare a terorismului – pag. 82 \n4. Cooperare internațională - Risc transfrontalier – pag. 96 \n4.1. Cereri de informații și informări spontane primite de FIU România în perioada 2021 \n– 2024 – pag. 97 \n4.2. Cereri de informații și informări spontane trimise de FIU România în perioada 2021 \n– 2024 – pag. 101 \n5. RAPOARTE privind declarațiile de numerar depuse la trecerea frontierei de către \npersoane fizice la intrarea și ieșirea în/din UE prin punctele de frontieră ale \nRomâniei – pag. 107 \n5.1. Analiza datelor conținute în declarațiile de numerar la frontieră depuse de \npersoane fizice la intrarea și ieșire",
+  "source_query": "case pentru români din străinătate site:ro \"director\" \"constructii\" \"diaspora\" -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-10-16T17:11:54.076Z",
+  "who": "This is a Romanian government PDF report from the National Office for Prevention and Combating Money Laundering (ONPCSB) detailing the national assessment of money‑laundering and terrorism‑financing risks for 2021‑2024. It does not describe a person, company, or any diaspora construction activity.",
+  "fit_score": 2,
+  "fit_reason": "The source is an AML/CTF risk assessment report with no connection to Romanians abroad building houses, construction monitoring, or any relevant signals (Facebook groups, forums, YouTube vlogs, agencies, etc.). Therefore it offers virtually no fit with the ICP.",
+  "hooks": [],
+  "guessed_channel": "unknown",
+  "enriched_at": "2026-10-16T17:12:34.755Z"
+}
