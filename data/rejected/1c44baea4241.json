@@ -1,0 +1,16 @@
+{
+  "id": "1c44baea4241",
+  "url": "https://www.roportal.ro/director/tag/strainatate/nume.desc/200.htm",
+  "title": "Director Web < Roportal.ro",
+  "snippet": "Director Web < Roportal.ro\n\n## Director web\n\nDirectorul web contine o colectie de pagini de internet grupate pe domenii de interes.\n\n### RombadConstruct\n\n Rombadconstruct.ro este un site destinat domeniului de constructii si arhitectura, acesta oferind o gama foarte larga de informatii despre amenajari exterioare, amenajari interioare, design interior. \n\n### Romatermit\n\n Fabrica de panouri sandwich dispune de o linie de productie de o inalta tehnologie, intreg procesul de productie fiind computerizat. Avantajele productiei proprii sunt: pretul de achizitie scazut, comparativ cu produsele similare de pe piata, costurile de productie scazute se reflecta pozitiv in pretul produsului final, timpul de executie si manopera sunt considerabil reduse, livrare rapida si conditii de plata avantajoase,intr-un sistem flexibil. \n\n### Romasig\n\n Broker de asigurari din Oltenia autorizat de catre Comisia de Supraveghere a Asigurarilor. Romasig ofera servicii de consultanta in asigurari si management al riscului. \n\n### Romarketing\n\n Resurse umane, human resources, hr, recrutare, training, instruire, team building, certificare, angajari, consultanta in afaceri, consultanta firme, comunicare, coaching, agentie recrutare, angajare. \n\n### Romar\n\n Grupul de firme Romar este o institutie multifunctionala de diagnostic si asistenta medicala. Are sedii in maj \n\n### Romanul\n\n Ziarul romanilor din Spania, stiri si reportaje despre romanii din Spania, noutati din Spania si Romania, viata comunitatii roma",
+  "source_query": "case pentru români din străinătate site:ro \"director\" \"constructii\" \"diaspora\" -facebook.com -instagram.com -tiktok.com",
+  "discovered_at": "2026-10-16T17:11:54.075Z",
+  "who": "Roportal.ro is a Romanian web directory that categorizes sites by topic; under the \"strainatate\" (diaspora) tag it lists resources such as RombadConstruct, a construction and architecture information site.",
+  "fit_score": 2,
+  "fit_reason": "The page is a generic directory with no specific indication of Romanian diaspora individuals actively building or renovating homes in Romania; it does not show personal profiles, projects, or services targeting that audience.",
+  "hooks": [
+    "The directory includes construction‑related sites (RombadConstruct) that could be a placement opportunity to reach diaspora visitors interested in building."
+  ],
+  "guessed_channel": "contact-form",
+  "enriched_at": "2026-10-16T17:13:19.550Z"
+}
